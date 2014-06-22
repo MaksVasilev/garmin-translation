@@ -7999,11 +7999,15 @@
         <txt>Игра «Куда идти?»</txt>
     </str>
     <str>
+        <tag>TXT_Sight_N_Go_STR_M</tag>
+        <txt>Прицелился и пошёл</txt>
+    </str>
+    <str>
         <tag>TXT_Enter_Distance_STR_M</tag>
         <txt>Укажите расстояние</txt>
     </str>
     <str>
         <tag>TXT_Save_Projected_Waypoint_Message_STR_M</tag>
-        <txt>Получилась марш. точка</txt>
+        <txt>Цель на марш. точке</txt>
     </str>
 </gtt>
