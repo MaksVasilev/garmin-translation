@@ -1143,7 +1143,7 @@
 </str>
 <str>
 	<tag>TXT_Celsius_STR_M</tag>
-	<txt>по Цельсию</txt>
+	<txt>по Цельсию (°C)</txt>
 </str>
 <str>
 	<tag>TXT_Cemetery_STR</tag>
@@ -2273,7 +2273,7 @@
 </str>
 <str>
 	<tag>TXT_Fahrenheit_STR_M</tag>
-	<txt>Фаренгейт</txt>
+	<txt>по Фаренгейту (°F)</txt>
 </str>
 <str>
 	<tag>TXT_Failed_to_get_map_information__STR</tag>
@@ -3049,11 +3049,15 @@
 </str>
 <str>
 	<tag>TXT_Inches__Hg__STR_M</tag>
-	<txt>Дюймы (рт. ст.)</txt>
+	<txt>Дюймы рт. ст.</txt>
+</str>
+<str>
+	<tag>TXT_Millimeters__Hg__STR_M</tag>
+	<txt>мм рт. ст.</txt>
 </str>
 <str>
 	<tag>TXT_inches_STR_M</tag>
-	<txt>дюймы (рт. ст.)</txt>
+	<txt>дюймы рт. ст.</txt>
 </str>
 <str>
 	<tag>TXT_India_Zone_0_STR_M</tag>
@@ -5797,7 +5801,7 @@
 </str>
 <str>
 	<tag>TXT_Select_Water_Temperature_Units_STR_M</tag>
-	<txt>Выбрать ед. измерения температуры воды</txt>
+	<txt>Выбрать единицы измерения температуры</txt>
 </str>
 <str>
 	<tag>TXT_Send_STR_M</tag>
@@ -6413,7 +6417,7 @@
 </str>
 <str>
 	<tag>TXT_Temperature_STR_M</tag>
-	<txt>Температура воздуха</txt>
+	<txt>Температура</txt>
 </str>
 <str>
 	<tag>TXT_Temperature_Water_STR_M</tag>
@@ -7878,7 +7882,7 @@
         <txt>Без навигации</txt>
     </str>
     <str>
-        <tag>TXT_Elevation_Plot_STR_M</tag>
+        <tag>TXT_Elevation_Profile_STR_M</tag>
         <txt>График высот</txt>
     </str>
     <str>
