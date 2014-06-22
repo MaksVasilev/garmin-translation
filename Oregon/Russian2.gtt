@@ -7988,7 +7988,11 @@
         <tag>TXT_No_Geocaches_Found_Help_Text_STR_M</tag>
         <txt>Не найдено ни одного тайника.
 
-Посетите garmin.com/gecache что бы узнать что это такое и загрузить тайники.</txt>
+Посетите garmin.com/gecache что бы узнать что это и загрузить тайники.</txt>
+    </str>
+    <str>
+        <tag>TXT_No_Geocaches_STR_M</tag>
+        <txt>Не найдено ни одного тайника.</txt>
     </str>
     <str>
         <tag>TXT_Wherigo_STR_M</tag>
