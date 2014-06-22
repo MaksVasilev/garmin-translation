@@ -4769,15 +4769,15 @@
 </str>
 <str>
 	<tag>TXT_Play_Anywhere_STR_M</tag>
-	<txt>Играть везде</txt>
+	<txt>Играй везде!</txt>
 </str>
 <str>
 	<tag>TXT_Play_Anywhere_STR_S</tag>
-	<txt>Играть везде</txt>
+	<txt>Играй везде!</txt>
 </str>
 <str>
 	<tag>TXT_Play_STR_M</tag>
-	<txt>Прослушать</txt>
+	<txt>Играть</txt>
 </str>
 <str>
 	<tag>TXT_Plot_Type_STR_M</tag>
@@ -7983,5 +7983,15 @@
     <str>
         <tag>TXT_Garmin_Custom_Maps_cannnot_use_progressive_jpegs_STR_M</tag>
         <txt>Пользовательские карты Garmin не могут использовать JPEG со свойством «Прогрессивный».</txt>
+    </str>
+    <str>
+        <tag>TXT_No_Geocaches_Found_Help_Text_STR_M</tag>
+        <txt>Не найдено ни одного тайника.
+
+Посетите garmin.com/gecache что бы узнать что это такое и загрузить тайники.</txt>
+    </str>
+    <str>
+        <tag>TXT_Wherigo_STR_M</tag>
+        <txt>Игра «Куда идти?»</txt>
     </str>
 </gtt>
