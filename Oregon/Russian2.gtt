@@ -2817,7 +2817,7 @@
 </str>
 <str>
 	<tag>TXT_Guidance_Method_STR_S</tag>
-	<txt>Метод ведения</txt>
+	<txt>Метод прокладки</txt>
 </str>
 <str>
 	<tag>TXT_Guide_Services_STR</tag>
@@ -4525,7 +4525,7 @@
 </str>
 <str>
 	<tag>TXT_Off_Road_STR_M</tag>
-	<txt>Вне дорог</txt>
+	<txt>Напрямую</txt>
 </str>
 <str>
 	<tag>TXT_Off_Road_Transitions_STR_M</tag>
@@ -4601,7 +4601,7 @@
 </str>
 <str>
 	<tag>TXT_Optimize_Route_For_Selected_Vehicle_STR_M</tag>
-	<txt>Оптимизир. маршрут для выбранного автомобиля</txt>
+	<txt>Прокладыв. маршрут для выбранного транспорта</txt>
 </str>
 <str>
 	<tag>TXT_Orange_Black_STR</tag>
@@ -5045,7 +5045,7 @@
 </str>
 <str>
 	<tag>TXT_Recalculate_Off_Road_STR_M</tag>
-	<txt>Пересчит. вне дорог</txt>
+	<txt>Пересчит. напрямую</txt>
 </str>
 <str>
 	<tag>TXT_Recalculate_On_Road_STR_M</tag>
@@ -5569,7 +5569,7 @@
 </str>
 <str>
 	<tag>TXT_Select_A_Guidance_Method_STR_M</tag>
-	<txt>Выбрать метод выдачи инструкций</txt>
+	<txt>Выбрать метод поиска маршрута</txt>
 </str>
 <str>
 	<tag>TXT_Select_A_Map_Datum_STR_M</tag>
