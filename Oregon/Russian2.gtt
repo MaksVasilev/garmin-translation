@@ -5601,7 +5601,7 @@
 </str>
 <str>
 	<tag>TXT_Select_A_Track_Log_Recording_Rate_STR_M</tag>
-	<txt>Выбрать частоту обновл-я пройденного маршрута</txt>
+	<txt>Выбрать частоту записи пройденного маршрута</txt>
 </str>
 <str>
 	<tag>TXT_Select_A_Unit_Of_Measure_STR_M</tag>
@@ -5781,7 +5781,7 @@
 </str>
 <str>
 	<tag>TXT_Select_Track_Recording_Preference_STR_M</tag>
-	<txt>Выбрать парам. внесения записей в журнал</txt>
+	<txt>Выбрать режим записи трека</txt>
 </str>
 <str>
 	<tag>TXT_Select_Transfer_Item_STR_M</tag>
@@ -6629,7 +6629,7 @@
 </str>
 <str>
 	<tag>TXT_Track_Log_STR_M</tag>
-	<txt>Путевой журнал</txt>
+	<txt>Запись трека</txt>
 </str>
 <str>
 	<tag>TXT_Track_Manager_STR_M</tag>
@@ -7908,5 +7908,9 @@
     <str>
         <tag>TXT_Battery_Save_STR_M</tag>
         <txt>Энергосбережение</txt>
+    </str>
+    <str>
+        <tag>TXT_Color_STR_M</tag>
+        <txt>Цвет</txt>
     </str>
 </gtt>
