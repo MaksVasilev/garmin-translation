@@ -4021,7 +4021,7 @@
 </str>
 <str>
 	<tag>TXT_Miles_STR_M</tag>
-	<txt>Мили</txt>
+	<txt>мили</txt>
 </str>
 <str>
 	<tag>TXT_miles_STR_M</tag>
@@ -4933,7 +4933,7 @@
 </str>
 <str>
 	<tag>TXT_Project_Wpt_STR_M</tag>
-	<txt>Проек. марш. точки</txt>
+	<txt>Проекция марш. точки</txt>
 </str>
 <str>
 	<tag>TXT_Projection_STR</tag>
@@ -7986,16 +7986,24 @@
     </str>
     <str>
         <tag>TXT_No_Geocaches_Found_Help_Text_STR_M</tag>
-        <txt>Не найдено ни одного тайника.
-
-Посетите garmin.com/gecache что бы узнать что это и загрузить тайники.</txt>
+        <txt>Не найдено ни одного тайника.</txt>
     </str>
     <str>
         <tag>TXT_No_Geocaches_STR_M</tag>
-        <txt>Не найдено ни одного тайника.</txt>
+        <txt>Не найдено ни одного тайника.
+
+Узнайте что это на garmin.com/gecache и загрузите тайники.</txt>
     </str>
     <str>
         <tag>TXT_Wherigo_STR_M</tag>
         <txt>Игра «Куда идти?»</txt>
+    </str>
+    <str>
+        <tag>TXT_Enter_Distance_STR_M</tag>
+        <txt>Укажите расстояние</txt>
+    </str>
+    <str>
+        <tag>TXT_Save_Projected_Waypoint_Message_STR_M</tag>
+        <txt>Получилась марш. точка</txt>
     </str>
 </gtt>
