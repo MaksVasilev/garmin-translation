@@ -7870,8 +7870,8 @@
         <txt>Секундомер</txt>
     </str>
     <str>
-        <tag>TXT_Сustom_STR_L</tag>
-        <txt>настройка</txt>
+        <tag>TXT_Сustom_STR_X</tag>
+        <txt>настройка…</txt>
     </str>
     <str>
         <tag>TXT_When_Not_Navigating_STR_M</tag>
@@ -7979,5 +7979,9 @@
     <str>
         <tag>TXT_Large_Data_Field_STR_M</tag>
         <txt>Большие цифры</txt>
+    </str>
+    <str>
+        <tag>TXT_Garmin_Custom_Maps_cannnot_use_progressive_jpegs_STR_M</tag>
+        <txt>Пользовательские карты Garmin не могут использовать JPEG со свойством «Прогрессивный».</txt>
     </str>
 </gtt>
