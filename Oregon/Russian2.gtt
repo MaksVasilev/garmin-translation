@@ -5904,10 +5904,6 @@
 	<txt>Показать найденное</txt>
 </str>
 <str>
-	<tag>TXT_Show_on_Main_Map_STR_S</tag>
-	<txt>Показать на карте</txt>
-</str>
-<str>
 	<tag>TXT_Shower_STR</tag>
 	<txt>душ</txt>
 </str>
@@ -7942,6 +7938,10 @@
         <txt>Выбрать цвет</txt>
     </str>
     <str>
+        <tag>TXT_Show_on_Main_Map_STR_S</tag>
+        <txt>Показывать на карте</txt>
+    </str>
+    <str>
         <tag>TXT_Hide_on_Main_Map_STR_S</tag>
         <txt>Не показывать</txt>
     </str>
@@ -7953,7 +7953,8 @@
     </str>
     <str>
         <tag>TXT_Do_you_really_want_to_delete_track__STR_M</tag>
-        <txt>Удалить трек</txt>
+        <txt>Удалить трек?
+</txt>
     </str>
 </gtt>
 
