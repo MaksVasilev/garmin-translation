@@ -1727,7 +1727,7 @@
 </str>
 <str>
 	<tag>TXT_Do_you_really_want_to_delete_all_routes__STR_M</tag>
-	<txt>Удалить все маршрут ы?</txt>
+	<txt>Удалить все маршруты?</txt>
 </str>
 <str>
 	<tag>TXT_Do_you_really_want_to_delete_all_waypoints__STR_M</tag>
@@ -1751,7 +1751,7 @@
 </str>
 <str>
 	<tag>TXT_Do_you_really_want_to_remove_all_waypoints_from_the_route__STR_M</tag>
-	<txt>Удалить все маршрут ные точки из маршрут а?</txt>
+	<txt>Удалить все маршрутные точки из маршрута?</txt>
 </str>
 <str>
 	<tag>TXT_Do_you_really_want_to_reset_the_max_speed__STR_M</tag>
@@ -1759,7 +1759,7 @@
 </str>
 <str>
 	<tag>TXT_Do_you_really_want_to_reset_trip_data__STR_M</tag>
-	<txt>Сброс данных поездки ?</txt>
+	<txt>Сброс данных поездки?</txt>
 </str>
 <str>
 	<tag>TXT_Do_you_want_to_save_projected_waypoint_STR_M</tag>
@@ -1767,7 +1767,7 @@
 </str>
 <str>
 	<tag>TXT_Do_you_want_to_simulate_driving_this_route__STR_M</tag>
-	<txt>Моделировать движение по этому маршруту?</txt>
+	<txt>Имитировать движение по этому маршруту?</txt>
 </str>
 <str>
 	<tag>TXT_Dodge_Dealers_STR</tag>
@@ -7119,7 +7119,7 @@
 </str>
 <str>
 	<tag>TXT_View_Map_STR_M</tag>
-	<txt>Просмотр карты</txt>
+	<txt>Просмотр трека</txt>
 </str>
 <str>
 	<tag>TXT_Violet_STR</tag>
@@ -7891,7 +7891,7 @@
     </str>
     <str>
         <tag>TXT_MAN_OVERBOARD_message1_STR_M</tag>
-        <txt>Человек за бортом: точка отмечена «MOB», начать навигацию?</txt>
+        <txt>Человек за бортом: точка отмечена как «MOB», начать навигацию?</txt>
     </str>
     <str>
         <tag>TXT_Waypoint_Averaging_STR_M</tag>
@@ -7943,6 +7943,17 @@
     </str>
     <str>
         <tag>TXT_Hide_on_Main_Map_STR_S</tag>
-        <txt>Не показывать на карте</txt>
+        <txt>Не показывать</txt>
+    </str>
+    <str>
+        <tag>TXT_Trouble_finding_satellites__STR_M</tag>
+        <txt>Не удаётся обнаружить спутники.
+
+Продолжить поиск?</txt>
+    </str>
+    <str>
+        <tag>TXT_Do_you_really_want_to_delete_track__STR_M</tag>
+        <txt>Удалить трек</txt>
     </str>
 </gtt>
+
