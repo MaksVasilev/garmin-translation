@@ -7902,6 +7902,14 @@
         <txt>Сохранить часть трека</txt>
     </str>
     <str>
+        <tag>TXT_Select_First_Track_Segment_STR_M</tag>
+        <txt>Начало трека для сохранения</txt>
+    </str>
+    <str>
+        <tag>TXT_Select_Last_Track_Segment_STR_M</tag>
+        <txt>Конец трека для сохранения</txt>
+    </str>
+    <str>
         <tag>TXT_Screen_Calibration_STR_M</tag>
         <txt>Калибровка экрана</txt>
     </str>
@@ -7957,4 +7965,3 @@
 </txt>
     </str>
 </gtt>
-
