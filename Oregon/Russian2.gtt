@@ -7933,4 +7933,16 @@
         <tag>TXT_Fishing_STR_M</tag>
         <txt>Рыболовный</txt>
     </str>
+    <str>
+        <tag>TXT_Create_Waypoint_STR_M</tag>
+        <txt>&lt;Создать точку&gt;</txt>
+    </str>
+    <str>
+        <tag>TXT_Set_Color_M</tag>
+        <txt>Выбрать цвет</txt>
+    </str>
+    <str>
+        <tag>TXT_Hide_on_Main_Map_STR_S</tag>
+        <txt>Не показывать на карте</txt>
+    </str>
 </gtt>
