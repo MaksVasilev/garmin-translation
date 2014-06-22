@@ -819,7 +819,7 @@
 </str>
 <str>
 	<tag>TXT_Bed___Breakfast_Inn_STR</tag>
-	<txt>Гостиница «ночлег и завтрак»</txt>
+	<txt>«Ночлег и завтрак»</txt>
 </str>
 <str>
 	<tag>TXT_BEGIN_STR_S</tag>
@@ -5649,7 +5649,7 @@
 </str>
 <str>
 	<tag>TXT_Select_Dashboard_STR_M</tag>
-	<txt>Выбрать панель управления</txt>
+	<txt>Выбрать панель приборов</txt>
 </str>
 <str>
 	<tag>TXT_Select_Depth_Units_STR_M</tag>
@@ -5805,7 +5805,7 @@
 </str>
 <str>
 	<tag>TXT_Send_STR_M</tag>
-	<txt>Отпр.</txt>
+	<txt>Отправить</txt>
 </str>
 <str>
 	<tag>TXT_SEP_STR</tag>
@@ -6721,7 +6721,7 @@
 </str>
 <str>
 	<tag>TXT_Trip_Computer_STR_M</tag>
-	<txt>Счетчик движения</txt>
+	<txt>Панель приборов</txt>
 </str>
 <str>
 	<tag>TXT_TRIP_ODOM_STR_S</tag>
@@ -7863,10 +7863,10 @@
     </str>
     <str>
         <tag>TXT_Dashboard_STR_M</tag>
-        <txt>Контрольная панель</txt>
+        <txt>Панель приборов</txt>
     </str>
     <str>
-        <tag>TXT_Stopwatch_STR</tag>
+        <tag>TXT_Stopwatch_STR_L</tag>
         <txt>Секундомер</txt>
     </str>
     <str>
@@ -7963,5 +7963,21 @@
         <tag>TXT_Do_you_really_want_to_delete_track__STR_M</tag>
         <txt>Удалить трек?
 </txt>
+    </str>
+    <str>
+        <tag>TXT_Geocaching_Active_STR_M</tag>
+        <txt>Геокешинг: Активный</txt>
+    </str>
+    <str>
+        <tag>TXT_Geocaching_Nearest_STR_M</tag>
+        <txt>Геокешинг: Рядом</txt>
+    </str>
+    <str>
+        <tag>TXT_Small_Data_Fields_STR_M</tag>
+        <txt>Маленькие цифры</txt>
+    </str>
+    <str>
+        <tag>TXT_Large_Data_Field_STR_M</tag>
+        <txt>Большие цифры</txt>
     </str>
 </gtt>
