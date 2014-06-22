@@ -7842,11 +7842,11 @@
         <txt>Показывать рельеф</txt>
     </str>
     <str>
-        <tag>TXT_Do_not_show_STR_M</tag>
+        <tag>TXT_Shaded_Relief_Hide_STR_M</tag>
         <txt>Не показывать</txt>
     </str>
     <str>
-        <tag>TXT_Show_if_Available_STR_M</tag>
+        <tag>TXT_Shaded_Relief_Show_STR_M</tag>
         <txt>Если доступен</txt>
     </str>
     <str>
