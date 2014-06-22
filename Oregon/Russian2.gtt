@@ -1,0 +1,7912 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gtt xmlns="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1 http://www.garmin.com/xmlschemas/GarminTextTranslationv1.xsd" >
+<hdr>
+	<lang>Русский2</lang>
+	<desc>Русский2</desc>
+	<type>Primary</type>
+	<sort>0</sort>
+	<cpage>65001</cpage>
+	<pnum>006-D1146-99</pnum>
+	<ver>9.20</ver>
+</hdr>
+<str>
+	<tag>TXT_LANG_ID_STR_M</tag>
+	<txt>Русский (правильный)</txt>
+</str>
+<str>
+	<tag>TXT_12_Hour_STR_M</tag>
+	<txt>12 часов</txt>
+</str>
+<str>
+	<tag>TXT_15_Seconds_STR_M</tag>
+	<txt>15 секунд</txt>
+</str>
+<str>
+	<tag>TXT_1_Minute_STR_M</tag>
+	<txt>1 минута</txt>
+</str>
+<str>
+	<tag>TXT_1st_STR_M</tag>
+	<txt>1-й</txt>
+</str>
+<str>
+	<tag>TXT_24_Hour_STR_M</tag>
+	<txt>24 часа</txt>
+</str>
+<str>
+	<tag>TXT_2_Minutes_STR_M</tag>
+	<txt>2 минуты</txt>
+</str>
+<str>
+	<tag>TXT_2nd_STR_M</tag>
+	<txt>2-й</txt>
+</str>
+<str>
+	<tag>TXT_30_Seconds_STR_M</tag>
+	<txt>30 секунд</txt>
+</str>
+<str>
+	<tag>TXT_3D_View_STR_M</tag>
+	<txt>3D вид</txt>
+</str>
+<str>
+	<tag>TXT_3rd_STR_M</tag>
+	<txt>3-й</txt>
+</str>
+<str>
+	<tag>TXT_4th_STR_M</tag>
+	<txt>4-й</txt>
+</str>
+<str>
+	<tag>TXT_5th_STR_M</tag>
+	<txt>5-й</txt>
+</str>
+<str>
+	<tag>TXT_6th_STR_M</tag>
+	<txt>6-й</txt>
+</str>
+<str>
+	<tag>TXT_7th_STR_M</tag>
+	<txt>7-й</txt>
+</str>
+<str>
+	<tag>TXT_8th_STR_M</tag>
+	<txt>8-й</txt>
+</str>
+<str>
+	<tag>TXT__Destination_STR</tag>
+	<txt> Символ</txt>
+</str>
+<str>
+	<tag>TXT__Destinations_STR</tag>
+	<txt> Пункты назначения</txt>
+</str>
+<str>
+	<tag>TXT__of__STR</tag>
+	<txt> из</txt>
+</str>
+<str>
+	<tag>TXT__to__STR</tag>
+	<txt> к</txt>
+</str>
+<str>
+	<tag>TXT__Via_Point_STR</tag>
+	<txt> Промежуточная точка</txt>
+</str>
+<str>
+	<tag>TXT__Via_Points_STR</tag>
+	<txt> Промежуточные точки</txt>
+</str>
+<str>
+	<tag>TXT_A__Green_to_Starboard__STR</tag>
+	<txt>A (зеленый справа)</txt>
+</str>
+<str>
+	<tag>TXT_A_Recent_Find_STR_M</tag>
+	<txt>...Недавний результат</txt>
+</str>
+<str>
+	<tag>TXT_A_Waypoint_STR_M</tag>
+	<txt>...Маршрутная точка</txt>
+</str>
+<str>
+	<tag>TXT_About_STR_M</tag>
+	<txt>О программе...</txt>
+</str>
+<str>
+	<tag>TXT_Accessory_Not_Supported_On_Port_STR_M</tag>
+	<txt>Устройство подключено не к тому переходнику.</txt>
+</str>
+<str>
+	<tag>TXT_Accessory_Not_Supported_STR_M</tag>
+	<txt>Этот аксессуар не поддерживается.</txt>
+</str>
+<str>
+	<tag>TXT_Acquiring_Satellites_STR_L</tag>
+	<txt>Поиск спутников</txt>
+</str>
+<str>
+	<tag>TXT_Actions_STR_M</tag>
+	<txt>Действия</txt>
+</str>
+<str>
+	<tag>TXT_Active_Route_STR_M</tag>
+	<txt>Активный маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Add_Comment_STR_M</tag>
+	<txt>Новый комментарий</txt>
+</str>
+<str>
+	<tag>TXT_Add_Profile_STR_M</tag>
+	<txt>&lt;Создать профиль&gt;</txt>
+</str>
+<str>
+	<tag>TXT_Address_STR</tag>
+	<txt>Адрес</txt>
+</str>
+<str>
+	<tag>TXT_Addresses_STR_M</tag>
+	<txt>Адреса</txt>
+</str>
+<str>
+	<tag>TXT_Advanced_STR_M</tag>
+	<txt>Расширен.парам.карт</txt>
+</str>
+<str>
+	<tag>TXT_Aerial_Photo_STR</tag>
+	<txt>Аэрофотоснимки</txt>
+</str>
+<str>
+	<tag>TXT_ahead_STR_L</tag>
+	<txt>впереди</txt>
+</str>
+<str>
+	<tag>TXT_Air_Transportation_STR</tag>
+	<txt>Воздушный транспорт</txt>
+</str>
+<str>
+	<tag>TXT_Aircraft_Parking_Paved_STR</tag>
+	<txt>Помост/Площадка</txt>
+</str>
+<str>
+	<tag>TXT_Aircraft_Parking_Unpaved_STR</tag>
+	<txt>Грунтовая</txt>
+</str>
+<str>
+	<tag>TXT_Aircraft_Road_STR</tag>
+	<txt>Взлетная полоса</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Beacon_STR</tag>
+	<txt>Навигационный знак</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Blast_Pad_STR</tag>
+	<txt>Опасная зона</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Building_STR</tag>
+	<txt>Строение</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Clearway_STR</tag>
+	<txt>Остановка запрещена</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Diagram_Pt_STR</tag>
+	<txt>Точка</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Displaced_Threshold_STR</tag>
+	<txt>Перемещенный порог</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Extents_STR</tag>
+	<txt>Зона аэропорта</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Helipad_STR</tag>
+	<txt>Вертолетная площадка</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Hotspot_STR</tag>
+	<txt>Активная зона</txt>
+</str>
+<str>
+	<tag>TXT_Airport_LAHSO_STR</tag>
+	<txt>LAHSO</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Overrun_Area_STR</tag>
+	<txt>Зона превышения</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Runway_Closed_STR</tag>
+	<txt>Закрытая взлетная полоса</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Runway_Construction_STR</tag>
+	<txt>Строительные работы</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Runway_STR</tag>
+	<txt>Взлётная полоса</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Runway_Threshold_STR</tag>
+	<txt>Порог взлетно-посадочной полосы</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Runway_Unpaved_STR</tag>
+	<txt>Грунтовая взлетно-посадочная полоса</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Stopway_STR</tag>
+	<txt>Посадочная полоса</txt>
+</str>
+<str>
+	<tag>TXT_Airport_STR</tag>
+	<txt>Аэропорт</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Taxiway_Closed_STR</tag>
+	<txt>Закрытая рулежная дорожка</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Taxiway_Int_STR</tag>
+	<txt>Рулежная дорожка</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Taxiway_STR</tag>
+	<txt>Рулежная дорожка</txt>
+</str>
+<str>
+	<tag>TXT_Airport_Water_STR</tag>
+	<txt>Вода</txt>
+</str>
+<str>
+	<tag>TXT_Airy_STR</tag>
+	<txt>Эри</txt>
+</str>
+<str>
+	<tag>TXT_Alamo_Rentals_STR</tag>
+	<txt>Прокат Alamo</txt>
+</str>
+<str>
+	<tag>TXT_Alarm_Clock_STR_M</tag>
+	<txt>Будильник</txt>
+</str>
+<str>
+	<tag>TXT_Alarm_Confirm_Message_1_STR_M</tag>
+	<txt>Сигнал устройства установлен на</txt>
+</str>
+<str>
+	<tag>TXT_Alarm_Confirm_Message_2_STR_M</tag>
+	<txt>. Хотите выключить устройство?</txt>
+</str>
+<str>
+	<tag>TXT_Alarm_STR</tag>
+	<txt>Сигнал:</txt>
+</str>
+<str>
+	<tag>TXT_Alert__STR</tag>
+	<txt>Предупреждение:</txt>
+</str>
+<str>
+	<tag>TXT_Alert_Information__STR</tag>
+	<txt>Сведения об оповещении:</txt>
+</str>
+<str>
+	<tag>TXT_Alert_STR_X</tag>
+	<txt>Предупреждение:</txt>
+</str>
+<str>
+	<tag>TXT_Alert_Zone_STR</tag>
+	<txt>Зона оповещения</txt>
+</str>
+<str>
+	<tag>TXT_Alkaline_STR_M</tag>
+	<txt>Алкалиновая</txt>
+</str>
+<str>
+	<tag>TXT_All_Categories_STR_M</tag>
+	<txt>Все категории</txt>
+</str>
+<str>
+	<tag>TXT_All_POI_STR_M</tag>
+	<txt>Все объекты</txt>
+</str>
+<str>
+	<tag>TXT_Alley_STR</tag>
+	<txt>Аллея</txt>
+</str>
+<str>
+	<tag>TXT_Almaty_STR_X</tag>
+	<txt>Алматы</txt>
+</str>
+<str>
+	<tag>TXT_Alternating_Flashing_STR</tag>
+	<txt>Переменный проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Alternating_Group_Flashing_STR</tag>
+	<txt>Переменный группопроблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Alternating_Occulting_STR</tag>
+	<txt>Переменный затмевающийся</txt>
+</str>
+<str>
+	<tag>TXT_Alternating_STR</tag>
+	<txt>Переменный</txt>
+</str>
+<str>
+	<tag>TXT_Altimeter_Cal_Fail_STR_M</tag>
+	<txt>Ошибка калибровки. Недостаточно данных для калибровки альтиметра. Доп. сведения см. в руководстве</txt>
+</str>
+<str>
+	<tag>TXT_Altimeter_Calibration_STR_M</tag>
+	<txt>Калибрвк. альтиметра</txt>
+</str>
+<str>
+	<tag>TXT_Altimeter_STR_M</tag>
+	<txt>Альтиметр</txt>
+</str>
+<str>
+	<tag>TXT_Altitude_STR_M</tag>
+	<txt>Высота</txt>
+</str>
+<str>
+	<tag>TXT_ALTITUDE_STR_S</tag>
+	<txt>Высота</txt>
+</str>
+<str>
+	<tag>TXT_Always_STR_M</tag>
+	<txt>Всегда</txt>
+</str>
+<str>
+	<tag>TXT_AMB_PRES_STR_S</tag>
+	<txt>Атм. давление</txt>
+</str>
+<str>
+	<tag>TXT_Amber_STR</tag>
+	<txt>Янтарный</txt>
+</str>
+<str>
+	<tag>TXT_Ambient_Pressure_STR_M</tag>
+	<txt>Атм. давление</txt>
+</str>
+<str>
+	<tag>TXT_American_Express_STR</tag>
+	<txt>American Express</txt>
+</str>
+<str>
+	<tag>TXT_American_STR</tag>
+	<txt>Американская</txt>
+</str>
+<str>
+	<tag>TXT_Amusement_Theme_Park_STR</tag>
+	<txt>Парк аттракционов/тематический парк</txt>
+</str>
+<str>
+	<tag>TXT_Anchor_Drag_Alarm_STR_S</tag>
+	<txt>Сигнал дрейфа якоря</txt>
+</str>
+<str>
+	<tag>TXT_Anchorage_Area_STR</tag>
+	<txt>Зона якорных стоянок</txt>
+</str>
+<str>
+	<tag>TXT_Anchorage_Berths_STR</tag>
+	<txt>Якорное место</txt>
+</str>
+<str>
+	<tag>TXT_Anchorage_STR</tag>
+	<txt>Якорная стоянка</txt>
+</str>
+<str>
+	<tag>TXT_Anchorages_STR_M</tag>
+	<txt>Якорные стоянки</txt>
+</str>
+<str>
+	<tag>TXT_Anchoring_and_Fishing_Prohibited_STR</tag>
+	<txt>Постановка на якорь и рыбная ловля запрещена</txt>
+</str>
+<str>
+	<tag>TXT_Anchoring_Prohibited_STR</tag>
+	<txt>Постановка на якорь запрещена</txt>
+</str>
+<str>
+	<tag>TXT_Answer_STR_M</tag>
+	<txt>Ответить</txt>
+</str>
+<str>
+	<tag>TXT_Apparel_STR</tag>
+	<txt>Одежда</txt>
+</str>
+<str>
+	<tag>TXT_Approaching_STR_M</tag>
+	<txt>Приближение</txt>
+</str>
+<str>
+	<tag>TXT_Approaching_Turn_STR_M</tag>
+	<txt>Приближение</txt>
+</str>
+<str>
+	<tag>TXT_APR_STR</tag>
+	<txt>АПР</txt>
+</str>
+<str>
+	<tag>TXT_April_STR_M</tag>
+	<txt>Апрель</txt>
+</str>
+<str>
+	<tag>TXT_Arch_STR</tag>
+	<txt>Арка</txt>
+</str>
+<str>
+	<tag>TXT_Are_You_Sure__Settings_STR_M</tag>
+	<txt>Восстановить заводские настройки для всех параметров?</txt>
+</str>
+<str>
+	<tag>TXT_Are_You_Sure__Trip_Data_STR_M</tag>
+	<txt>Сбросить все данные о путешествии (время, расстояния, средние скорости и т.д.)?</txt>
+</str>
+<str>
+	<tag>TXT_Area_Calculation_STR_M</tag>
+	<txt>Расчет площади</txt>
+</str>
+<str>
+	<tag>TXT_Area_STR</tag>
+	<txt>Зона</txt>
+</str>
+<str>
+	<tag>TXT_Arena_Track_STR</tag>
+	<txt>Стадион/трек</txt>
+</str>
+<str>
+	<tag>TXT_Arrive_STR_M</tag>
+	<txt>Прибытие</txt>
+</str>
+<str>
+	<tag>TXT_Arriving_at_Destination_STR_M</tag>
+	<txt>Прибытие в</txt>
+</str>
+<str>
+	<tag>TXT_Arriving_STR_M</tag>
+	<txt>Прибытие</txt>
+</str>
+<str>
+	<tag>TXT_Arroyo_STR</tag>
+	<txt>Сухое русло</txt>
+</str>
+<str>
+	<tag>TXT_Artificial_Reef_STR</tag>
+	<txt>Искусственный риф</txt>
+</str>
+<str>
+	<tag>TXT_Asian_STR</tag>
+	<txt>Азиатская</txt>
+</str>
+<str>
+	<tag>TXT_at_STR_M</tag>
+	<txt>у</txt>
+</str>
+<str>
+	<tag>TXT_ATM_STR</tag>
+	<txt>Банкомат</txt>
+</str>
+<str>
+	<tag>TXT_Attraction_STR</tag>
+	<txt>Достопримечательность</txt>
+</str>
+<str>
+	<tag>TXT_Attractions_STR</tag>
+	<txt>Достопримечательности</txt>
+</str>
+<str>
+	<tag>TXT_Attractions_STR_M</tag>
+	<txt>Достопримечат-и</txt>
+</str>
+<str>
+	<tag>TXT_Auckland_STR_X</tag>
+	<txt>Окленд</txt>
+</str>
+<str>
+	<tag>TXT_AUG_STR</tag>
+	<txt>АВГ</txt>
+</str>
+<str>
+	<tag>TXT_August_STR_M</tag>
+	<txt>Август</txt>
+</str>
+<str>
+	<tag>TXT_Australia_Adelaide_STR_X</tag>
+	<txt>Аделаида</txt>
+</str>
+<str>
+	<tag>TXT_Australia_Brisbane_STR_X</tag>
+	<txt>Брисбен</txt>
+</str>
+<str>
+	<tag>TXT_Australia_Perth_STR_X</tag>
+	<txt>Перт</txt>
+</str>
+<str>
+	<tag>TXT_Australia_Tasmania_STR_X</tag>
+	<txt>Тасмания</txt>
+</str>
+<str>
+	<tag>TXT_Australian_National_STR</tag>
+	<txt>Австралийский национальный</txt>
+</str>
+<str>
+	<tag>TXT_Austrian_Grid_STR_M</tag>
+	<txt>Австрийская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Author_STR_M</tag>
+	<txt>Автор</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Calibration_STR_S</tag>
+	<txt>Автокалибровка</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Fuel_STR</tag>
+	<txt>Топливо для автомобилей</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Rental_STR</tag>
+	<txt>Прокат автомобилей</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Repair_STR</tag>
+	<txt>Автомастерская</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Service_STR</tag>
+	<txt>Автосервис</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Services_STR</tag>
+	<txt>Автосервис</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Services_STR_M</tag>
+	<txt>Автосервис</txt>
+</str>
+<str>
+	<tag>TXT_Auto_STR_M</tag>
+	<txt>Авто</txt>
+</str>
+<str>
+	<tag>TXT_Auto_Zoom_STR_M</tag>
+	<txt>Автомасштабир-ние</txt>
+</str>
+<str>
+	<tag>TXT_Automatic_STR_M</tag>
+	<txt>Автоматически</txt>
+</str>
+<str>
+	<tag>TXT_Automobile_Club_STR</tag>
+	<txt>Автоклуб</txt>
+</str>
+<str>
+	<tag>TXT_Automotive_Mode_STR_M</tag>
+	<txt>Автомобильн. режим</txt>
+</str>
+<str>
+	<tag>TXT_Automotive_STR_M</tag>
+	<txt>Автомобильный</txt>
+</str>
+<str>
+	<tag>TXT_Autopilot_Mode_STR_S</tag>
+	<txt>Режим автопилота</txt>
+</str>
+<str>
+	<tag>TXT_Average_Day_STR_M</tag>
+	<txt>Средний день</txt>
+</str>
+<str>
+	<tag>TXT_Avg_Ascent_STR_M</tag>
+	<txt>Подъем - Средний</txt>
+</str>
+<str>
+	<tag>TXT_AVG_ASCNT_STR_S</tag>
+	<txt>Ср. подъем</txt>
+</str>
+<str>
+	<tag>TXT_Avg_Descent_STR_M</tag>
+	<txt>Спуск - Средний</txt>
+</str>
+<str>
+	<tag>TXT_AVG_DSCNT_STR_S</tag>
+	<txt>Ср. спуск</txt>
+</str>
+<str>
+	<tag>TXT_Avg_Lap_STR_S</tag>
+	<txt>Средний круг</txt>
+</str>
+<str>
+	<tag>TXT_AVG_SPD_STR_S</tag>
+	<txt>Ср. общая</txt>
+</str>
+<str>
+	<tag>TXT_Avis_Airport_STR</tag>
+	<txt>Avis в аэропорту</txt>
+</str>
+<str>
+	<tag>TXT_Avis_Non_Airport_STR</tag>
+	<txt>Avis не в аэропорту</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_Carpool_Lanes_STR_M</tag>
+	<txt>Избегать пассажирские полосы?</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_Highways_STR_M</tag>
+	<txt>Избегать шоссе?</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_STR_M</tag>
+	<txt>Не использовать</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_to_STR</tag>
+	<txt>к</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_Toll_Roads_STR_M</tag>
+	<txt>Избегать платных дорог?</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_U_Turns_STR_M</tag>
+	<txt>Избегать разворотов?</txt>
+</str>
+<str>
+	<tag>TXT_Avoid_Unpaved_Roads_STR_M</tag>
+	<txt>Избегать грунтовых дорог?</txt>
+</str>
+<str>
+	<tag>TXT_Avoidance_Setup_STR_M</tag>
+	<txt>Настр. нежелат. мест</txt>
+</str>
+<str>
+	<tag>TXT_Awash_At_Chart_Datum_STR</tag>
+	<txt>Вровень с водой на нуле глубин</txt>
+</str>
+<str>
+	<tag>TXT_Azimuth_Of_Center_Line_STR_S</tag>
+	<txt>Азимут осевой линии</txt>
+</str>
+<str>
+	<tag>TXT_B__Red_to_Starboard__STR</tag>
+	<txt>B (красный справа)</txt>
+</str>
+<str>
+	<tag>TXT_Back_STR</tag>
+	<txt>Назад</txt>
+</str>
+<str>
+	<tag>TXT_Background_STR_M</tag>
+	<txt>Фон</txt>
+</str>
+<str>
+	<tag>TXT_Backlight_Timeout_STR_S</tag>
+	<txt>Время подсветки</txt>
+</str>
+<str>
+	<tag>TXT_Bagel_Donut_STR</tag>
+	<txt>Бублики/Пончики</txt>
+</str>
+<str>
+	<tag>TXT_Bait_and_Tackle_STR</tag>
+	<txt>Приманки и снасти</txt>
+</str>
+<str>
+	<tag>TXT_bait_STR</tag>
+	<txt>наживка</txt>
+</str>
+<str>
+	<tag>TXT_Bangkok_STR_X</tag>
+	<txt>Бангкок</txt>
+</str>
+<str>
+	<tag>TXT_Bank_ATM_STR</tag>
+	<txt>Банк/банкомат</txt>
+</str>
+<str>
+	<tag>TXT_Bar_Nightclub_STR</tag>
+	<txt>Бар/ночной клуб</txt>
+</str>
+<str>
+	<tag>TXT_Bar_Pub_STR</tag>
+	<txt>Бар/Паб</txt>
+</str>
+<str>
+	<tag>TXT_Barbecue_STR</tag>
+	<txt>Барбекю</txt>
+</str>
+<str>
+	<tag>TXT_Barometer_Mode_STR_S</tag>
+	<txt>Режим барометра</txt>
+</str>
+<str>
+	<tag>TXT_Barometric_Pressure_STR_M</tag>
+	<txt>Барометрич.давление</txt>
+</str>
+<str>
+	<tag>TXT_Base_Map_STR_M</tag>
+	<txt>базовая карта</txt>
+</str>
+<str>
+	<tag>TXT_Basin_STR</tag>
+	<txt>Водоём</txt>
+</str>
+<str>
+	<tag>TXT_Batteries_Low_STR_M</tag>
+	<txt>Низкий заряд батарей</txt>
+</str>
+<str>
+	<tag>TXT_Batteries_Too_Low_For_Backlight_STR_M</tag>
+	<txt>Низкий заряд батарей для полной подсветки</txt>
+</str>
+<str>
+	<tag>TXT_Battery_config_STR_S</tag>
+	<txt>Отсек для</txt>
+</str>
+<str>
+	<tag>TXT_Battery_Level_STR_M</tag>
+	<txt>Уровень батареи</txt>
+</str>
+<str>
+	<tag>TXT_Battery_Type_STR_M</tag>
+	<txt>Тип батареи</txt>
+</str>
+<str>
+	<tag>TXT_Baud_STR_S</tag>
+	<txt>Бод</txt>
+</str>
+<str>
+	<tag>TXT_Bay_STR</tag>
+	<txt>Бухта</txt>
+</str>
+<str>
+	<tag>TXT_Beach_STR</tag>
+	<txt>Пляж</txt>
+</str>
+<str>
+	<tag>TXT_Beacon_STR</tag>
+	<txt>Навигационный знак</txt>
+</str>
+<str>
+	<tag>TXT_Beacon_with_East_Topmark_STR</tag>
+	<txt>Навигационный знак с восточной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Beacon_with_North_Topmark_STR</tag>
+	<txt>Навигационный знак с северной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Beacon_with_South_Topmark_STR</tag>
+	<txt>Навигационный знак с южной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Beacon_with_West_Topmark_STR</tag>
+	<txt>Навигационный знак с западной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Bear_left_STR_M</tag>
+	<txt>Прими влево</txt>
+</str>
+<str>
+	<tag>TXT_Bear_right_STR_M</tag>
+	<txt>Прими вправо</txt>
+</str>
+<str>
+	<tag>TXT_Bearing_from__STR</tag>
+	<txt>Пеленг от</txt>
+</str>
+<str>
+	<tag>TXT_Bearing_STR_M</tag>
+	<txt>Пеленг</txt>
+</str>
+<str>
+	<tag>TXT_BEARING_STR_S</tag>
+	<txt>Пеленг</txt>
+</str>
+<str>
+	<tag>TXT_Bed___Breakfast_Inn_STR</tag>
+	<txt>Гостиница «ночлег и завтрак»</txt>
+</str>
+<str>
+	<tag>TXT_BEGIN_STR_S</tag>
+	<txt>НАЧАЛО</txt>
+</str>
+<str>
+	<tag>TXT_Bell_STR</tag>
+	<txt>Колокол</txt>
+</str>
+<str>
+	<tag>TXT_Bench_STR</tag>
+	<txt>Уступ</txt>
+</str>
+<str>
+	<tag>TXT_Bend_STR</tag>
+	<txt>Изгиб</txt>
+</str>
+<str>
+	<tag>TXT_Bessel_1841__Namibia__STR</tag>
+	<txt>Бесселя 1841 (Намибия)</txt>
+</str>
+<str>
+	<tag>TXT_Bessel_1841_STR</tag>
+	<txt>Бесселя 1841</txt>
+</str>
+<str>
+	<tag>TXT_Best_Times_STR_S</tag>
+	<txt>Лучшее время</txt>
+</str>
+<str>
+	<tag>TXT_Bicycle_STR_M</tag>
+	<txt>Велосипед</txt>
+</str>
+<str>
+	<tag>TXT_Bike_Cadence_Sensor_STR_M</tag>
+	<txt>Датчик вр. педалей</txt>
+</str>
+<str>
+	<tag>TXT_Black_Green_STR</tag>
+	<txt>Черный-Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_Black_Orange_STR</tag>
+	<txt>Черный-Оранжевый</txt>
+</str>
+<str>
+	<tag>TXT_Black_Red_Black_STR</tag>
+	<txt>Черный-Красный-Черный</txt>
+</str>
+<str>
+	<tag>TXT_Black_Red_STR</tag>
+	<txt>Черный-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Black_STR</tag>
+	<txt>Черный</txt>
+</str>
+<str>
+	<tag>TXT_Black_White_Black_STR</tag>
+	<txt>Черный-Белый-Черный</txt>
+</str>
+<str>
+	<tag>TXT_Black_White_STR</tag>
+	<txt>Черный-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Black_Yellow_Black_STR</tag>
+	<txt>Черный-желтый-черный</txt>
+</str>
+<str>
+	<tag>TXT_Black_Yellow_STR</tag>
+	<txt>Черный-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Blue_STR</tag>
+	<txt>Синий</txt>
+</str>
+<str>
+	<tag>TXT_Blue_White_STR</tag>
+	<txt>Синий-Белый</txt>
+</str>
+<str>
+	<tag>TXT_BMW_Automobile_Dealers_STR</tag>
+	<txt>Дилеры автомобилей BMW</txt>
+</str>
+<str>
+	<tag>TXT_BMW_Mini_STR</tag>
+	<txt>BMW Mini</txt>
+</str>
+<str>
+	<tag>TXT_BMW_Motorcycle_Dealers_STR</tag>
+	<txt>Мотоциклы BMW</txt>
+</str>
+<str>
+	<tag>TXT_Board_STR_M</tag>
+	<txt>На борт</txt>
+</str>
+<str>
+	<tag>TXT_Boat_Motor_Rental_STR</tag>
+	<txt>Прокат лодок/катеров</txt>
+</str>
+<str>
+	<tag>TXT_Boat_Ramp_STR</tag>
+	<txt>Аппарель для катеров</txt>
+</str>
+<str>
+	<tag>TXT_Boating_Services_STR</tag>
+	<txt>Катание на лодках</txt>
+</str>
+<str>
+	<tag>TXT_Bombay_STR_X</tag>
+	<txt>Бомбей</txt>
+</str>
+<str>
+	<tag>TXT_Border_Crossing_STR</tag>
+	<txt>Пограничный пункт</txt>
+</str>
+<str>
+	<tag>TXT_Border_of_Chart_STR</tag>
+	<txt>Граница карты</txt>
+</str>
+<str>
+	<tag>TXT_Borneo_RSO_STR_M</tag>
+	<txt>Борнео RSO</txt>
+</str>
+<str>
+	<tag>TXT_Both_Sides_STR</tag>
+	<txt>Обе стороны</txt>
+</str>
+<str>
+	<tag>TXT_Bottom_Conditions_STR</tag>
+	<txt>Донные условия</txt>
+</str>
+<str>
+	<tag>TXT_Bowling_Center_STR</tag>
+	<txt>Боулинг</txt>
+</str>
+<str>
+	<tag>TXT_Brasilia_STR_X</tag>
+	<txt>Бразилиа</txt>
+</str>
+<str>
+	<tag>TXT_Bridge_STR</tag>
+	<txt>Мост</txt>
+</str>
+<str>
+	<tag>TXT_British_Grid_STR_M</tag>
+	<txt>Британская сетка</txt>
+</str>
+<str>
+	<tag>TXT_British_Isles_STR</tag>
+	<txt>Британская</txt>
+</str>
+<str>
+	<tag>TXT_Budget_Airport_STR</tag>
+	<txt>Budget в аэропорту</txt>
+</str>
+<str>
+	<tag>TXT_Budget_Non_Airport_STR</tag>
+	<txt>Budget не в аэропорту</txt>
+</str>
+<str>
+	<tag>TXT_Building_STR</tag>
+	<txt>Строение</txt>
+</str>
+<str>
+	<tag>TXT_Buoy_STR</tag>
+	<txt>Буй</txt>
+</str>
+<str>
+	<tag>TXT_Buoy_with_East_Topmark_STR</tag>
+	<txt>Буй с восточной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Buoy_with_North_Topmark_STR</tag>
+	<txt>Буй с северной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Buoy_with_South_Topmark_STR</tag>
+	<txt>Буй с южной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Buoy_with_West_Topmark_STR</tag>
+	<txt>Буй с западной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Bus_STR_M</tag>
+	<txt>Автобус</txt>
+</str>
+<str>
+	<tag>TXT_Business_Service_STR</tag>
+	<txt>Бизнес-услуги</txt>
+</str>
+<str>
+	<tag>TXT_Business_STR</tag>
+	<txt>Бизнес</txt>
+</str>
+<str>
+	<tag>TXT_BUSINESSES_STR</tag>
+	<txt>ПРЕДПРИЯТИЯ</txt>
+</str>
+<str>
+	<tag>TXT_by_STR_M</tag>
+	<txt>по</txt>
+</str>
+<str>
+	<tag>TXT_Cache_Size_STR_M</tag>
+	<txt>Размер тайника</txt>
+</str>
+<str>
+	<tag>TXT_Cadence_STR_M</tag>
+	<txt>Каденс</txt>
+</str>
+<str>
+	<tag>TXT_Cadence_STR_S</tag>
+	<txt>Каденс</txt>
+</str>
+<str>
+	<tag>TXT_Cafe_Diner_STR</tag>
+	<txt>Кафе/Закусочная</txt>
+</str>
+<str>
+	<tag>TXT_Cairo_STR_X</tag>
+	<txt>Каир</txt>
+</str>
+<str>
+	<tag>TXT_Cal_Completed_Successfully_STR_M</tag>
+	<txt>Калибровка успешно завершена</txt>
+</str>
+<str>
+	<tag>TXT_Calculate_Routes_for_STR_S</tag>
+	<txt>Вычислить маршруты:</txt>
+</str>
+<str>
+	<tag>TXT_Calculate_STR_M</tag>
+	<txt>Вычс.</txt>
+</str>
+<str>
+	<tag>TXT_Calculating__STR_M</tag>
+	<txt>Расчет</txt>
+</str>
+<str>
+	<tag>TXT_Calculator_STR_M</tag>
+	<txt>Калькулятор</txt>
+</str>
+<str>
+	<tag>TXT_Calendar_STR_M</tag>
+	<txt>Календарь</txt>
+</str>
+<str>
+	<tag>TXT_Calibration_Complete_STR_M</tag>
+	<txt>Калибровка заверш.</txt>
+</str>
+<str>
+	<tag>TXT_Calibration_Failed_STR_M</tag>
+	<txt>Калибр. не вып.</txt>
+</str>
+<str>
+	<tag>TXT_Campground_RV_Park_STR</tag>
+	<txt>Кемпинг</txt>
+</str>
+<str>
+	<tag>TXT_Campground_STR</tag>
+	<txt>Кемпинг</txt>
+</str>
+<str>
+	<tag>TXT_Can_Buoy_STR</tag>
+	<txt>Тупоконечный буй</txt>
+</str>
+<str>
+	<tag>TXT_Can_t_Unlock_Maps_STR_M</tag>
+	<txt>Невозможно разблокировать карты</txt>
+</str>
+<str>
+	<tag>TXT_Canal_STR</tag>
+	<txt>Канал</txt>
+</str>
+<str>
+	<tag>TXT_Cancel_STR_M</tag>
+	<txt>Отмена</txt>
+</str>
+<str>
+	<tag>TXT_Cape_STR</tag>
+	<txt>Мыс</txt>
+</str>
+<str>
+	<tag>TXT_Cape_Town_STR_X</tag>
+	<txt>Кейптаун</txt>
+</str>
+<str>
+	<tag>TXT_Cape_Verde_Is_STR_X</tag>
+	<txt>о-ва Зеленого Мыса</txt>
+</str>
+<str>
+	<tag>TXT_Car_Motorcycle_STR_M</tag>
+	<txt>Автомобиль/Мотоцикл</txt>
+</str>
+<str>
+	<tag>TXT_Car_Wash_STR</tag>
+	<txt>Мойка машин</txt>
+</str>
+<str>
+	<tag>TXT_Card_Boundary_STR</tag>
+	<txt>Граница карты</txt>
+</str>
+<str>
+	<tag>TXT_Carpool_Lanes_STR_M</tag>
+	<txt>Полосы для карпула</txt>
+</str>
+<str>
+	<tag>TXT_Cartographic_Area_STR</tag>
+	<txt>Картографическая область</txt>
+</str>
+<str>
+	<tag>TXT_Cartographic_Line_STR</tag>
+	<txt>Картографическая линия</txt>
+</str>
+<str>
+	<tag>TXT_Casino_STR</tag>
+	<txt>Казино</txt>
+</str>
+<str>
+	<tag>TXT_Celsius_STR_M</tag>
+	<txt>по Цельсию</txt>
+</str>
+<str>
+	<tag>TXT_Cemetery_STR</tag>
+	<txt>Кладбище</txt>
+</str>
+<str>
+	<tag>TXT_Change_Comment_STR_M</tag>
+	<txt>Править комментарий</txt>
+</str>
+<str>
+	<tag>TXT_Change_Depth_STR_M</tag>
+	<txt>Изменить глубину</txt>
+</str>
+<str>
+	<tag>TXT_Change_Elevation_STR_M</tag>
+	<txt>Изменить высоту</txt>
+</str>
+<str>
+	<tag>TXT_Change_Location_STR_M</tag>
+	<txt>Изменить позицию</txt>
+</str>
+<str>
+	<tag>TXT_Change_Name_STR_M</tag>
+	<txt>Изменить имя</txt>
+</str>
+<str>
+	<tag>TXT_Change_STR_M</tag>
+	<txt>Изменить</txt>
+</str>
+<str>
+	<tag>TXT_Change_Symbol_STR_M</tag>
+	<txt>Изменить символ</txt>
+</str>
+<str>
+	<tag>TXT_Change_Units_STR_M</tag>
+	<txt>Изменить единицы</txt>
+</str>
+<str>
+	<tag>TXT_Channel_STR</tag>
+	<txt>Фарватер</txt>
+</str>
+<str>
+	<tag>TXT_Chart_Notes_STR</tag>
+	<txt>Примечания к схеме</txt>
+</str>
+<str>
+	<tag>TXT_Chart_STR</tag>
+	<txt>Схема</txt>
+</str>
+<str>
+	<tag>TXT_Chimney_STR</tag>
+	<txt>Труба</txt>
+</str>
+<str>
+	<tag>TXT_Chinese_STR</tag>
+	<txt>Китайская</txt>
+</str>
+<str>
+	<tag>TXT_Chita_STR_X</tag>
+	<txt>Чита</txt>
+</str>
+<str>
+	<tag>TXT_Chrysler_Dealers_STR</tag>
+	<txt>Дилеры Chrysler</txt>
+</str>
+<str>
+	<tag>TXT_Church_STR</tag>
+	<txt>Церковь</txt>
+</str>
+<str>
+	<tag>TXT_Cities_STR_M</tag>
+	<txt>Города</txt>
+</str>
+<str>
+	<tag>TXT_City_Hall_STR</tag>
+	<txt>Муниципалитет</txt>
+</str>
+<str>
+	<tag>TXT_City_Help_Addr_STR_M</tag>
+	<txt>В каком городе находится этот адрес?</txt>
+</str>
+<str>
+	<tag>TXT_City_Help_Intr_STR_M</tag>
+	<txt>В каком городе этот перекресток?</txt>
+</str>
+<str>
+	<tag>TXT_City_Help_Postal_STR_M</tag>
+	<txt>Введите по буквам город или п/индекс</txt>
+</str>
+<str>
+	<tag>TXT_City_Help_STR_M</tag>
+	<txt>Введите по буквам необходимый город.</txt>
+</str>
+<str>
+	<tag>TXT_City_STR</tag>
+	<txt>Город:</txt>
+</str>
+<str>
+	<tag>TXT_Civil_Bldg_STR</tag>
+	<txt>Общественное здание</txt>
+</str>
+<str>
+	<tag>TXT_Civil_STR_M</tag>
+	<txt>Гражданские</txt>
+</str>
+<str>
+	<tag>TXT_Clarke_1866_STR</tag>
+	<txt>Кларка 1866</txt>
+</str>
+<str>
+	<tag>TXT_Clarke_1880_STR</tag>
+	<txt>Кларка 1880</txt>
+</str>
+<str>
+	<tag>TXT_Clear_Current_Track_STR_M</tag>
+	<txt>Удалить текущ. трек</txt>
+</str>
+<str>
+	<tag>TXT_CLEAR_STR</tag>
+	<txt>Очистить</txt>
+</str>
+<str>
+	<tag>TXT_CLEAR_STR_M</tag>
+	<txt>ОЧИСТКА</txt>
+</str>
+<str>
+	<tag>TXT_Clearing_Line_STR</tag>
+	<txt>Линия створа</txt>
+</str>
+<str>
+	<tag>TXT_Cliff_STR</tag>
+	<txt>Обрыв</txt>
+</str>
+<str>
+	<tag>TXT_Closing_STR_M</tag>
+	<txt>Закрытие</txt>
+</str>
+<str>
+	<tag>TXT_Communications_STR</tag>
+	<txt>Связь</txt>
+</str>
+<str>
+	<tag>TXT_Community_Center_STR</tag>
+	<txt>Общественный центр</txt>
+</str>
+<str>
+	<tag>TXT_Community_STR</tag>
+	<txt>Населенный пункт</txt>
+</str>
+<str>
+	<tag>TXT_Community_STR_M</tag>
+	<txt>Населенный пункт</txt>
+</str>
+<str>
+	<tag>TXT_Compass_Cal_Fail_STR_M</tag>
+	<txt>Ошибка калибровки. Убедитесь, что вы медленно повернули устройство в одном направлении два раза. Повторите попытку</txt>
+</str>
+<str>
+	<tag>TXT_Compass_Cal_Suggested_STR_M</tag>
+	<txt>Возможно, необходима калибровка компаса</txt>
+</str>
+<str>
+	<tag>TXT_Compass_Calibration_STR_M</tag>
+	<txt>Калибровка компаса</txt>
+</str>
+<str>
+	<tag>TXT_Compass_STR_M</tag>
+	<txt>Компас</txt>
+</str>
+<str>
+	<tag>TXT_Compass_STR_S</tag>
+	<txt>Компас</txt>
+</str>
+<str>
+	<tag>TXT_Complete_STR_M</tag>
+	<txt>Завершено</txt>
+</str>
+<str>
+	<tag>TXT_Composite_Group_Flashing_STR</tag>
+	<txt>Сложный группо-проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Composite_Group_Occulting_STR</tag>
+	<txt>Сложный группо-затмевающийся</txt>
+</str>
+<str>
+	<tag>TXT_Computer_Software_STR</tag>
+	<txt>Компьютер/ПО</txt>
+</str>
+<str>
+	<tag>TXT_Connected_STR_M</tag>
+	<txt>Соединение установл.</txt>
+</str>
+<str>
+	<tag>TXT_CONTACT_INFORMATION_STR</tag>
+	<txt>КОНТАКТНАЯ ИНФОРМАЦИЯ</txt>
+</str>
+<str>
+	<tag>TXT_Continue_STR_M</tag>
+	<txt>Дальше</txt>
+</str>
+<str>
+	<tag>TXT_Contour_Line_STR</tag>
+	<txt>Горизонталь</txt>
+</str>
+<str>
+	<tag>TXT_Controlled_Area_STR</tag>
+	<txt>Контролируемая зона</txt>
+</str>
+<str>
+	<tag>TXT_Convenience_Store_STR</tag>
+	<txt>Товары повседневного спроса</txt>
+</str>
+<str>
+	<tag>TXT_Convenience_STR</tag>
+	<txt>Товары повседневного спроса</txt>
+</str>
+<str>
+	<tag>TXT_Coordinates_STR_M</tag>
+	<txt>Координаты</txt>
+</str>
+<str>
+	<tag>TXT_Correction_Date_STR</tag>
+	<txt>Дата корректировки:</txt>
+</str>
+<str>
+	<tag>TXT_Country_STR</tag>
+	<txt>Страна</txt>
+</str>
+<str>
+	<tag>TXT_County_Border_STR</tag>
+	<txt>Административная граница</txt>
+</str>
+<str>
+	<tag>TXT_County_STR</tag>
+	<txt>Округ</txt>
+</str>
+<str>
+	<tag>TXT_Course_STR_M</tag>
+	<txt>Дистанция</txt>
+</str>
+<str>
+	<tag>TXT_COURSE_STR_S</tag>
+	<txt>Дистанция</txt>
+</str>
+<str>
+	<tag>TXT_Court_House_STR</tag>
+	<txt>Суд</txt>
+</str>
+<str>
+	<tag>TXT_Cove_STR</tag>
+	<txt>Бухта</txt>
+</str>
+<str>
+	<tag>TXT_Crater_STR</tag>
+	<txt>Кратер</txt>
+</str>
+<str>
+	<tag>TXT_Create_Route__STR_M</tag>
+	<txt>&lt;Создать маршрут&gt;</txt>
+</str>
+<str>
+	<tag>TXT_Credit_Cards_STR</tag>
+	<txt>Кредитные карты</txt>
+</str>
+<str>
+	<tag>TXT_Crossing_STR</tag>
+	<txt>Пересечение</txt>
+</str>
+<str>
+	<tag>TXT_Current_Lap_STR_S</tag>
+	<txt>Текущий круг</txt>
+</str>
+<str>
+	<tag>TXT_Current_Location_STR_M</tag>
+	<txt>Текущая позиция</txt>
+</str>
+<str>
+	<tag>TXT_Current_Prediction_Station_STR</tag>
+	<txt>Станция прогнозирования приливов</txt>
+</str>
+<str>
+	<tag>TXT_Current_Track_STR_M</tag>
+	<txt>Текущий трек</txt>
+</str>
+<str>
+	<tag>TXT_Currently_navigating_to_STR_M</tag>
+	<txt>Текущая цель:</txt>
+</str>
+<str>
+	<tag>TXT_Currents_STR_M</tag>
+	<txt>Течения</txt>
+</str>
+<str>
+	<tag>TXT_Custom_POIs_STR</tag>
+	<txt>Пользовательские объекты</txt>
+</str>
+<str>
+	<tag>TXT_DA_STR_S</tag>
+	<txt>DA</txt>
+</str>
+<str>
+	<tag>TXT_Dam_STR</tag>
+	<txt>Плотина</txt>
+</str>
+<str>
+	<tag>TXT_Danger_Area_STR</tag>
+	<txt>Опасная зона</txt>
+</str>
+<str>
+	<tag>TXT_Danger_Line_STR</tag>
+	<txt>Граница опасной зоны</txt>
+</str>
+<str>
+	<tag>TXT_Dangerous_Rock_STR</tag>
+	<txt>Опасная скала</txt>
+</str>
+<str>
+	<tag>TXT_Dangerous_Underwater_Rock_STR</tag>
+	<txt>Опасная подводная скала</txt>
+</str>
+<str>
+	<tag>TXT_Darwin_STR_X</tag>
+	<txt>Дарвин</txt>
+</str>
+<str>
+	<tag>TXT_Database_Error_STR_M</tag>
+	<txt>Ошибка базы данных</txt>
+</str>
+<str>
+	<tag>TXT_Date_STR_S</tag>
+	<txt>Дата</txt>
+</str>
+<str>
+	<tag>TXT_Daybeacon_Green_Square_STR</tag>
+	<txt>Дневной навигационный знак, зеленый квадрат</txt>
+</str>
+<str>
+	<tag>TXT_Daybeacon_Red_Triangle_STR</tag>
+	<txt>Дневной навигационный знак, красный треугольник</txt>
+</str>
+<str>
+	<tag>TXT_Daybeacon_STR</tag>
+	<txt>Дневной навигационный знак</txt>
+</str>
+<str>
+	<tag>TXT_Daybeacon_White_Diamond_STR</tag>
+	<txt>Дневной навигационный знак, белый ромб</txt>
+</str>
+<str>
+	<tag>TXT_Daylight_Savings_Time_STR_S</tag>
+	<txt>Летнее время</txt>
+</str>
+<str>
+	<tag>TXT_days_STR_M</tag>
+	<txt>дней</txt>
+</str>
+<str>
+	<tag>TXT_Dealer_Auto_Parts_STR</tag>
+	<txt>Дилер/автозапчасти</txt>
+</str>
+<str>
+	<tag>TXT_DEC_STR</tag>
+	<txt>ДЕК</txt>
+</str>
+<str>
+	<tag>TXT_December_STR_M</tag>
+	<txt>Декабрь</txt>
+</str>
+<str>
+	<tag>TXT_Decifeet_STR</tag>
+	<txt>Децифуты</txt>
+</str>
+<str>
+	<tag>TXT_Decimeters_STR</tag>
+	<txt>Дециметры</txt>
+</str>
+<str>
+	<tag>TXT_Deep_Water_Alert_STR_M</tag>
+	<txt>Внимание: Глубокая вода</txt>
+</str>
+<str>
+	<tag>TXT_Deep_water_route_STR</tag>
+	<txt>Глубоководный маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Deep_Water_STR_M</tag>
+	<txt>Глубоководье</txt>
+</str>
+<str>
+	<tag>TXT_Default_STR_M</tag>
+	<txt>По умолчанию</txt>
+</str>
+<str>
+	<tag>TXT_degrees_STR_M</tag>
+	<txt>градусы</txt>
+</str>
+<str>
+	<tag>TXT_Delete_All_Waypoints_STR_M</tag>
+	<txt>Удал. все марш.точки</txt>
+</str>
+<str>
+	<tag>TXT_Delete_Route_STR_M</tag>
+	<txt>Удалить маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Delete_STR_M</tag>
+	<txt>Удалить</txt>
+</str>
+<str>
+	<tag>TXT_Delete_Waypoint_STR_M</tag>
+	<txt>Удалить марш. точку</txt>
+</str>
+<str>
+	<tag>TXT_Deli_Bakery_STR</tag>
+	<txt>Гастроном/булочная</txt>
+</str>
+<str>
+	<tag>TXT_Delivery_STR_M</tag>
+	<txt>Доставка</txt>
+</str>
+<str>
+	<tag>TXT_Demo_Mode_STR_L</tag>
+	<txt>Демо режим</txt>
+</str>
+<str>
+	<tag>TXT_Demo_Mode_STR_M</tag>
+	<txt>Демо режим</txt>
+</str>
+<str>
+	<tag>TXT_Department_STR</tag>
+	<txt>Отдел</txt>
+</str>
+<str>
+	<tag>TXT_Depth__STR</tag>
+	<txt>Глубина:</txt>
+</str>
+<str>
+	<tag>TXT_Depth_Anchor_STR_M</tag>
+	<txt>Глубина, Якорь.</txt>
+</str>
+<str>
+	<tag>TXT_Depth_Area_Border_STR</tag>
+	<txt>Граница зоны глубины</txt>
+</str>
+<str>
+	<tag>TXT_Depth_Area_STR</tag>
+	<txt>Зона глубины</txt>
+</str>
+<str>
+	<tag>TXT_Depth_config_STR_M</tag>
+	<txt>Глубина</txt>
+</str>
+<str>
+	<tag>TXT_Depth_Contour_STR</tag>
+	<txt>Контуры глубины</txt>
+</str>
+<str>
+	<tag>TXT_depth_STR</tag>
+	<txt>глубина</txt>
+</str>
+<str>
+	<tag>TXT_Depth_STR_M</tag>
+	<txt>Глубина</txt>
+</str>
+<str>
+	<tag>TXT_Depth_STR_S</tag>
+	<txt>Глубина</txt>
+</str>
+<str>
+	<tag>TXT_Depth_Unknown_STR</tag>
+	<txt>Глубина неизвестна</txt>
+</str>
+<str>
+	<tag>TXT_Description_STR_M</tag>
+	<txt>Описание</txt>
+</str>
+<str>
+	<tag>TXT_Detail_Maps_Don_t_Support_Routing_STR_M</tag>
+	<txt>На подробных картах прокладка маршрута не поддерживается</txt>
+</str>
+<str>
+	<tag>TXT_Detail_STR_M</tag>
+	<txt>Детализация карты</txt>
+</str>
+<str>
+	<tag>TXT_Detailed_maps_are_required_STR_M</tag>
+	<txt>Для использования этой функции требуются подробные карты. Дополнительную информацию см. на сайте www.garmin.com.</txt>
+</str>
+<str>
+	<tag>TXT_DF_STR_S</tag>
+	<txt>DF</txt>
+</str>
+<str>
+	<tag>TXT_Did_Not_Find_STR_M</tag>
+	<txt>Не найдено</txt>
+</str>
+<str>
+	<tag>TXT_Diesel_Fuel_STR</tag>
+	<txt>Дизельное топливо</txt>
+</str>
+<str>
+	<tag>TXT_diesel_STR</tag>
+	<txt>дизельное</txt>
+</str>
+<str>
+	<tag>TXT_Difficulty_STR_M</tag>
+	<txt>Трудность</txt>
+</str>
+<str>
+	<tag>TXT_Direction__STR</tag>
+	<txt>Направление:</txt>
+</str>
+<str>
+	<tag>TXT_Directional_Letters_STR_M</tag>
+	<txt>Направляющие буквы</txt>
+</str>
+<str>
+	<tag>TXT_DIS_DEST_STR_S</tag>
+	<txt>Расст.до ПН</txt>
+</str>
+<str>
+	<tag>TXT_DIS_NEXT_STR_S</tag>
+	<txt>Расст.до след.</txt>
+</str>
+<str>
+	<tag>TXT_Discover_STR</tag>
+	<txt>Discover</txt>
+</str>
+<str>
+	<tag>TXT_Display_STR_M</tag>
+	<txt>Экран</txt>
+</str>
+<str>
+	<tag>TXT_Display_STR_S</tag>
+	<txt>Просмотр</txt>
+</str>
+<str>
+	<tag>TXT_Dist_To_Point_STR_M</tag>
+	<txt>Расстояние до точки</txt>
+</str>
+<str>
+	<tag>TXT_DIST_TO_PT_STR_S</tag>
+	<txt>Расст. д/точки</txt>
+</str>
+<str>
+	<tag>TXT_Distance__STR</tag>
+	<txt>Расстояние:</txt>
+</str>
+<str>
+	<tag>TXT_Distance_Destination_STR_M</tag>
+	<txt>Расст. до п. назначения</txt>
+</str>
+<str>
+	<tag>TXT_Distance_Next_STR_M</tag>
+	<txt>Расст. до следующего</txt>
+</str>
+<str>
+	<tag>TXT_Distance_Speed_STR_S</tag>
+	<txt>Расстояние/Скорость</txt>
+</str>
+<str>
+	<tag>TXT_Distance_STR_M</tag>
+	<txt>Расстояние</txt>
+</str>
+<str>
+	<tag>TXT_Diving_Area_STR</tag>
+	<txt>Зона подводного плавания</txt>
+</str>
+<str>
+	<tag>TXT_Do_Not_Avoid_STR_M</tag>
+	<txt>Не избегать</txt>
+</str>
+<str>
+	<tag>TXT_Do_Not_Record_STR_M</tag>
+	<txt>Не записывать</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_clear_the_track_log__STR_M</tag>
+	<txt>Удалить текущий трек?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_delete_all_routes__STR_M</tag>
+	<txt>Удалить все маршрут ы?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_delete_all_waypoints__STR_M</tag>
+	<txt>Удалить все маршрутные точки?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_delete_route__STR_M</tag>
+	<txt>Действительно удалить маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_delete_waypoint_STR_M</tag>
+	<txt>Удалить маршрутную точку</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_erase_all_user_data__STR_M</tag>
+	<txt>Удалить все данные пользователя?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_remove_all_waypoints__STR_M</tag>
+	<txt>Удалить все точки?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_remove_all_waypoints_from_the_route__STR_M</tag>
+	<txt>Удалить все маршрут ные точки из маршрут а?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_reset_the_max_speed__STR_M</tag>
+	<txt>Сброс макс.скорости?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_really_want_to_reset_trip_data__STR_M</tag>
+	<txt>Сброс данных поездки ?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_want_to_save_projected_waypoint_STR_M</tag>
+	<txt>Сохранить внесенные маршрутные точки?</txt>
+</str>
+<str>
+	<tag>TXT_Do_you_want_to_simulate_driving_this_route__STR_M</tag>
+	<txt>Моделировать движение по этому маршруту?</txt>
+</str>
+<str>
+	<tag>TXT_Dodge_Dealers_STR</tag>
+	<txt>Дилеры Dodge</txt>
+</str>
+<str>
+	<tag>TXT_Dollar_Rentals_STR</tag>
+	<txt>Прокат Dollar</txt>
+</str>
+<str>
+	<tag>TXT_Done_STR_M</tag>
+	<txt>Готово</txt>
+</str>
+<str>
+	<tag>TXT_Downloaded_By_STR_M</tag>
+	<txt>Загружено</txt>
+</str>
+<str>
+	<tag>TXT_Dragging_Anchor_STR_M</tag>
+	<txt>Дрейф якоря</txt>
+</str>
+<str>
+	<tag>TXT_Draw_Vehicle_Locked_To_The_Road_STR_M</tag>
+	<txt>Отображать привязку автомобиля к дороге?</txt>
+</str>
+<str>
+	<tag>TXT_Drawing____STR</tag>
+	<txt>Идет построение...</txt>
+</str>
+<str>
+	<tag>TXT_Drilling_Rig_STR</tag>
+	<txt>Буровая установка</txt>
+</str>
+<str>
+	<tag>TXT_Drinking_Water_STR</tag>
+	<txt>Питьевая вода</txt>
+</str>
+<str>
+	<tag>TXT_Drying_Height_STR</tag>
+	<txt>Высота отлива</txt>
+</str>
+<str>
+	<tag>TXT_Dump_Station_STR</tag>
+	<txt>Свалка</txt>
+</str>
+<str>
+	<tag>TXT_Dumping_Ground_STR</tag>
+	<txt>Свалка</txt>
+</str>
+<str>
+	<tag>TXT_Dutch_Grid_STR_M</tag>
+	<txt>Нидерландская сетка</txt>
+</str>
+<str>
+	<tag>TXT_DX_STR_S</tag>
+	<txt>DX</txt>
+</str>
+<str>
+	<tag>TXT_DY_STR_S</tag>
+	<txt>DY</txt>
+</str>
+<str>
+	<tag>TXT_DZ_STR_S</tag>
+	<txt>DZ</txt>
+</str>
+<str>
+	<tag>TXT_E_STR</tag>
+	<txt>В</txt>
+</str>
+<str>
+	<tag>TXT_East_STR</tag>
+	<txt>Восток</txt>
+</str>
+<str>
+	<tag>TXT_Edit_Name_STR_M</tag>
+	<txt>Изменить имя</txt>
+</str>
+<str>
+	<tag>TXT_Edit_Route_STR_M</tag>
+	<txt>Изменить маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Edit_STR_M</tag>
+	<txt>Правка</txt>
+</str>
+<str>
+	<tag>TXT_Edit_Waypoint_STR_M</tag>
+	<txt>Изменить марш. точку</txt>
+</str>
+<str>
+	<tag>TXT_Edition_Date_STR</tag>
+	<txt>Дата редакции:</txt>
+</str>
+<str>
+	<tag>TXT_Ekaterinburg_STR_X</tag>
+	<txt>Екатеринбург</txt>
+</str>
+<str>
+	<tag>TXT_El_Giganten_Retail_STR</tag>
+	<txt>El-Giganten</txt>
+</str>
+<str>
+	<tag>TXT_electricity_STR</tag>
+	<txt>электричество</txt>
+</str>
+<str>
+	<tag>TXT_Elevation_Distance_STR_M</tag>
+	<txt>Высота / Расстояние</txt>
+</str>
+<str>
+	<tag>TXT_Elevation_Profile_STR_L</tag>
+	<txt>Профиль высот</txt>
+</str>
+<str>
+	<tag>TXT_Elevation_Time_STR_M</tag>
+	<txt>Высота / Время</txt>
+</str>
+<str>
+	<tag>TXT_Elevation_Vert__Speed_STR_S</tag>
+	<txt>Высота/Верт. Скор.</txt>
+</str>
+<str>
+	<tag>TXT_Emergency___Governmental_STR</tag>
+	<txt>Спасательные и государственные службы</txt>
+</str>
+<str>
+	<tag>TXT_Emergency_Governmental_STR</tag>
+	<txt>Спасательные и государственные службы</txt>
+</str>
+<str>
+	<tag>TXT_Emergency_STR_M</tag>
+	<txt>Спецтранспорт</txt>
+</str>
+<str>
+	<tag>TXT_End_Point_STR</tag>
+	<txt>Конечная точка</txt>
+</str>
+<str>
+	<tag>TXT_END_STR_S</tag>
+	<txt>КОНЕЦ</txt>
+</str>
+<str>
+	<tag>TXT_Eniwetok_STR_X</tag>
+	<txt>Эниветок</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Azimuth_STR_M</tag>
+	<txt>Введите азимут</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Bearing_In_STR_M</tag>
+	<txt>Ввести пеленг в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_City__Postal_Code_STR_M</tag>
+	<txt>Укажите город или п/индекс</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Comment_STR_M</tag>
+	<txt>Введите комментарий</txt>
+</str>
+<str>
+	<tag>TXT_Enter_DA_in_STR_M</tag>
+	<txt>Ввести DA в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Depth_STR_M</tag>
+	<txt>Введите глубину</txt>
+</str>
+<str>
+	<tag>TXT_Enter_DF_in_STR_M</tag>
+	<txt>Ввести DF в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Distance_In_STR_M</tag>
+	<txt>Введите расстояние в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_DX_in_STR_M</tag>
+	<txt>Ввести DX в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_DY_in_STR_M</tag>
+	<txt>Ввести DY в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_DZ_in_STR_M</tag>
+	<txt>Ввести DZ в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Elevation_In_STR_M</tag>
+	<txt>Введите высоту в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Elevation_STR_M</tag>
+	<txt>Введите высоту</txt>
+</str>
+<str>
+	<tag>TXT_Enter_False_Easting_in_STR_M</tag>
+	<txt>Введите смещение по долготе в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_False_Northing_in_STR_M</tag>
+	<txt>Введите смещение по широте в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_House_Number_STR_M</tag>
+	<txt>Введите номер дома</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Latitude_STR_M</tag>
+	<txt>Введите широту</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Location_STR_M</tag>
+	<txt>Введите позицию</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Longitude_STR_M</tag>
+	<txt>Введите долготу</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Loran_Offset_1_STR_M</tag>
+	<txt>Введите смещение 1 для системы Loran</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Loran_Offset_2_STR_M</tag>
+	<txt>Введите смещение 2 для системы Loran</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Mangetic_Variation_STR_M</tag>
+	<txt>Введите магнитное склонение</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Name_STR_M</tag>
+	<txt>Введите имя</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Pressure_In_STR_M</tag>
+	<txt>Введите давление в</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Radius_STR_M</tag>
+	<txt>Введите радиус</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Scale_STR_M</tag>
+	<txt>Введите масштаб</txt>
+</str>
+<str>
+	<tag>TXT_Enter_STR_M</tag>
+	<txt>Въезд</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Street_Name_1_STR_M</tag>
+	<txt>Укажите имя улицы 1</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Street_Name_2_STR_M</tag>
+	<txt>Укажите имя улицы 2</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Street_Name_STR_M</tag>
+	<txt>Укажите имя улицы</txt>
+</str>
+<str>
+	<tag>TXT_Enter_Time_STR_M</tag>
+	<txt>Введите имя</txt>
+</str>
+<str>
+	<tag>TXT_Enterprise_Airport_STR</tag>
+	<txt>Enterprise Аэропорт</txt>
+</str>
+<str>
+	<tag>TXT_Enterprise_Neighborhood_STR</tag>
+	<txt>Enterprise местный</txt>
+</str>
+<str>
+	<tag>TXT_Entertainment_STR</tag>
+	<txt>Развлечения</txt>
+</str>
+<str>
+	<tag>TXT_Entertainment_STR_M</tag>
+	<txt>Развлечения</txt>
+</str>
+<str>
+	<tag>TXT_EOV_Hungarian_Grid_STR_M</tag>
+	<txt>Венгерская сетка EOV</txt>
+</str>
+<str>
+	<tag>TXT_Error_Initializing_Engine_STR_M</tag>
+	<txt>Невозможно запустить Wherigo</txt>
+</str>
+<str>
+	<tag>TXT_Error_Opening_Cartridge_STR_M</tag>
+	<txt>Невозможно открыть картридж</txt>
+</str>
+<str>
+	<tag>TXT_Error_Restoring_Cartridge_STR_M</tag>
+	<txt>Невозможно восстановить картридж</txt>
+</str>
+<str>
+	<tag>TXT_Established_Direction_of_Traffic_Flow_STR</tag>
+	<txt>Установленное направление движения транспорта</txt>
+</str>
+<str>
+	<tag>TXT_Estonian_Grid_STR_M</tag>
+	<txt>Эстонская сетка</txt>
+</str>
+<str>
+	<tag>TXT_ETA_DEST_STR_S</tag>
+	<txt>ОВП в ПН</txt>
+</str>
+<str>
+	<tag>TXT_ETA_Destination_STR_M</tag>
+	<txt>Ож.приб. в п.назначения</txt>
+</str>
+<str>
+	<tag>TXT_ETA_Next_STR_M</tag>
+	<txt>Ож.  приб. в следующий</txt>
+</str>
+<str>
+	<tag>TXT_ETA_NEXT_STR_S</tag>
+	<txt>ОВП в след.</txt>
+</str>
+<str>
+	<tag>TXT_ETA_To_Point_STR_M</tag>
+	<txt>ETA в точке</txt>
+</str>
+<str>
+	<tag>TXT_ETA_TO_PT_STR_S</tag>
+	<txt>ETA в точке</txt>
+</str>
+<str>
+	<tag>TXT_ETE_DEST_STR_S</tag>
+	<txt>Время до ПН</txt>
+</str>
+<str>
+	<tag>TXT_ETE_Destination_STR_M</tag>
+	<txt>Время до п.назначения</txt>
+</str>
+<str>
+	<tag>TXT_ETE_Next_STR_M</tag>
+	<txt>Время до следующего</txt>
+</str>
+<str>
+	<tag>TXT_ETE_NEXT_STR_S</tag>
+	<txt>Врем.до след.</txt>
+</str>
+<str>
+	<tag>TXT_ETE_To_Point_STR_M</tag>
+	<txt>Время д/точки</txt>
+</str>
+<str>
+	<tag>TXT_ETE_TO_PT_STR_S</tag>
+	<txt>Время д/точки</txt>
+</str>
+<str>
+	<tag>TXT_Europcar_24hr_Drivethrough_STR</tag>
+	<txt>Europcar 24 ч в сутки</txt>
+</str>
+<str>
+	<tag>TXT_Europcar_Airport_Location_STR</tag>
+	<txt>Europcar в аэропортах</txt>
+</str>
+<str>
+	<tag>TXT_Europcar_Neighborhood_STR</tag>
+	<txt>Europcar вне аэропортов</txt>
+</str>
+<str>
+	<tag>TXT_Europcar_Rentals_STR</tag>
+	<txt>Прокат автомобилей Europcar</txt>
+</str>
+<str>
+	<tag>TXT_Europe_Central_STR_X</tag>
+	<txt>Европа - Центр. (CET)</txt>
+</str>
+<str>
+	<tag>TXT_Europe_Eastern_STR_X</tag>
+	<txt>Европа - Вост.(EET)</txt>
+</str>
+<str>
+	<tag>TXT_Europe_Western_STR_X</tag>
+	<txt>Европа - Зап.(WET)</txt>
+</str>
+<str>
+	<tag>TXT_Everest__Brunei__STR</tag>
+	<txt>Эвереста (Бруней)</txt>
+</str>
+<str>
+	<tag>TXT_Everest__India_1830__STR</tag>
+	<txt>Эвереста (Индия 1830)</txt>
+</str>
+<str>
+	<tag>TXT_Everest__India_1956__STR</tag>
+	<txt>Эвереста (Индия 1956)</txt>
+</str>
+<str>
+	<tag>TXT_Everest__W_Malasia_1948__STR</tag>
+	<txt>Эвереста (Зап. Малайзия 1948)</txt>
+</str>
+<str>
+	<tag>TXT_Everest__W_Malasia_1969__STR</tag>
+	<txt>Эвереста (Зап. Малайзия 1969)</txt>
+</str>
+<str>
+	<tag>TXT_Everest_STR</tag>
+	<txt>Эвереста</txt>
+</str>
+<str>
+	<tag>TXT_Excellent_Day_STR_M</tag>
+	<txt>Отличный день</txt>
+</str>
+<str>
+	<tag>TXT_Existence_Doubtful_STR</tag>
+	<txt>Существование сомнительно</txt>
+</str>
+<str>
+	<tag>TXT_Exit__STR</tag>
+	<txt>Съезд</txt>
+</str>
+<str>
+	<tag>TXT_Exit_left_STR_M</tag>
+	<txt>Съезд налево</txt>
+</str>
+<str>
+	<tag>TXT_Exit_right_STR_M</tag>
+	<txt>Съезд направо</txt>
+</str>
+<str>
+	<tag>TXT_Exit_Road_STR_S</tag>
+	<txt>Съезд</txt>
+</str>
+<str>
+	<tag>TXT_Exit_STR</tag>
+	<txt>Съезд</txt>
+</str>
+<str>
+	<tag>TXT_Exit_STR_M</tag>
+	<txt>Съезд</txt>
+</str>
+<str>
+	<tag>TXT_Exit_w_o_Srvcs_STR</tag>
+	<txt>Съезд без обслуживания</txt>
+</str>
+<str>
+	<tag>TXT_Exit_with_Srvcs_STR</tag>
+	<txt>Съезд с обслуживанием</txt>
+</str>
+<str>
+	<tag>TXT_Exits_STR_M</tag>
+	<txt>Съезды</txt>
+</str>
+<str>
+	<tag>TXT_Exp__STR</tag>
+	<txt>Истек.</txt>
+</str>
+<str>
+	<tag>TXT_Expires__STR</tag>
+	<txt>Истекает:</txt>
+</str>
+<str>
+	<tag>TXT_Explosive_STR</tag>
+	<txt>Взрывчатое вещество</txt>
+</str>
+<str>
+	<tag>TXT_Explosives_Dumping_Ground_STR</tag>
+	<txt>Свалка взрывчатых веществ</txt>
+</str>
+<str>
+	<tag>TXT_Exporting_Track_STR_M</tag>
+	<txt>Экспорт трека</txt>
+</str>
+<str>
+	<tag>TXT_Exposed_Rock_STR</tag>
+	<txt>Открытая скала</txt>
+</str>
+<str>
+	<tag>TXT_Exposed_Wreck_STR</tag>
+	<txt>Открытые обломки</txt>
+</str>
+<str>
+	<tag>TXT_External_Power__Lost_STR_M</tag>
+	<txt>Внешнее питание отсутствует</txt>
+</str>
+<str>
+	<tag>TXT_External_Power_Lost_Msg_STR_M</tag>
+	<txt>Отсутствует внешнее питание.
+	
+Отключение через</txt>
+</str>
+<str>
+	<tag>TXT_External_Power_Lost_Msg2_STR_M</tag>
+	<txt>Продолжить с питанием от батареи?</txt>
+</str>
+<str>
+	<tag>TXT_Facilities_STR</tag>
+	<txt>Объекты</txt>
+</str>
+<str>
+	<tag>TXT_Facilities_STR_M</tag>
+	<txt>Объекты</txt>
+</str>
+<str>
+	<tag>TXT_Fahrenheit_STR_M</tag>
+	<txt>Фаренгейт</txt>
+</str>
+<str>
+	<tag>TXT_Failed_to_get_map_information__STR</tag>
+	<txt>Ошибка получения информации о карте!</txt>
+</str>
+<str>
+	<tag>TXT_Falls_STR</tag>
+	<txt>Водопад</txt>
+</str>
+<str>
+	<tag>TXT_False_Easting_STR_S</tag>
+	<txt>Усл. смещение по долготе</txt>
+</str>
+<str>
+	<tag>TXT_False_Northing_STR_S</tag>
+	<txt>Усл. смещение по широте</txt>
+</str>
+<str>
+	<tag>TXT_Fast_Food_STR</tag>
+	<txt>Фаст-фуд</txt>
+</str>
+<str>
+	<tag>TXT_Fathoms_STR</tag>
+	<txt>Сажени</txt>
+</str>
+<str>
+	<tag>TXT_Fathoms_STR_M</tag>
+	<txt>Сажени</txt>
+</str>
+<str>
+	<tag>TXT_fathoms_STR_M</tag>
+	<txt>сажени</txt>
+</str>
+<str>
+	<tag>TXT_Favorites_STR</tag>
+	<txt>Избранное</txt>
+</str>
+<str>
+	<tag>TXT_Fax__STR</tag>
+	<txt>Факс:</txt>
+</str>
+<str>
+	<tag>TXT_FEB_STR</tag>
+	<txt>ФЕВ</txt>
+</str>
+<str>
+	<tag>TXT_February_STR_M</tag>
+	<txt>Февраль</txt>
+</str>
+<str>
+	<tag>TXT_Feet_ft_per_min_STR_M</tag>
+	<txt>Футы (фут/мин.)</txt>
+</str>
+<str>
+	<tag>TXT_Feet_STR</tag>
+	<txt>Футы</txt>
+</str>
+<str>
+	<tag>TXT_feet_STR_M</tag>
+	<txt>футы</txt>
+</str>
+<str>
+	<tag>TXT_Feet_STR_M</tag>
+	<txt>футы</txt>
+</str>
+<str>
+	<tag>TXT_Ferry_route_STR</tag>
+	<txt>Маршрут парома</txt>
+</str>
+<str>
+	<tag>TXT_Ferry_STR</tag>
+	<txt>Паром</txt>
+</str>
+<str>
+	<tag>TXT_ferry_STR_M</tag>
+	<txt>паром</txt>
+</str>
+<str>
+	<tag>TXT_Fiji_STR_X</tag>
+	<txt>Фиджи</txt>
+</str>
+<str>
+	<tag>TXT_Find_a_Geocache_STR_M</tag>
+	<txt>Найти тайник</txt>
+</str>
+<str>
+	<tag>TXT_Find_Another_STR_M</tag>
+	<txt>Найти ещё</txt>
+</str>
+<str>
+	<tag>TXT_Find_Next_Closest_STR_M</tag>
+	<txt>Найти ближайший</txt>
+</str>
+<str>
+	<tag>TXT_Find_STR_M</tag>
+	<txt>Куда?</txt>
+</str>
+<str>
+	<tag>TXT_Finnish_Grid_STR_M</tag>
+	<txt>Финская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Fire_Department_STR</tag>
+	<txt>Пожарное отделение</txt>
+</str>
+<str>
+	<tag>TXT_First_Aid_Station_STR</tag>
+	<txt>Медпункт</txt>
+</str>
+<str>
+	<tag>TXT_Fischer_1960_Mercury_STR</tag>
+	<txt>Фишера 1960/Меркьюри</txt>
+</str>
+<str>
+	<tag>TXT_Fischer_1968_STR</tag>
+	<txt>Фишера 1968</txt>
+</str>
+<str>
+	<tag>TXT_Fish_Haven_STR</tag>
+	<txt>Рыболовецкая гавань</txt>
+</str>
+<str>
+	<tag>TXT_Fishery_Zone_STR</tag>
+	<txt>Рыболовная зона</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Area_STR</tag>
+	<txt>Зона рыбной ловли</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Contour_STR</tag>
+	<txt>Контур рыболовной зоны</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Harbor_STR</tag>
+	<txt>Рыбный порт</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Hotspots_Map_STR</tag>
+	<txt>Рыболовная карта Fishing Hot Spots®</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Information_STR</tag>
+	<txt>Информация о рыбной ловле</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Prohibited_STR</tag>
+	<txt>Лов рыбы запрещен</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Spot_STR</tag>
+	<txt>Место рыбной ловли</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Spots_STR_M</tag>
+	<txt>Места ловли рыбы</txt>
+</str>
+<str>
+	<tag>TXT_Fishing_Stakes_STR</tag>
+	<txt>Рыболовные заколы</txt>
+</str>
+<str>
+	<tag>TXT_Fitness_Profile_STR_M</tag>
+	<txt>Фитнес</txt>
+</str>
+<str>
+	<tag>TXT_Fitness_STR_M</tag>
+	<txt>Фитнес</txt>
+</str>
+<str>
+	<tag>TXT_Fix_Point_STR</tag>
+	<txt>Точка установки</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Flashing_STR</tag>
+	<txt>Постоянный с проблесками</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Group_Flashing_STR</tag>
+	<txt>Постоянный с группой проблесков</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Group_Occulting_STR</tag>
+	<txt>Постоянный с группо-затмевающимся</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Isophase_STR</tag>
+	<txt>Постоянный с изофазным</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Long_Flashing_STR</tag>
+	<txt>Постоянный и с длинными проблесками</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_and_Occulting_STR</tag>
+	<txt>Постоянный с затмевающимся</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_Elevation_STR_M</tag>
+	<txt>Постоянная высота</txt>
+</str>
+<str>
+	<tag>TXT_Fixed_STR</tag>
+	<txt>Постоянный</txt>
+</str>
+<str>
+	<tag>TXT_Flash_Sequence__STR</tag>
+	<txt>Проблесковая последовательность:</txt>
+</str>
+<str>
+	<tag>TXT_Flashing_STR</tag>
+	<txt>Проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Flat_STR</tag>
+	<txt>Плоский берег</txt>
+</str>
+<str>
+	<tag>TXT_Fog_Horn_STR</tag>
+	<txt>Туманный горн</txt>
+</str>
+<str>
+	<tag>TXT_Food___Drink_STR</tag>
+	<txt>Рестораны/бары</txt>
+</str>
+<str>
+	<tag>TXT_Food___Drink_STR_M</tag>
+	<txt>Рестораны/бары</txt>
+</str>
+<str>
+	<tag>TXT_Food_Asian_STR</tag>
+	<txt>Еда (Азиатская кухня)</txt>
+</str>
+<str>
+	<tag>TXT_Food_Deli_Bakery_STR</tag>
+	<txt>Еда (Деликатесы/Выпечка)</txt>
+</str>
+<str>
+	<tag>TXT_Food_Drink_STR</tag>
+	<txt>Рестораны/Бары</txt>
+</str>
+<str>
+	<tag>TXT_Food_Pizza_Italian_STR</tag>
+	<txt>Еда (Пицца/Итальянская кухня)</txt>
+</str>
+<str>
+	<tag>TXT_Food_Seafood_STR</tag>
+	<txt>Еда (Морепродукты)</txt>
+</str>
+<str>
+	<tag>TXT_Food_Steak_Grill_STR</tag>
+	<txt>Еда (Стейк/Гриль)</txt>
+</str>
+<str>
+	<tag>TXT_Food_STR</tag>
+	<txt>Еда</txt>
+</str>
+<str>
+	<tag>TXT_Ford_Dealers_STR</tag>
+	<txt>Дилеры Ford</txt>
+</str>
+<str>
+	<tag>TXT_Ford_Quicklane_STR</tag>
+	<txt>Ford Quicklane</txt>
+</str>
+<str>
+	<tag>TXT_Forest_STR</tag>
+	<txt>Лес</txt>
+</str>
+<str>
+	<tag>TXT_Foul_STR</tag>
+	<txt>Поросший водорослями</txt>
+</str>
+<str>
+	<tag>TXT_Found_STR_M</tag>
+	<txt>Обнаружено</txt>
+</str>
+<str>
+	<tag>TXT_Foundation_Color__STR</tag>
+	<txt>Цвет основания:</txt>
+</str>
+<str>
+	<tag>TXT_French_STR</tag>
+	<txt>Французская</txt>
+</str>
+<str>
+	<tag>TXT_Friday_abbr_STR_S</tag>
+	<txt>F</txt>
+</str>
+<str>
+	<tag>TXT_Friday_STR_M</tag>
+	<txt>Пятница</txt>
+</str>
+<str>
+	<tag>TXT_Fuel_Services_STR_M</tag>
+	<txt>Заправка топлив.</txt>
+</str>
+<str>
+	<tag>TXT_Fuel_Station_STR</tag>
+	<txt>Заправочная станция</txt>
+</str>
+<str>
+	<tag>TXT_Fuel_STR</tag>
+	<txt>Заправка</txt>
+</str>
+<str>
+	<tag>TXT_Gap_STR</tag>
+	<txt>Проход</txt>
+</str>
+<str>
+	<tag>TXT_GARMIN_Dealer_STR</tag>
+	<txt>Дилер Garmin</txt>
+</str>
+<str>
+	<tag>TXT_GARMIN_Proprietary_STR_M</tag>
+	<txt>Фирменный Garmin</txt>
+</str>
+<str>
+	<tag>TXT_Garmin_Serial_STR_M</tag>
+	<txt>Посл. порт Garmin</txt>
+</str>
+<str>
+	<tag>TXT_Gas_STR</tag>
+	<txt>горючее</txt>
+</str>
+<str>
+	<tag>TXT_gas_STR</tag>
+	<txt>горючее</txt>
+</str>
+<str>
+	<tag>TXT_General_Merchandise_STR</tag>
+	<txt>Смешанный ассортимент</txt>
+</str>
+<str>
+	<tag>TXT_Geocaches_Base_Help_STR_M</tag>
+	<txt>Обзор тайников</txt>
+</str>
+<str>
+	<tag>TXT_Geocaches_STR_L</tag>
+	<txt>Тайники</txt>
+</str>
+<str>
+	<tag>TXT_Geocaches_STR_M</tag>
+	<txt>Тайники</txt>
+</str>
+<str>
+	<tag>TXT_Geocaches_STR_S</tag>
+	<txt>Тайники</txt>
+</str>
+<str>
+	<tag>TXT_Geocaching_STR_M</tag>
+	<txt>Тайники</txt>
+</str>
+<str>
+	<tag>TXT_Geographic_Points_STR_M</tag>
+	<txt>Геогр. пункты</txt>
+</str>
+<str>
+	<tag>TXT_German_Grid_STR_M</tag>
+	<txt>Немецкая сетка</txt>
+</str>
+<str>
+	<tag>TXT_German_STR</tag>
+	<txt>Немецкая</txt>
+</str>
+<str>
+	<tag>TXT_Geyser_STR</tag>
+	<txt>Гейзер</txt>
+</str>
+<str>
+	<tag>TXT_Glacier_STR</tag>
+	<txt>Ледник</txt>
+</str>
+<str>
+	<tag>TXT_Glide_Ratio_Dest_STR_M</tag>
+	<txt>ОДП до п.назначения</txt>
+</str>
+<str>
+	<tag>TXT_GLIDE_RATIO_DEST_STR_S</tag>
+	<txt>ОДП д/п.назн.</txt>
+</str>
+<str>
+	<tag>TXT_Glide_Ratio_STR_M</tag>
+	<txt>Отн. дальность планир-я</txt>
+</str>
+<str>
+	<tag>TXT_GLIDE_RATIO_STR_S</tag>
+	<txt>Отн.дальн.плн</txt>
+</str>
+<str>
+	<tag>TXT_Go_STR_L</tag>
+	<txt>^</txt>
+</str>
+<str>
+	<tag>TXT_Go_STR_M</tag>
+	<txt>^</txt>
+</str>
+<str>
+	<tag>TXT_Golf_Course_STR</tag>
+	<txt>Поле для игры в гольф</txt>
+</str>
+<str>
+	<tag>TXT_golf_STR</tag>
+	<txt>гольф</txt>
+</str>
+<str>
+	<tag>TXT_Good_Day_STR_M</tag>
+	<txt>Хороший день</txt>
+</str>
+<str>
+	<tag>TXT_Good_Times_STR_S</tag>
+	<txt>Хорошее время</txt>
+</str>
+<str>
+	<tag>TXT_Goto_Line_STR_M</tag>
+	<txt>Переход к линии</txt>
+</str>
+<str>
+	<tag>TXT_Government_Office_STR</tag>
+	<txt>Правительственное учреждение</txt>
+</str>
+<str>
+	<tag>TXT_GPS_Accuracy_STR_M</tag>
+	<txt>Точность GPS</txt>
+</str>
+<str>
+	<tag>TXT_GPS_ACCURACY_STR_S</tag>
+	<txt>Точность GPS:</txt>
+</str>
+<str>
+	<tag>TXT_GPS_config_STR_S</tag>
+	<txt>GPS</txt>
+</str>
+<str>
+	<tag>TXT_GPS_is_Off_STR_L</tag>
+	<txt>GPS отключен</txt>
+</str>
+<str>
+	<tag>TXT_GPS_Signal_Strength_STR_M</tag>
+	<txt>Уровень сигнала GPS</txt>
+</str>
+<str>
+	<tag>TXT_GPS_Status_GSA_GSV_STR_M</tag>
+	<txt>Состояние (GSA, GSV)</txt>
+</str>
+<str>
+	<tag>TXT_GPS_STR_S</tag>
+	<txt>GPS</txt>
+</str>
+<str>
+	<tag>TXT_GPS_SW_Version__STR_M</tag>
+	<txt>Версия ПО GPS:</txt>
+</str>
+<str>
+	<tag>TXT_Gray_STR</tag>
+	<txt>Серый</txt>
+</str>
+<str>
+	<tag>TXT_Green_Daymark_STR</tag>
+	<txt>Зеленый дневной знак</txt>
+</str>
+<str>
+	<tag>TXT_Green_Red_Green_STR</tag>
+	<txt>Зеленый-Красный-Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_Green_Red_STR</tag>
+	<txt>Зеленый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Green_STR</tag>
+	<txt>Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_Green_White_Green_STR</tag>
+	<txt>Зеленый-Белый-Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_Green_White_STR</tag>
+	<txt>Зеленый-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Green_Yellow_STR</tag>
+	<txt>Зеленый-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Grid_STR_M</tag>
+	<txt>Сетка</txt>
+</str>
+<str>
+	<tag>TXT_groceries_STR</tag>
+	<txt>Бакалея</txt>
+</str>
+<str>
+	<tag>TXT_Groceries_STR</tag>
+	<txt>Бакалея</txt>
+</str>
+<str>
+	<tag>TXT_Grocery_STR</tag>
+	<txt>Бакалея</txt>
+</str>
+<str>
+	<tag>TXT_Ground_Transportation_STR</tag>
+	<txt>Наземный транспорт</txt>
+</str>
+<str>
+	<tag>TXT_Group_Flashing_STR</tag>
+	<txt>Группо-проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Group_Long_Flashing_STR</tag>
+	<txt>Группо-проблесковый с длинными проблесками</txt>
+</str>
+<str>
+	<tag>TXT_Group_Occulting_STR</tag>
+	<txt>Группо-затмевающийся</txt>
+</str>
+<str>
+	<tag>TXT_Group_Quick__Long_Flashing_STR</tag>
+	<txt>Группо-проблесковый быстрый, длинные проблески</txt>
+</str>
+<str>
+	<tag>TXT_Group_Quick_STR</tag>
+	<txt>Группо-проблесковый быстрый</txt>
+</str>
+<str>
+	<tag>TXT_Group_Very_Quick__Long_Flashing_STR</tag>
+	<txt>Группо-проблесковый очень быстрый, длинные проблески</txt>
+</str>
+<str>
+	<tag>TXT_Group_Very_Quick_STR</tag>
+	<txt>Группо-проблесковый очень быстрый</txt>
+</str>
+<str>
+	<tag>TXT_GRS_1967_STR</tag>
+	<txt>GRS 1967</txt>
+</str>
+<str>
+	<tag>TXT_GRS_1980_STR</tag>
+	<txt>GRS 1980</txt>
+</str>
+<str>
+	<tag>TXT_Guidance_Method_STR_S</tag>
+	<txt>Метод ведения</txt>
+</str>
+<str>
+	<tag>TXT_Guide_Services_STR</tag>
+	<txt>Услуги гидов</txt>
+</str>
+<str>
+	<tag>TXT_Gut_STR</tag>
+	<txt>Узкий пролив</txt>
+</str>
+<str>
+	<tag>TXT_Hall_Auditorium_STR</tag>
+	<txt>Концертный зал/конференц-зал</txt>
+</str>
+<str>
+	<tag>TXT_Handicapped_Accessible_STR</tag>
+	<txt>Доступно для инвалидов</txt>
+</str>
+<str>
+	<tag>TXT_Harbor_Limit_STR</tag>
+	<txt>Границы гавани</txt>
+</str>
+<str>
+	<tag>TXT_Harbor_STR</tag>
+	<txt>Гавань</txt>
+</str>
+<str>
+	<tag>TXT_Harley_Davidson_STR</tag>
+	<txt>Harley Davidson</txt>
+</str>
+<str>
+	<tag>TXT_hddd_ddddd__STR_M</tag>
+	<txt>hddd.ddddd°</txt>
+</str>
+<str>
+	<tag>TXT_hddd_mm_mmm__STR_M</tag>
+	<txt>hddd.mm.mmm'</txt>
+</str>
+<str>
+	<tag>TXT_hddd_mm_ss__STR_M</tag>
+	<txt>hddd°mm'ss.s</txt>
+</str>
+<str>
+	<tag>TXT_Heading_STR_L</tag>
+	<txt>Направление</txt>
+</str>
+<str>
+	<tag>TXT_Heading_STR_M</tag>
+	<txt>Направление</txt>
+</str>
+<str>
+	<tag>TXT_Heart_Rate_Monitor_STR_M</tag>
+	<txt>Пульсомер</txt>
+</str>
+<str>
+	<tag>TXT_Heart_Rate_STR_M</tag>
+	<txt>Пульс</txt>
+</str>
+<str>
+	<tag>TXT_Heart_Rate_STR_S</tag>
+	<txt>Пульс</txt>
+</str>
+<str>
+	<tag>TXT_hectopascals_STR_M</tag>
+	<txt>Гектопаскали</txt>
+</str>
+<str>
+	<tag>TXT_Hectopascals_STR_M</tag>
+	<txt>Гектопаскали</txt>
+</str>
+<str>
+	<tag>TXT_Height_above_Datum__STR</tag>
+	<txt>Высота от нуля глубин:</txt>
+</str>
+<str>
+	<tag>TXT_Height_above_Foundation_STR</tag>
+	<txt>Высота от основания:</txt>
+</str>
+<str>
+	<tag>TXT_height_STR</tag>
+	<txt>высота</txt>
+</str>
+<str>
+	<tag>TXT_Height_STR_M</tag>
+	<txt>Высота</txt>
+</str>
+<str>
+	<tag>TXT_Height_Unknown_STR</tag>
+	<txt>Высота неизвестна</txt>
+</str>
+<str>
+	<tag>TXT_Heliport_STR</tag>
+	<txt>Вертолётная площадка</txt>
+</str>
+<str>
+	<tag>TXT_Helmert_1906_STR</tag>
+	<txt>Хелмерта 1906</txt>
+</str>
+<str>
+	<tag>TXT_HERE_STR_M</tag>
+	<txt>(Здесь)</txt>
+</str>
+<str>
+	<tag>TXT_High_STR</tag>
+	<txt>Высокий</txt>
+</str>
+<str>
+	<tag>TXT_Highways_STR_M</tag>
+	<txt>Шоссе</txt>
+</str>
+<str>
+	<tag>TXT_Historical_Town_STR</tag>
+	<txt>Исторический город</txt>
+</str>
+<str>
+	<tag>TXT_Hold_Level_STR_M</tag>
+	<txt>Держите горизонтально</txt>
+</str>
+<str>
+	<tag>TXT_Home_Furnishings_STR</tag>
+	<txt>Товары для дома</txt>
+</str>
+<str>
+	<tag>TXT_Honda_Automobile_Dealers_STR</tag>
+	<txt>Дилеры автомобилей Honda</txt>
+</str>
+<str>
+	<tag>TXT_Honda_Motorcycle_Dealers_STR</tag>
+	<txt>Дилеры мотоциклов Honda</txt>
+</str>
+<str>
+	<tag>TXT_Hong_Kong_STR_X</tag>
+	<txt>Гонконг</txt>
+</str>
+<str>
+	<tag>TXT_Hookups_STR</tag>
+	<txt>Вода и электричество</txt>
+</str>
+<str>
+	<tag>TXT_Horizontal_Double_Lights__STR</tag>
+	<txt>Горизонтальные двойные огни:</txt>
+</str>
+<str>
+	<tag>TXT_Horn_STR</tag>
+	<txt>Ревун</txt>
+</str>
+<str>
+	<tag>TXT_Hospital_STR</tag>
+	<txt>Больница</txt>
+</str>
+<str>
+	<tag>TXT_Hospitals_STR_M</tag>
+	<txt>Больницы</txt>
+</str>
+<str>
+	<tag>TXT_Hot_Spring_STR</tag>
+	<txt>Горячий источник</txt>
+</str>
+<str>
+	<tag>TXT_Hotel_Motel_STR</tag>
+	<txt>Гостиница/мотель</txt>
+</str>
+<str>
+	<tag>TXT_hotel_STR</tag>
+	<txt>гостиница</txt>
+</str>
+<str>
+	<tag>TXT_Hough_STR</tag>
+	<txt>Хауфа</txt>
+</str>
+<str>
+	<tag>TXT_hours_STR_M</tag>
+	<txt>ч</txt>
+</str>
+<str>
+	<tag>TXT_House_and_Garden_STR</tag>
+	<txt>Дом и сад</txt>
+</str>
+<str>
+	<tag>TXT_House_STR</tag>
+	<txt>Дом</txt>
+</str>
+<str>
+	<tag>TXT_Hunt___Fish_STR_M</tag>
+	<txt>Охота и рыбалка</txt>
+</str>
+<str>
+	<tag>TXT_Hunting_STR_M</tag>
+	<txt>Охота</txt>
+</str>
+<str>
+	<tag>TXT_Hyundai_Dealers_STR</tag>
+	<txt>Дилеры Hyndai</txt>
+</str>
+<str>
+	<tag>TXT_IALA_Region__STR</tag>
+	<txt>Регион IALA</txt>
+</str>
+<str>
+	<tag>TXT_Ice_Skating_STR</tag>
+	<txt>Каток</txt>
+</str>
+<str>
+	<tag>TXT_ice_STR</tag>
+	<txt>лед</txt>
+</str>
+<str>
+	<tag>TXT_Iceland_STR_X</tag>
+	<txt>Исландия</txt>
+</str>
+<str>
+	<tag>TXT_Icelandic_Grid_STR_M</tag>
+	<txt>Исландская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Image_Viewer_STR_M</tag>
+	<txt>Просмотр изображен.</txt>
+</str>
+<str>
+	<tag>TXT_Imagery_Coverage_STR</tag>
+	<txt>Область покрытия фотоснимка</txt>
+</str>
+<str>
+	<tag>TXT_Importing_Track_STR_M</tag>
+	<txt>Импорт трека</txt>
+</str>
+<str>
+	<tag>TXT_Inadequately_Surveyed_Area_STR</tag>
+	<txt>Малообследованная зона</txt>
+</str>
+<str>
+	<tag>TXT_Inches__Hg__STR_M</tag>
+	<txt>Дюймы (рт. ст.)</txt>
+</str>
+<str>
+	<tag>TXT_inches_STR_M</tag>
+	<txt>дюймы (рт. ст.)</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_0_STR_M</tag>
+	<txt>Индийская зона 0</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IA_STR_M</tag>
+	<txt>Индийская зона IA</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IB_STR_M</tag>
+	<txt>Индийская зона IB</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IIA_STR_M</tag>
+	<txt>Индийская зона IIA</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IIB_STR_M</tag>
+	<txt>Индийская зона IIB</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IIIA_STR_M</tag>
+	<txt>Индийская зона IIIA</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IIIB_STR_M</tag>
+	<txt>Индийская зона IIIB</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IVA_STR_M</tag>
+	<txt>Индийская зона IVA</txt>
+</str>
+<str>
+	<tag>TXT_India_Zone_IVB_STR_M</tag>
+	<txt>Индийская зона IVB</txt>
+</str>
+<str>
+	<tag>TXT_Indonesian_Equatorial_LCO_STR_M</tag>
+	<txt>Индонезийск. экв.</txt>
+</str>
+<str>
+	<tag>TXT_Indonesian_Irian_LCO_STR_M</tag>
+	<txt>Индонезийская Ириан</txt>
+</str>
+<str>
+	<tag>TXT_Indonesian_Southern_LCO_STR_M</tag>
+	<txt>Индонезийск. Южная</txt>
+</str>
+<str>
+	<tag>TXT_Indosat_Dealers_STR</tag>
+	<txt>Дилеры Indosat</txt>
+</str>
+<str>
+	<tag>TXT_Industrial_Complex_STR</tag>
+	<txt>Промышленный комплекс</txt>
+</str>
+<str>
+	<tag>TXT_Infiniti_Dealers_STR</tag>
+	<txt>Дилеры Infiniti</txt>
+</str>
+<str>
+	<tag>TXT_Info_Text_STR</tag>
+	<txt>Сведения</txt>
+</str>
+<str>
+	<tag>TXT_Information_STR</tag>
+	<txt>Сведения</txt>
+</str>
+<str>
+	<tag>TXT_Inner_Side_STR</tag>
+	<txt>Внутренняя сторона</txt>
+</str>
+<str>
+	<tag>TXT_Insert_STR_M</tag>
+	<txt>Вставьте</txt>
+</str>
+<str>
+	<tag>TXT_Inshore_Traffic_Zone_STR</tag>
+	<txt>Зона прибрежного плавания</txt>
+</str>
+<str>
+	<tag>TXT_Insufficient_DEM_STR_M</tag>
+	<txt>Карты не содержат достаточной информации о высоте для отображения трехмерного вида.</txt>
+</str>
+<str>
+	<tag>TXT_Interface_STR_S</tag>
+	<txt>Интерфейс</txt>
+</str>
+<str>
+	<tag>TXT_Intermittent_Stream_STR</tag>
+	<txt>Пересыхающий ручей</txt>
+</str>
+<str>
+	<tag>TXT_Intermittent_Water_STR</tag>
+	<txt>Временный водоем</txt>
+</str>
+<str>
+	<tag>TXT_International_Designation__STR</tag>
+	<txt>Международное обозначение:</txt>
+</str>
+<str>
+	<tag>TXT_International_Maritime_Boundary_STR</tag>
+	<txt>Международная морская граница</txt>
+</str>
+<str>
+	<tag>TXT_International_STR</tag>
+	<txt>Международные</txt>
+</str>
+<str>
+	<tag>TXT_International_STR_M</tag>
+	<txt>Международные</txt>
+</str>
+<str>
+	<tag>TXT_Interrupted_Quick_STR</tag>
+	<txt>Прерывистый часто-проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Interrupted_Ultra_Quick_STR</tag>
+	<txt>Прерывистый ультрачасто-проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Interrupted_Very_Quick_STR</tag>
+	<txt>Прерывистый очень часто-проблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Intersection_STR</tag>
+	<txt>Пересечение</txt>
+</str>
+<str>
+	<tag>TXT_Intersections_STR_M</tag>
+	<txt>Пересечения</txt>
+</str>
+<str>
+	<tag>TXT_Intertidal_Zone_Border_STR</tag>
+	<txt>Граница приливной зоны</txt>
+</str>
+<str>
+	<tag>TXT_Intertidal_Zone_STR</tag>
+	<txt>Приливная зона</txt>
+</str>
+<str>
+	<tag>TXT_Interval_STR_M</tag>
+	<txt>Интервал</txt>
+</str>
+<str>
+	<tag>TXT_Intl_Border_STR</tag>
+	<txt>Государственная граница</txt>
+</str>
+<str>
+	<tag>TXT_Invalid_Msg_STR_M</tag>
+	<txt>Недоп. сообщение</txt>
+</str>
+<str>
+	<tag>TXT_Invalid_Wig_Cartridges__STR_M</tag>
+	<txt>Обнаружены недопустимые картриджи. Отображаются только допустимые картриджи.</txt>
+</str>
+<str>
+	<tag>TXT_Inventory_STR_M</tag>
+	<txt>Ассорт-т</txt>
+</str>
+<str>
+	<tag>TXT_Irish_Grid_STR_M</tag>
+	<txt>Ирландская (IG)</txt>
+</str>
+<str>
+	<tag>TXT_Irish_Transverse_Mercator_STR_M</tag>
+	<txt>Ирландская (ITM)</txt>
+</str>
+<str>
+	<tag>TXT_Irkutsk_STR_X</tag>
+	<txt>Иркутск</txt>
+</str>
+<str>
+	<tag>TXT_Islamabad_STR_X</tag>
+	<txt>Исламабад</txt>
+</str>
+<str>
+	<tag>TXT_Island_STR</tag>
+	<txt>Остров</txt>
+</str>
+<str>
+	<tag>TXT_Isolated_Danger_Beacon_STR</tag>
+	<txt>Бакен ограждения опасности</txt>
+</str>
+<str>
+	<tag>TXT_Isolated_Danger_Buoy_STR</tag>
+	<txt>Буй ограждения опасности</txt>
+</str>
+<str>
+	<tag>TXT_Isolated_Danger_Light_STR</tag>
+	<txt>Огонь ограждения опасности</txt>
+</str>
+<str>
+	<tag>TXT_Isolated_Danger_STR</tag>
+	<txt>Отдельная опасность</txt>
+</str>
+<str>
+	<tag>TXT_Isophase_STR</tag>
+	<txt>Изофазный</txt>
+</str>
+<str>
+	<tag>TXT_Isthmus_STR</tag>
+	<txt>Перешеек</txt>
+</str>
+<str>
+	<tag>TXT_It_will_not_follow_roads_STR_M</tag>
+	<txt>Имеются отклонения от дорог. Пересчитать маршрут?</txt>
+</str>
+<str>
+	<tag>TXT_Italian_STR</tag>
+	<txt>Итальянская</txt>
+</str>
+<str>
+	<tag>TXT_Jakarta_STR_X</tag>
+	<txt>Джакарта</txt>
+</str>
+<str>
+	<tag>TXT_JAN_STR</tag>
+	<txt>ЯНВ</txt>
+</str>
+<str>
+	<tag>TXT_January_STR_M</tag>
+	<txt>Январь</txt>
+</str>
+<str>
+	<tag>TXT_Jeep_Dealers_STR</tag>
+	<txt>Дилеры Jeep</txt>
+</str>
+<str>
+	<tag>TXT_JUL_STR</tag>
+	<txt>ИЮЛ</txt>
+</str>
+<str>
+	<tag>TXT_July_STR_M</tag>
+	<txt>Июль</txt>
+</str>
+<str>
+	<tag>TXT_JUN_STR</tag>
+	<txt>ИЮН</txt>
+</str>
+<str>
+	<tag>TXT_June_STR_M</tag>
+	<txt>Июнь</txt>
+</str>
+<str>
+	<tag>TXT_Kabul_STR_X</tag>
+	<txt>Кабул</txt>
+</str>
+<str>
+	<tag>TXT_Kaliningrad_STR_X</tag>
+	<txt>Калининград</txt>
+</str>
+<str>
+	<tag>TXT_Kathmandu_STR_X</tag>
+	<txt>Катманду</txt>
+</str>
+<str>
+	<tag>TXT_Keep_left_STR_M</tag>
+	<txt>В левый ряд</txt>
+</str>
+<str>
+	<tag>TXT_Keep_right_STR_M</tag>
+	<txt>В правый ряд</txt>
+</str>
+<str>
+	<tag>TXT_kilometers_STR_M</tag>
+	<txt>километры</txt>
+</str>
+<str>
+	<tag>TXT_Kilometers_STR_M</tag>
+	<txt>километры</txt>
+</str>
+<str>
+	<tag>TXT_kph_STR</tag>
+	<txt>км/ч</txt>
+</str>
+<str>
+	<tag>TXT_Krasnoyarsk_STR_X</tag>
+	<txt>Красноярск</txt>
+</str>
+<str>
+	<tag>TXT_Krassovsky_STR</tag>
+	<txt>Красовского</txt>
+</str>
+<str>
+	<tag>TXT_Lagos_STR_X</tag>
+	<txt>Лагос</txt>
+</str>
+<str>
+	<tag>TXT_Lake_STR</tag>
+	<txt>Озеро</txt>
+</str>
+<str>
+	<tag>TXT_Lam_Con_1_Std_Par_STR_M</tag>
+	<txt>Конич. Ламберта 1 паралл.</txt>
+</str>
+<str>
+	<tag>TXT_Lam_Con_2_Std_Par_STR_M</tag>
+	<txt>Конич. Ламберта 2 паралл.</txt>
+</str>
+<str>
+	<tag>TXT_Land_Cover_STR_M</tag>
+	<txt>Подписи поверхностей</txt>
+</str>
+<str>
+	<tag>TXT_Land_Feature_STR</tag>
+	<txt>Элемент рельефа</txt>
+</str>
+<str>
+	<tag>TXT_Land_Features_STR</tag>
+	<txt>Элементы рельефа</txt>
+</str>
+<str>
+	<tag>TXT_Land_Non_Urban_STR</tag>
+	<txt>Земля, не городская</txt>
+</str>
+<str>
+	<tag>TXT_Land_Rover_STR</tag>
+	<txt>Land_Rover</txt>
+</str>
+<str>
+	<tag>TXT_Land_Urban_STR</tag>
+	<txt>Земля, городская</txt>
+</str>
+<str>
+	<tag>TXT_Landmark_STR</tag>
+	<txt>Ориентир</txt>
+</str>
+<str>
+	<tag>TXT_Language_STR_M</tag>
+	<txt>Язык</txt>
+</str>
+<str>
+	<tag>TXT_Lap_Distance_STR_M</tag>
+	<txt>Расст. круга</txt>
+</str>
+<str>
+	<tag>TXT_Lap_STR_M</tag>
+	<txt>Круг</txt>
+</str>
+<str>
+	<tag>TXT_Laps_STR_S</tag>
+	<txt>Круги</txt>
+</str>
+<str>
+	<tag>TXT_Large_Airport_STR</tag>
+	<txt>Крупный аэропорт</txt>
+</str>
+<str>
+	<tag>TXT_Large_City_STR</tag>
+	<txt>Крупный город</txt>
+</str>
+<str>
+	<tag>TXT_Large_STR_M</tag>
+	<txt>Большой</txt>
+</str>
+<str>
+	<tag>TXT_Last_Lap_STR_S</tag>
+	<txt>Посл.круг</txt>
+</str>
+<str>
+	<tag>TXT_Lat_Lon_Minutes_Precision_STR_S</tag>
+	<txt>С точн. до минуты</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Of_Central_Point_STR_S</tag>
+	<txt>Широта центральной точки</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Of_Parallel_One_STR_S</tag>
+	<txt>Широта параллели 1</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Of_Parallel_Two_STR_S</tag>
+	<txt>Широта параллели 2</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Of_Point_One_STR_S</tag>
+	<txt>Широта точки 1</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Of_Point_Two_STR_S</tag>
+	<txt>Широта точки 2</txt>
+</str>
+<str>
+	<tag>TXT_Latitude_Origin_STR_S</tag>
+	<txt>Исходная широта</txt>
+</str>
+<str>
+	<tag>TXT_laundry_STR</tag>
+	<txt>прачечная</txt>
+</str>
+<str>
+	<tag>TXT_Lava_STR</tag>
+	<txt>Лава</txt>
+</str>
+<str>
+	<tag>TXT_LCTN_Alt_STR_S</tag>
+	<txt>Местонахожд.</txt>
+</str>
+<str>
+	<tag>TXT_LCTN_STR_S</tag>
+	<txt>Местонахожд.</txt>
+</str>
+<str>
+	<tag>TXT_Leading_Angle__STR</tag>
+	<txt>Передний угол:</txt>
+</str>
+<str>
+	<tag>TXT_Leading_line_STR</tag>
+	<txt>Створ</txt>
+</str>
+<str>
+	<tag>TXT_Least_Often_STR_M</tag>
+	<txt>Наиболее редко</txt>
+</str>
+<str>
+	<tag>TXT_Least_STR_M</tag>
+	<txt>Наименьший</txt>
+</str>
+<str>
+	<tag>TXT_Leave_ferry_STR_M</tag>
+	<txt>Покинь паром</txt>
+</str>
+<str>
+	<tag>TXT_Leaving_Proximity_Point_STR_M</tag>
+	<txt>Отдаление от точки сближения</txt>
+</str>
+<str>
+	<tag>TXT_Lefdal_Retail_STR</tag>
+	<txt>Lefdal</txt>
+</str>
+<str>
+	<tag>TXT_left_STR_M</tag>
+	<txt>лево</txt>
+</str>
+<str>
+	<tag>TXT_Leg_Course_STR_M</tag>
+	<txt>Направление отрезка</txt>
+</str>
+<str>
+	<tag>TXT_LEG_CRS_STR_S</tag>
+	<txt>Напрвл.отрзк.</txt>
+</str>
+<str>
+	<tag>TXT_Leg_Dist_STR_M</tag>
+	<txt>Дл. отрезка</txt>
+</str>
+<str>
+	<tag>TXT_LEG_DIST_STR_S</tag>
+	<txt>Дл. отрезка</txt>
+</str>
+<str>
+	<tag>TXT_Leg_Time_STR_M</tag>
+	<txt>Вр. отрезка</txt>
+</str>
+<str>
+	<tag>TXT_LEG_TIME_STR_S</tag>
+	<txt>Вр. отрезка</txt>
+</str>
+<str>
+	<tag>TXT_Less_Often_STR_M</tag>
+	<txt>Менее часто</txt>
+</str>
+<str>
+	<tag>TXT_Less_STR_M</tag>
+	<txt>Меньше</txt>
+</str>
+<str>
+	<tag>TXT_Levee_STR</tag>
+	<txt>Дамба</txt>
+</str>
+<str>
+	<tag>TXT_Library_STR</tag>
+	<txt>Библиотека</txt>
+</str>
+<str>
+	<tag>TXT_Light_Color__STR</tag>
+	<txt>Цвет:</txt>
+</str>
+<str>
+	<tag>TXT_Light_Sectors__STR</tag>
+	<txt>Секторы маяка:</txt>
+</str>
+<str>
+	<tag>TXT_Light_Sectors_STR_M</tag>
+	<txt>Секторы маяка</txt>
+</str>
+<str>
+	<tag>TXT_Light_STR</tag>
+	<txt>Огонь</txt>
+</str>
+<str>
+	<tag>TXT_Light_Type__STR</tag>
+	<txt>Тип светового знака:</txt>
+</str>
+<str>
+	<tag>TXT_Light_with_East_Topmark_STR</tag>
+	<txt>Огонь с восточной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Light_with_North_Topmark_STR</tag>
+	<txt>Огонь с северной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Light_with_South_Topmark_STR</tag>
+	<txt>Огонь с южной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Light_with_West_Topmark_STR</tag>
+	<txt>Огонь с западной топовой фигурой</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Blue_STR</tag>
+	<txt>Светящее навигационное средство, синее</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Green_STR</tag>
+	<txt>Светящее навигационное средство, зеленое</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Multi_Colored_STR</tag>
+	<txt>Светящее навигационное средство, многоцветное</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Orange_STR</tag>
+	<txt>Светящее навигационное средство, оранжевое</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Red_STR</tag>
+	<txt>Светящее навигационное средство, красное</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_STR</tag>
+	<txt>Светящее навигационное средство</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Violet_STR</tag>
+	<txt>Светящее навигационное средство, фиолетовое</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_White_STR</tag>
+	<txt>Светящее навигационное средство, белое</txt>
+</str>
+<str>
+	<tag>TXT_Lighted_Navaid_Yellow_STR</tag>
+	<txt>Светящее навигационное средство, желтое</txt>
+</str>
+<str>
+	<tag>TXT_Limit_of_Exclusive_Economic_Zone_STR</tag>
+	<txt>Граница особой экономической зоны</txt>
+</str>
+<str>
+	<tag>TXT_Limit_of_Nature_Reserve_STR</tag>
+	<txt>Граница заповедника</txt>
+</str>
+<str>
+	<tag>TXT_Limit_of_Traffic_Lane_STR</tag>
+	<txt>Граница морского коридора</txt>
+</str>
+<str>
+	<tag>TXT_Line_STR</tag>
+	<txt>Линия</txt>
+</str>
+<str>
+	<tag>TXT_Liquid_Propane_STR</tag>
+	<txt>Жидкий пропан</txt>
+</str>
+<str>
+	<tag>TXT_Lithium_STR_M</tag>
+	<txt>Литиевая</txt>
+</str>
+<str>
+	<tag>TXT_Live_Theater_STR</tag>
+	<txt>Театр</txt>
+</str>
+<str>
+	<tag>TXT_Local_Designation__STR</tag>
+	<txt>Местное обозначение:</txt>
+</str>
+<str>
+	<tag>TXT_Locale_STR</tag>
+	<txt>Национальные настройки</txt>
+</str>
+<str>
+	<tag>TXT_Locating_Satellites_STR_L</tag>
+	<txt>Позиц. спутников</txt>
+</str>
+<str>
+	<tag>TXT_Location_Alt_STR_M</tag>
+	<txt>Позиция (шир/долг)</txt>
+</str>
+<str>
+	<tag>TXT_Location_STR_M</tag>
+	<txt>Позиция (выбрана)</txt>
+</str>
+<str>
+	<tag>TXT_Lock_Direction_STR_M</tag>
+	<txt>Фиксация напр.</txt>
+</str>
+<str>
+	<tag>TXT_Lock_On_Road_STR_M</tag>
+	<txt>Привязка к дороге</txt>
+</str>
+<str>
+	<tag>TXT_Lock_STR_M</tag>
+	<txt>Блокировка</txt>
+</str>
+<str>
+	<tag>TXT_Lodging_STR</tag>
+	<txt>Гостиницы/жилье</txt>
+</str>
+<str>
+	<tag>TXT_Lodging_STR_M</tag>
+	<txt>Гостиницы/жилье</txt>
+</str>
+<str>
+	<tag>TXT_Log_Attempt_STR_M</tag>
+	<txt>Отметить попытку</txt>
+</str>
+<str>
+	<tag>TXT_Long_Flashing_STR</tag>
+	<txt>Длиннопроблесковый</txt>
+</str>
+<str>
+	<tag>TXT_Longitude_Of_Central_Point_STR_S</tag>
+	<txt>Долгота центральной точки</txt>
+</str>
+<str>
+	<tag>TXT_Longitude_Of_Point_One_STR_S</tag>
+	<txt>Долгота точки 1</txt>
+</str>
+<str>
+	<tag>TXT_Longitude_Of_Point_Two_STR_S</tag>
+	<txt>Долгота точки 2</txt>
+</str>
+<str>
+	<tag>TXT_Longitude_Origin_STR_S</tag>
+	<txt>Начало отсчета долготы</txt>
+</str>
+<str>
+	<tag>TXT_Loran_Chain_Number_STR_S</tag>
+	<txt>Номер цепочки</txt>
+</str>
+<str>
+	<tag>TXT_Loran_TD_STR_M</tag>
+	<txt>Loran TD</txt>
+</str>
+<str>
+	<tag>TXT_Lost_Satellite_Reception_STR_M</tag>
+	<txt>Связь со спутником потеряна</txt>
+</str>
+<str>
+	<tag>TXT_Low_STR</tag>
+	<txt>Низкий</txt>
+</str>
+<str>
+	<tag>TXT_Magadan_STR_X</tag>
+	<txt>Магадан</txt>
+</str>
+<str>
+	<tag>TXT_Magnetic_STR_M</tag>
+	<txt>Магнитный</txt>
+</str>
+<str>
+	<tag>TXT_Maidenhead_STR_M</tag>
+	<txt>Мэйденхед</txt>
+</str>
+<str>
+	<tag>TXT_Main_Menu_STR_M</tag>
+	<txt>Главное меню</txt>
+</str>
+<str>
+	<tag>TXT_Maintained_depth_STR</tag>
+	<txt>Поддерживаемая глубина</txt>
+</str>
+<str>
+	<tag>TXT_Make_a_U_turn_STR_M</tag>
+	<txt>Развернись</txt>
+</str>
+<str>
+	<tag>TXT_Manmade_Place_STR</tag>
+	<txt>Искусственное сооружение</txt>
+</str>
+<str>
+	<tag>TXT_Manmade_Places_STR</tag>
+	<txt>Искусственные сооружения</txt>
+</str>
+<str>
+	<tag>TXT_Manual_STR_M</tag>
+	<txt>Вручную</txt>
+</str>
+<str>
+	<tag>TXT_Map_Boundary_STR</tag>
+	<txt>Граница карты</txt>
+</str>
+<str>
+	<tag>TXT_Map_Datum_STR_M</tag>
+	<txt>Датум карты</txt>
+</str>
+<str>
+	<tag>TXT_Map_Feature_STR</tag>
+	<txt>Элемент карты</txt>
+</str>
+<str>
+	<tag>TXT_Map_Information_STR_M</tag>
+	<txt>Сведения о карте</txt>
+</str>
+<str>
+	<tag>TXT_Map_Location_STR_M</tag>
+	<txt>Позиция на карте</txt>
+</str>
+<str>
+	<tag>TXT_Map_Pointer_STR_S</tag>
+	<txt>Курсор на карте</txt>
+</str>
+<str>
+	<tag>TXT_Map_Points_STR_M</tag>
+	<txt>Точки на карте (POI)</txt>
+</str>
+<str>
+	<tag>TXT_Map_Spheroid_STR_M</tag>
+	<txt>Сфероид карты</txt>
+</str>
+<str>
+	<tag>TXT_Map_STR_M</tag>
+	<txt>Карта</txt>
+</str>
+<str>
+	<tag>TXT_Map_STR_S</tag>
+	<txt>Карта</txt>
+</str>
+<str>
+	<tag>TXT_Map_update_STR_M</tag>
+	<txt>Найдены обновления для карт. Обновить карты? Если вы уже обновили карты с помощью этого обновления, выберите Нет и удалите съемный носитель.</txt>
+</str>
+<str>
+	<tag>TXT_MAR_STR</tag>
+	<txt>МАРТ</txt>
+</str>
+<str>
+	<tag>TXT_March_STR_M</tag>
+	<txt>Март</txt>
+</str>
+<str>
+	<tag>TXT_Marina_Boat_Repair_and_Storage_STR</tag>
+	<txt>Пристань для яхт/ремонт и хранение</txt>
+</str>
+<str>
+	<tag>TXT_Marina_STR</tag>
+	<txt>Пристань для яхт</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Alarm_Setup_STR_M</tag>
+	<txt>Настр.мор.сигн.тревг.</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Buoy_STR</tag>
+	<txt>Морской буй</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Colors_STR_M</tag>
+	<txt>Цвет. обозначения</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Farm_STR</tag>
+	<txt>Ферма морепродуктов</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Light_STR</tag>
+	<txt>Морской сигнальный огонь</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Profile_STR_M</tag>
+	<txt>Морская</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Service_STR</tag>
+	<txt>Обслуживание судов</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Services_STR</tag>
+	<txt>Обслуживание судов</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Services_STR_M</tag>
+	<txt>Обслуж-е судов</txt>
+</str>
+<str>
+	<tag>TXT_Marine_STR_M</tag>
+	<txt>Морская</txt>
+</str>
+<str>
+	<tag>TXT_Marine_Supplies_STR</tag>
+	<txt>Морское снабжение</txt>
+</str>
+<str>
+	<tag>TXT_Mark_Waypoint_Confirm_Message_1_STR_M</tag>
+	<txt>Текущая позиция помечена в качестве маршрутной точки</txt>
+</str>
+<str>
+	<tag>TXT_Mark_Waypoint_Confirm_Message_2_STR_M</tag>
+	<txt>Хотите просмотреть?</txt>
+</str>
+<str>
+	<tag>TXT_Mark_Waypoint_STR_M</tag>
+	<txt>Отмет. марш. тчк.</txt>
+</str>
+<str>
+	<tag>TXT_Markantalo_STR</tag>
+	<txt>Markantalo</txt>
+</str>
+<str>
+	<tag>TXT_Markers_STR_M</tag>
+	<txt>Маркеры</txt>
+</str>
+<str>
+	<tag>TXT_Master_Card_STR</tag>
+	<txt>Master Card</txt>
+</str>
+<str>
+	<tag>TXT_Max_Ascent_STR_M</tag>
+	<txt>Подъем - Максимальный</txt>
+</str>
+<str>
+	<tag>TXT_MAX_ASCNT_STR_S</tag>
+	<txt>Макс. подъем</txt>
+</str>
+<str>
+	<tag>TXT_Max_Descent_STR_M</tag>
+	<txt>Спуск - Максимальный</txt>
+</str>
+<str>
+	<tag>TXT_MAX_DSCNT_STR_S</tag>
+	<txt>Макс. спуск</txt>
+</str>
+<str>
+	<tag>TXT_Max_Ebb_STR</tag>
+	<txt>Макс. отлив</txt>
+</str>
+<str>
+	<tag>TXT_MAX_ELEV_STR_S</tag>
+	<txt>Макс. высота</txt>
+</str>
+<str>
+	<tag>TXT_Max_Elevation_STR_M</tag>
+	<txt>Высота - Максимальная</txt>
+</str>
+<str>
+	<tag>TXT_Max_Flood_STR</tag>
+	<txt>Макс. прилив</txt>
+</str>
+<str>
+	<tag>TXT_MAX_SPD_STR_S</tag>
+	<txt>Макс. скор-ть</txt>
+</str>
+<str>
+	<tag>TXT_max_STR</tag>
+	<txt>максимально</txt>
+</str>
+<str>
+	<tag>TXT_Maximum_authorized_draft_stated_STR</tag>
+	<txt>Указанная максимально допустимая осадка</txt>
+</str>
+<str>
+	<tag>TXT_Maximum_Speed_STR_M</tag>
+	<txt>Скорость - Максимальн.</txt>
+</str>
+<str>
+	<tag>TXT_MAY_STR</tag>
+	<txt>МАЙ</txt>
+</str>
+<str>
+	<tag>TXT_May_STR_M</tag>
+	<txt>Май</txt>
+</str>
+<str>
+	<tag>TXT_Mazda_Dealers_STR</tag>
+	<txt>Дилеры Mazda</txt>
+</str>
+<str>
+	<tag>TXT_Med_STR_M</tag>
+	<txt>Средний</txt>
+</str>
+<str>
+	<tag>TXT_Medical_STR</tag>
+	<txt>Медицинский</txt>
+</str>
+<str>
+	<tag>TXT_Medium_Airport_STR</tag>
+	<txt>Средний аэропорт</txt>
+</str>
+<str>
+	<tag>TXT_Medium_City_STR</tag>
+	<txt>Средний город</txt>
+</str>
+<str>
+	<tag>TXT_Memory_Full_STR_M</tag>
+	<txt>Память заполнена</txt>
+</str>
+<str>
+	<tag>TXT_Memory_Used_STR_M</tag>
+	<txt>Исп-вано памяти</txt>
+</str>
+<str>
+	<tag>TXT_Mercedes_Benz_STR</tag>
+	<txt>Mercedes-Benz</txt>
+</str>
+<str>
+	<tag>TXT_Merge_STR_M</tag>
+	<txt>Объеденить</txt>
+</str>
+<str>
+	<tag>TXT_Meters_m_per_min_STR_M</tag>
+	<txt>Метры (м/мин.)</txt>
+</str>
+<str>
+	<tag>TXT_Meters_m_per_sec_STR_M</tag>
+	<txt>Метры (м/сек)</txt>
+</str>
+<str>
+	<tag>TXT_Meters_STR</tag>
+	<txt>Метры</txt>
+</str>
+<str>
+	<tag>TXT_Meters_STR_M</tag>
+	<txt>метры</txt>
+</str>
+<str>
+	<tag>TXT_meters_STR_M</tag>
+	<txt>метры</txt>
+</str>
+<str>
+	<tag>TXT_Metric_STR_M</tag>
+	<txt>Метрические</txt>
+</str>
+<str>
+	<tag>TXT_Mexico_Central_STR_X</tag>
+	<txt>Мексика-Центр</txt>
+</str>
+<str>
+	<tag>TXT_Mexico_Mountain_STR_X</tag>
+	<txt>Мексика-Горы</txt>
+</str>
+<str>
+	<tag>TXT_Mexico_Pacific_STR_X</tag>
+	<txt>Мексика-Тихий океан</txt>
+</str>
+<str>
+	<tag>TXT_MGRS_STR_M</tag>
+	<txt>MGRS</txt>
+</str>
+<str>
+	<tag>TXT_Mid_Alantic_STR_X</tag>
+	<txt>Центр. Атлантика</txt>
+</str>
+<str>
+	<tag>TXT_Mile_Marker_STR</tag>
+	<txt>Знак расстояния</txt>
+</str>
+<str>
+	<tag>TXT_Miles_STR_M</tag>
+	<txt>Мили</txt>
+</str>
+<str>
+	<tag>TXT_miles_STR_M</tag>
+	<txt>Мили</txt>
+</str>
+<str>
+	<tag>TXT_Military_Base_STR</tag>
+	<txt>Военная база</txt>
+</str>
+<str>
+	<tag>TXT_Military_Practice_Area_STR</tag>
+	<txt>Зона военных испытаний</txt>
+</str>
+<str>
+	<tag>TXT_Military_STR</tag>
+	<txt>Военный объект</txt>
+</str>
+<str>
+	<tag>TXT_Millibars_STR_M</tag>
+	<txt>Миллибары</txt>
+</str>
+<str>
+	<tag>TXT_millibars_STR_M</tag>
+	<txt>Миллибары</txt>
+</str>
+<str>
+	<tag>TXT_Mils_STR_M</tag>
+	<txt>мили</txt>
+</str>
+<str>
+	<tag>TXT_mils_STR_M</tag>
+	<txt>мили</txt>
+</str>
+<str>
+	<tag>TXT_MIN_ELEV_STR_S</tag>
+	<txt>Мин. высота</txt>
+</str>
+<str>
+	<tag>TXT_Min_Elevation_STR_M</tag>
+	<txt>Высота - Минимальная</txt>
+</str>
+<str>
+	<tag>TXT_Mine_STR</tag>
+	<txt>Шахта</txt>
+</str>
+<str>
+	<tag>TXT_Minefield_STR</tag>
+	<txt>Минное поле</txt>
+</str>
+<str>
+	<tag>TXT_Mini_Cooper_STR</tag>
+	<txt>Mini_Cooper</txt>
+</str>
+<str>
+	<tag>TXT_Minimum_depth_stated_STR</tag>
+	<txt>Указанная минимальная глубина</txt>
+</str>
+<str>
+	<tag>TXT_Minimum_Speed__STR</tag>
+	<txt>Скорость:</txt>
+</str>
+<str>
+	<tag>TXT_minutes_STR_M</tag>
+	<txt>мин</txt>
+</str>
+<str>
+	<tag>TXT_Missing_STR_M</tag>
+	<txt>Отсутствует</txt>
+</str>
+<str>
+	<tag>TXT_Modified_Airy_STR</tag>
+	<txt>Измененный Эри</txt>
+</str>
+<str>
+	<tag>TXT_Modified_Everest_STR</tag>
+	<txt>Измененный Эвереста</txt>
+</str>
+<str>
+	<tag>TXT_Modified_Fischer_1960_STR</tag>
+	<txt>Измененный Фишера 1960</txt>
+</str>
+<str>
+	<tag>TXT_Monday_abbr_STR_S</tag>
+	<txt>M</txt>
+</str>
+<str>
+	<tag>TXT_Monday_STR_M</tag>
+	<txt>Понед.</txt>
+</str>
+<str>
+	<tag>TXT_Monitored_Channel__STR</tag>
+	<txt>Контролируемый канал:</txt>
+</str>
+<str>
+	<tag>TXT_Moonrise_STR_S</tag>
+	<txt>Восход луны</txt>
+</str>
+<str>
+	<tag>TXT_Moonset_STR_S</tag>
+	<txt>Заход луны</txt>
+</str>
+<str>
+	<tag>TXT_Mooring_Buoy_STR</tag>
+	<txt>Причальная бочка</txt>
+</str>
+<str>
+	<tag>TXT_moorings_STR</tag>
+	<txt>места стоянки</txt>
+</str>
+<str>
+	<tag>TXT_More_Often_STR_M</tag>
+	<txt>Чаще</txt>
+</str>
+<str>
+	<tag>TXT_More_STR_M</tag>
+	<txt>Больше</txt>
+</str>
+<str>
+	<tag>TXT_Morse_Code_STR</tag>
+	<txt>Азбука Морзе</txt>
+</str>
+<str>
+	<tag>TXT_Moscow_STR_X</tag>
+	<txt>Москва</txt>
+</str>
+<str>
+	<tag>TXT_Mosque_STR</tag>
+	<txt>Мечеть</txt>
+</str>
+<str>
+	<tag>TXT_Most_Often_STR_M</tag>
+	<txt>Чаще всего</txt>
+</str>
+<str>
+	<tag>TXT_Most_STR_M</tag>
+	<txt>Максимальный</txt>
+</str>
+<str>
+	<tag>TXT_MOVE_AVG_STR_S</tag>
+	<txt>Ср. ск. в движ.</txt>
+</str>
+<str>
+	<tag>TXT_Move_Down_STR_M</tag>
+	<txt>Переместить вниз</txt>
+</str>
+<str>
+	<tag>TXT_MOVE_TMR_STR_S</tag>
+	<txt>Время в движ.</txt>
+</str>
+<str>
+	<tag>TXT_Move_Up_STR_M</tag>
+	<txt>Переместить вверх</txt>
+</str>
+<str>
+	<tag>TXT_Movie_Theater_STR</tag>
+	<txt>Кинотеатр</txt>
+</str>
+<str>
+	<tag>TXT_mph_STR</tag>
+	<txt>миль/ч</txt>
+</str>
+<str>
+	<tag>TXT_Multiple_CAD__STR_S</tag>
+	<txt>Несколько датчиков темпа</txt>
+</str>
+<str>
+	<tag>TXT_Multiple_HR__STR_S</tag>
+	<txt>Несколько датчиков пульса</txt>
+</str>
+<str>
+	<tag>TXT_Muscat_STR_X</tag>
+	<txt>Маскат</txt>
+</str>
+<str>
+	<tag>TXT_Museum_Historical_STR</tag>
+	<txt>Музей/исторический</txt>
+</str>
+<str>
+	<tag>TXT_My_Current_Location_STR_M</tag>
+	<txt>...Текущая позиция</txt>
+</str>
+<str>
+	<tag>TXT_N_STR</tag>
+	<txt>С</txt>
+</str>
+<str>
+	<tag>TXT_Names_STR_M</tag>
+	<txt>Имена</txt>
+</str>
+<str>
+	<tag>TXT_National_Rentals_STR</tag>
+	<txt>Прокат автомобилей National</txt>
+</str>
+<str>
+	<tag>TXT_Native_American_Reservation_STR</tag>
+	<txt>Индейская резервация</txt>
+</str>
+<str>
+	<tag>TXT_Nature_of_the_Seabed_STR</tag>
+	<txt>Тип морского дна</txt>
+</str>
+<str>
+	<tag>TXT_Nature_Reserve_STR</tag>
+	<txt>Природная охраняемая территория</txt>
+</str>
+<str>
+	<tag>TXT_nautical_miles_STR_M</tag>
+	<txt>морские мили</txt>
+</str>
+<str>
+	<tag>TXT_Nautical_nm_kt_ft_STR_M</tag>
+	<txt>Морск(ммиль,каб,фт)</txt>
+</str>
+<str>
+	<tag>TXT_Nautical_nm_kt_m_STR_M</tag>
+	<txt>Морск.(ммиль,каб,м)</txt>
+</str>
+<str>
+	<tag>TXT_Nautical_nm_STR_M</tag>
+	<txt>Морские (ммиль)</txt>
+</str>
+<str>
+	<tag>TXT_Navaid_STR</tag>
+	<txt>Навигационное средство</txt>
+</str>
+<str>
+	<tag>TXT_Navaids_STR_M</tag>
+	<txt>Навиг. знаки</txt>
+</str>
+<str>
+	<tag>TXT_Navigation_Line_STR</tag>
+	<txt>Линия навигации</txt>
+</str>
+<str>
+	<tag>TXT_NE_STR</tag>
+	<txt>СВ</txt>
+</str>
+<str>
+	<tag>TXT_Near_Proximity_Point_STR_M</tag>
+	<txt>Рядом с точкой сближения</txt>
+</str>
+<str>
+	<tag>TXT_near_STR_L</tag>
+	<txt>около</txt>
+</str>
+<str>
+	<tag>TXT_Need_New_Altitude_STR_L</tag>
+	<txt>Нужна еще высота</txt>
+</str>
+<str>
+	<tag>TXT_Needs_Repair_STR_M</tag>
+	<txt>Требуется ремонт</txt>
+</str>
+<str>
+	<tag>TXT_Never_STR_M</tag>
+	<txt>Никогда</txt>
+</str>
+<str>
+	<tag>TXT_New_Coordinates_STR_M</tag>
+	<txt>Новые координаты</txt>
+</str>
+<str>
+	<tag>TXT_New_Location_STR_M</tag>
+	<txt>Новая позиция</txt>
+</str>
+<str>
+	<tag>TXT_New_Message_STR_M</tag>
+	<txt>Новое сообщение</txt>
+</str>
+<str>
+	<tag>TXT_New_software_is_older_than_current_software_STR_M</tag>
+	<txt>Найдено обновление ПО. Версия данного ПО более ранняя, чем текущая версия. Продолжить установку и очистить данные пользователя?</txt>
+</str>
+<str>
+	<tag>TXT_New_Zealand_STR_M</tag>
+	<txt>Новая Зеландия</txt>
+</str>
+<str>
+	<tag>TXT_New_Zealand_TM_STR_M</tag>
+	<txt>Новая Зеландия TM</txt>
+</str>
+<str>
+	<tag>TXT_Newfoundland_STR_X</tag>
+	<txt>Ньюфаундленд</txt>
+</str>
+<str>
+	<tag>TXT_NiMH_STR_M</tag>
+	<txt>NiMH</txt>
+</str>
+<str>
+	<tag>TXT_Nissan_Dealers_STR</tag>
+	<txt>Дилеры Nissan</txt>
+</str>
+<str>
+	<tag>TXT_NMEA_In_Out_STR_M</tag>
+	<txt>NMEA Вход/Выход</txt>
+</str>
+<str>
+	<tag>TXT_NMEA_Sentences_STR_S</tag>
+	<txt>Сообщения NMEA</txt>
+</str>
+<str>
+	<tag>TXT_No_Actions_Available_STR_M</tag>
+	<txt>Действия недоступны</txt>
+</str>
+<str>
+	<tag>TXT_No_Active_Route_1_STR_M</tag>
+	<txt>На данный момент ни один маршрут не активен.</txt>
+</str>
+<str>
+	<tag>TXT_No_Active_Route_2_STR_M</tag>
+	<txt>Выберите «Куда?» для установки точки назначения</txt>
+</str>
+<str>
+	<tag>TXT_No_Bottom_Found_STR</tag>
+	<txt>Дно не достигнуто</txt>
+</str>
+<str>
+	<tag>TXT_No_Current_Track_STR_M</tag>
+	<txt>Нет текущего трека. Включить отслеживание?</txt>
+</str>
+<str>
+	<tag>TXT_No_Matches_Found_STR_M</tag>
+	<txt>Поиск не дал результатов. Попробуйте изменить параметры поиска</txt>
+</str>
+<str>
+	<tag>TXT_No_STR_M</tag>
+	<txt>Нет</txt>
+</str>
+<str>
+	<tag>TXT_No_Sync_File_Found_For_STR_M</tag>
+	<txt>Не найден файл синхронизации для</txt>
+</str>
+<str>
+	<tag>TXT_No_Valid_Cartridges_Found_STR_M</tag>
+	<txt>Не найдено допустимых картриджей</txt>
+</str>
+<str>
+	<tag>TXT_NOAA_STR_M</tag>
+	<txt>NOAA</txt>
+</str>
+<str>
+	<tag>TXT_None_STR_M</tag>
+	<txt>Нет</txt>
+</str>
+<str>
+	<tag>TXT_Normal_STR_M</tag>
+	<txt>Нормальный</txt>
+</str>
+<str>
+	<tag>TXT_Normalized_Pressure_STR_M</tag>
+	<txt>Барометр</txt>
+</str>
+<str>
+	<tag>TXT_North_Reference_STR_S</tag>
+	<txt>Северный полюс</txt>
+</str>
+<str>
+	<tag>TXT_North_STR</tag>
+	<txt>Север</txt>
+</str>
+<str>
+	<tag>TXT_North_Up_STR_M</tag>
+	<txt>Север сверху</txt>
+</str>
+<str>
+	<tag>TXT_Northeast_STR</tag>
+	<txt>Северо-восток</txt>
+</str>
+<str>
+	<tag>TXT_Northwest_STR</tag>
+	<txt>Северо-запад</txt>
+</str>
+<str>
+	<tag>TXT_Notes__STR</tag>
+	<txt>Примечания:</txt>
+</str>
+<str>
+	<tag>TXT_NOV_STR</tag>
+	<txt>НОЯ</txt>
+</str>
+<str>
+	<tag>TXT_November_STR_M</tag>
+	<txt>Ноябрь</txt>
+</str>
+<str>
+	<tag>TXT_Novosibirsk_STR_X</tag>
+	<txt>Новосибирск</txt>
+</str>
+<str>
+	<tag>TXT_NRML_PRES_STR_S</tag>
+	<txt>Барометр</txt>
+</str>
+<str>
+	<tag>TXT_Numbers_STR_M</tag>
+	<txt>Номера</txt>
+</str>
+<str>
+	<tag>TXT_Numeric_Degrees_STR_M</tag>
+	<txt>Градусы (цифры)</txt>
+</str>
+<str>
+	<tag>TXT_Nun_Buoy_STR</tag>
+	<txt>Конический буй</txt>
+</str>
+<str>
+	<tag>TXT_NW_STR</tag>
+	<txt>СЗ</txt>
+</str>
+<str>
+	<tag>TXT_Oblq_Point_AZ_STR_M</tag>
+	<txt>Косая Меркатора по азимуту</txt>
+</str>
+<str>
+	<tag>TXT_Oblq_Two_Point_STR_M</tag>
+	<txt>Косая Меркатора по 2точкам</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Area_STR</tag>
+	<txt>Зона навигационной опасности</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Awash_STR</tag>
+	<txt>Препятствие в уровень с водой</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Cleared_by_Wire_Drag_STR</tag>
+	<txt>Препятствие очищенное тралом</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Line_STR</tag>
+	<txt>Линия навигационной опасности</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_STR</tag>
+	<txt>Препятствие</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Submerged_STR</tag>
+	<txt>Препятствие подводное</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_that_Covers_STR</tag>
+	<txt>Осыхающее препятствие</txt>
+</str>
+<str>
+	<tag>TXT_Obstruction_Visible_at_High_Water_STR</tag>
+	<txt>Препятствие, видимое при полной воде</txt>
+</str>
+<str>
+	<tag>TXT_Occulting_STR</tag>
+	<txt>Затмевающийся</txt>
+</str>
+<str>
+	<tag>TXT_Ocean_Sea_STR</tag>
+	<txt>Океан/Море</txt>
+</str>
+<str>
+	<tag>TXT_OCT_STR</tag>
+	<txt>ОКТ</txt>
+</str>
+<str>
+	<tag>TXT_October_STR_M</tag>
+	<txt>Октябрь</txt>
+</str>
+<str>
+	<tag>TXT_Odometer_STR_M</tag>
+	<txt>Одометр</txt>
+</str>
+<str>
+	<tag>TXT_ODOMETER_STR_S</tag>
+	<txt>Одометр</txt>
+</str>
+<str>
+	<tag>TXT_OEM_Dealer2_STR</tag>
+	<txt>Дилер OEM 2</txt>
+</str>
+<str>
+	<tag>TXT_OEM_Dealer_STR</tag>
+	<txt>Дилер OEM</txt>
+</str>
+<str>
+	<tag>TXT_Off_Course_alarm_banner_STR_M</tag>
+	<txt>Отклонение от курса</txt>
+</str>
+<str>
+	<tag>TXT_Off_Course_Alarm_STR_S</tag>
+	<txt>Сигнал откл. от курса</txt>
+</str>
+<str>
+	<tag>TXT_Off_Course_STR_M</tag>
+	<txt>Отклонение от курса</txt>
+</str>
+<str>
+	<tag>TXT_OFF_COURSE_STR_S</tag>
+	<txt>Отклн.от курс.</txt>
+</str>
+<str>
+	<tag>TXT_off_of_STR_M</tag>
+	<txt>с</txt>
+</str>
+<str>
+	<tag>TXT_Off_Road_STR_M</tag>
+	<txt>Вне дорог</txt>
+</str>
+<str>
+	<tag>TXT_Off_Road_Transitions_STR_M</tag>
+	<txt>Переходы вне дорог</txt>
+</str>
+<str>
+	<tag>TXT_Off_STR_M</tag>
+	<txt>Откл.</txt>
+</str>
+<str>
+	<tag>TXT_Office_Service_STR</tag>
+	<txt>Офисные услуги</txt>
+</str>
+<str>
+	<tag>TXT_Oil_Field_STR</tag>
+	<txt>Нефтяное месторождение</txt>
+</str>
+<str>
+	<tag>TXT_OK_STR_M</tag>
+	<txt>OK</txt>
+</str>
+<str>
+	<tag>TXT_on_left_STR_M</tag>
+	<txt>слева</txt>
+</str>
+<str>
+	<tag>TXT_on_right_STR_M</tag>
+	<txt>справа</txt>
+</str>
+<str>
+	<tag>TXT_On_Road_For_Distance_STR_M</tag>
+	<txt>По дорогам - расст.</txt>
+</str>
+<str>
+	<tag>TXT_On_Road_For_Time_STR_M</tag>
+	<txt>По дорогам - время</txt>
+</str>
+<str>
+	<tag>TXT_on_SPECIAL_STR_L</tag>
+	<txt>на</txt>
+</str>
+<str>
+	<tag>TXT_on_SPECIAL_STR_M</tag>
+	<txt>на</txt>
+</str>
+<str>
+	<tag>TXT_on_STR_M</tag>
+	<txt>вкл.</txt>
+</str>
+<str>
+	<tag>TXT_On_STR_M</tag>
+	<txt>Вкл.</txt>
+</str>
+<str>
+	<tag>TXT_One_way_track_STR</tag>
+	<txt>Односторонний путь</txt>
+</str>
+<str>
+	<tag>TXT_onto_STR_M</tag>
+	<txt>на</txt>
+</str>
+<str>
+	<tag>TXT_Open_24_Hours_STR</tag>
+	<txt>Открыто круглосуточно</txt>
+</str>
+<str>
+	<tag>TXT_Open_All_Year_STR</tag>
+	<txt>Открыто круглый год</txt>
+</str>
+<str>
+	<tag>TXT_Opening_STR_M</tag>
+	<txt>Открытие</txt>
+</str>
+<str>
+	<tag>TXT_Optimize_Route_For_Selected_Vehicle_STR_M</tag>
+	<txt>Оптимизир. маршрут для выбранного автомобиля</txt>
+</str>
+<str>
+	<tag>TXT_Orange_Black_STR</tag>
+	<txt>Оранжевый-Черный</txt>
+</str>
+<str>
+	<tag>TXT_Orange_STR</tag>
+	<txt>Оранжевый</txt>
+</str>
+<str>
+	<tag>TXT_Orange_White_STR</tag>
+	<txt>Оранжевый-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Orange_Yellow_STR</tag>
+	<txt>Оранжевый-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Orchard_STR</tag>
+	<txt>Фруктовый сад</txt>
+</str>
+<str>
+	<tag>TXT_Orientation_STR_M</tag>
+	<txt>Ориентация</txt>
+</str>
+<str>
+	<tag>TXT_Other_Exit_STR</tag>
+	<txt>Другой съезд</txt>
+</str>
+<str>
+	<tag>TXT_Other_STR</tag>
+	<txt>Другое</txt>
+</str>
+<str>
+	<tag>TXT_Others_STR</tag>
+	<txt>Другие</txt>
+</str>
+<str>
+	<tag>TXT_Others_STR_M</tag>
+	<txt>Другие</txt>
+</str>
+<str>
+	<tag>TXT_Outdoors_Rec_STR_M</tag>
+	<txt>Вне помещения</txt>
+</str>
+<str>
+	<tag>TXT_Outer_Side_STR</tag>
+	<txt>Внешняя сторона</txt>
+</str>
+<str>
+	<tag>TXT_Outlet_Mall_STR</tag>
+	<txt>Торговый центр</txt>
+</str>
+<str>
+	<tag>TXT_Overhead_Cable_STR</tag>
+	<txt>Воздушный кабель</txt>
+</str>
+<str>
+	<tag>TXT_Overnight_Parking_STR</tag>
+	<txt>Ночная автостоянка</txt>
+</str>
+<str>
+	<tag>TXT_Package_Service_STR</tag>
+	<txt>Услуги по упаковке</txt>
+</str>
+<str>
+	<tag>TXT_Park_Garden_STR</tag>
+	<txt>Парк/сад</txt>
+</str>
+<str>
+	<tag>TXT_Park_STR</tag>
+	<txt>Парк</txt>
+</str>
+<str>
+	<tag>TXT_Parking_Area_STR</tag>
+	<txt>Автостоянка</txt>
+</str>
+<str>
+	<tag>TXT_Parking_Garage_STR</tag>
+	<txt>Крытая парковка</txt>
+</str>
+<str>
+	<tag>TXT_Parking_Lot_STR</tag>
+	<txt>Автостоянка</txt>
+</str>
+<str>
+	<tag>TXT_Parking_STR</tag>
+	<txt>Парковка</txt>
+</str>
+<str>
+	<tag>TXT_Pedestrian_STR_M</tag>
+	<txt>Пешеход</txt>
+</str>
+<str>
+	<tag>TXT_Period__STR</tag>
+	<txt>Период:</txt>
+</str>
+<str>
+	<tag>TXT_Personal_Service_STR</tag>
+	<txt>Бытовые услуги</txt>
+</str>
+<str>
+	<tag>TXT_Petropavlovsk_Kamchatskiy_STR_X</tag>
+	<txt>Камчатка</txt>
+</str>
+<str>
+	<tag>TXT_Pharmacy_Chemist_STR</tag>
+	<txt>Аптека</txt>
+</str>
+<str>
+	<tag>TXT_Phone_2__STR</tag>
+	<txt>Телефон 2:</txt>
+</str>
+<str>
+	<tag>TXT_Phone__STR</tag>
+	<txt>Телефон:</txt>
+</str>
+<str>
+	<tag>TXT_phone_STR</tag>
+	<txt>телефон</txt>
+</str>
+<str>
+	<tag>TXT_Picnic_Area_STR</tag>
+	<txt>Место для пикников</txt>
+</str>
+<str>
+	<tag>TXT_Pier_Jetty_STR</tag>
+	<txt>Пирс/Пристань</txt>
+</str>
+<str>
+	<tag>TXT_Pile_Barrier_STR</tag>
+	<txt>Свайный барьер</txt>
+</str>
+<str>
+	<tag>TXT_Pile_STR</tag>
+	<txt>Свая</txt>
+</str>
+<str>
+	<tag>TXT_Pillar_STR</tag>
+	<txt>Колонна</txt>
+</str>
+<str>
+	<tag>TXT_Pilot_Boarding_Place_STR</tag>
+	<txt>Место взятия на борт лоцмана</txt>
+</str>
+<str>
+	<tag>TXT_Pipeline_STR</tag>
+	<txt>Трубопровод</txt>
+</str>
+<str>
+	<tag>TXT_Pizza_STR</tag>
+	<txt>Пицца</txt>
+</str>
+<str>
+	<tag>TXT_Place_of_Worship_STR</tag>
+	<txt>Храм</txt>
+</str>
+<str>
+	<tag>TXT_Plain_STR</tag>
+	<txt>Равнина</txt>
+</str>
+<str>
+	<tag>TXT_Platform_Buoy_STR</tag>
+	<txt>Буй платформы</txt>
+</str>
+<str>
+	<tag>TXT_Play_Anywhere_STR_M</tag>
+	<txt>Играть везде</txt>
+</str>
+<str>
+	<tag>TXT_Play_Anywhere_STR_S</tag>
+	<txt>Играть везде</txt>
+</str>
+<str>
+	<tag>TXT_Play_STR_M</tag>
+	<txt>Прослушать</txt>
+</str>
+<str>
+	<tag>TXT_Plot_Type_STR_M</tag>
+	<txt>Тип графика</txt>
+</str>
+<str>
+	<tag>TXT_Point_of_Interest_STR</tag>
+	<txt>Объект</txt>
+</str>
+<str>
+	<tag>TXT_Point_STR</tag>
+	<txt>Точка</txt>
+</str>
+<str>
+	<tag>TXT_Point_to_the_hunt_fish_location_STR_M</tag>
+	<txt>Укажите позицию для использования страницы охоты и ловли рыбы и нажмите ВВОД.</txt>
+</str>
+<str>
+	<tag>TXT_Point_to_your_approximate_STR_S</tag>
+	<txt>Укажите позицию и нажмите ВВОД.</txt>
+</str>
+<str>
+	<tag>TXT_Pointer_STR_M</tag>
+	<txt>Указатель</txt>
+</str>
+<str>
+	<tag>TXT_POINTER_STR_S</tag>
+	<txt>Указатель</txt>
+</str>
+<str>
+	<tag>TXT_Points_of_interest_STR_M</tag>
+	<txt>Объекты POI</txt>
+</str>
+<str>
+	<tag>TXT_Points_Streeta_etc_STR_M</tag>
+	<txt>Точки, улицы и т.д.</txt>
+</str>
+<str>
+	<tag>TXT_Pole_STR</tag>
+	<txt>Веха</txt>
+</str>
+<str>
+	<tag>TXT_Police_Station_STR</tag>
+	<txt>Полицейский участок</txt>
+</str>
+<str>
+	<tag>TXT_pool_STR</tag>
+	<txt>водоём</txt>
+</str>
+<str>
+	<tag>TXT_Poor_Coverage_STR_L</tag>
+	<txt>Слабый сигнал GPS</txt>
+</str>
+<str>
+	<tag>TXT_Poor_Day_STR_M</tag>
+	<txt>Плохой день</txt>
+</str>
+<str>
+	<tag>TXT_Port_Hand_Beacon_STR</tag>
+	<txt>Бакен левой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Port_Hand_Buoy_STR</tag>
+	<txt>Буй левой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Port_Hand_Light_STR</tag>
+	<txt>Светящий знак левой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Position_Approximate_STR</tag>
+	<txt>Местоположение приблизительно</txt>
+</str>
+<str>
+	<tag>TXT_Position_Doubtful_STR</tag>
+	<txt>Местоположение сомнительно</txt>
+</str>
+<str>
+	<tag>TXT_Position_Format_STR_M</tag>
+	<txt>Формат коорд.</txt>
+</str>
+<str>
+	<tag>TXT_Position_Reported_STR</tag>
+	<txt>Местоположение указано</txt>
+</str>
+<str>
+	<tag>TXT_Position_Unknown_STR</tag>
+	<txt>Местоположение неизвестно</txt>
+</str>
+<str>
+	<tag>TXT_Post_Office_STR</tag>
+	<txt>Почта</txt>
+</str>
+<str>
+	<tag>TXT_Postal_Code_STR_S</tag>
+	<txt>Почтовый индекс</txt>
+</str>
+<str>
+	<tag>TXT_Powerline_STR</tag>
+	<txt>Линия электропередач</txt>
+</str>
+<str>
+	<tag>TXT_Precautionary_Area_STR</tag>
+	<txt>Район повышенной осторожности плавания</txt>
+</str>
+<str>
+	<tag>TXT_Press_any_key_STR_M</tag>
+	<txt>Нажмите любую клавишу</txt>
+</str>
+<str>
+	<tag>TXT_Press_dot_STR_M</tag>
+	<txt>Нажмите точку</txt>
+</str>
+<str>
+	<tag>TXT_Press_start_and_walk_STR_M</tag>
+	<txt>Нажмите «Старт», затем обозначьте периметр площади для расчета</txt>
+</str>
+<str>
+	<tag>TXT_Press_to_Begin_STR_M</tag>
+	<txt>Нажмите для начала</txt>
+</str>
+<str>
+	<tag>TXT_Pressure_STR_M</tag>
+	<txt>Давление</txt>
+</str>
+<str>
+	<tag>TXT_Pressure_Trend_Recording_STR_S</tag>
+	<txt>Тренд давления</txt>
+</str>
+<str>
+	<tag>TXT_Print_Date_STR</tag>
+	<txt>Дата печати:</txt>
+</str>
+<str>
+	<tag>TXT_Profile_Change_STR_M</tag>
+	<txt>Изменение профиля</txt>
+</str>
+<str>
+	<tag>TXT_Profile_STR_M</tag>
+	<txt>Профиль</txt>
+</str>
+<str>
+	<tag>TXT_Profiles_STR_M</tag>
+	<txt>Профили</txt>
+</str>
+<str>
+	<tag>TXT_Prohibited_Area_STR</tag>
+	<txt>Запретная зона</txt>
+</str>
+<str>
+	<tag>TXT_Project_Distance_Instructions_STR_M</tag>
+	<txt>Выберите единицы расстояния</txt>
+</str>
+<str>
+	<tag>TXT_Project_Wpt_STR_M</tag>
+	<txt>Проек. марш. точки</txt>
+</str>
+<str>
+	<tag>TXT_Projection_STR</tag>
+	<txt>Проекция:</txt>
+</str>
+<str>
+	<tag>TXT_Provisions_STR</tag>
+	<txt>Продовольственные товары</txt>
+</str>
+<str>
+	<tag>TXT_Proximity_Memory_Full_STR_M</tag>
+	<txt>Память сближения заполнена</txt>
+</str>
+<str>
+	<tag>TXT_Proximity_Radius_Overlaps_STR_M</tag>
+	<txt>Перекрытие радиусов сближения</txt>
+</str>
+<str>
+	<tag>TXT_Public_Sport_Airport_STR</tag>
+	<txt>Спортивный аэродром</txt>
+</str>
+<str>
+	<tag>TXT_Published_in__STR</tag>
+	<txt>Опубликовано в</txt>
+</str>
+<str>
+	<tag>TXT_pump__out_STR</tag>
+	<txt>откачка</txt>
+</str>
+<str>
+	<tag>TXT_Pump_Out_STR_M</tag>
+	<txt>Откачка</txt>
+</str>
+<str>
+	<tag>TXT_QM_STR_M</tag>
+	<txt>?</txt>
+</str>
+<str>
+	<tag>TXT_QNG_Grid_STR_M</tag>
+	<txt>Сетка QNG</txt>
+</str>
+<str>
+	<tag>TXT_Quarantine_Anchorage_Area_STR</tag>
+	<txt>Карантинная якорная стоянка</txt>
+</str>
+<str>
+	<tag>TXT_Quick_STR</tag>
+	<txt>Быстрый</txt>
+</str>
+<str>
+	<tag>TXT_Racon__Yes_STR</tag>
+	<txt>Радиомаяк: Да</txt>
+</str>
+<str>
+	<tag>TXT_RACON_STR</tag>
+	<txt>Радиолокационный маяк</txt>
+</str>
+<str>
+	<tag>TXT_Radar_reference_line_STR</tag>
+	<txt>Привязочная линия радара</txt>
+</str>
+<str>
+	<tag>TXT_Radio_Beacon_STR</tag>
+	<txt>Радиомаяк</txt>
+</str>
+<str>
+	<tag>TXT_Radio_Mast_STR</tag>
+	<txt>Мачта радиоантенны</txt>
+</str>
+<str>
+	<tag>TXT_Radio_Report_Point_STR</tag>
+	<txt>Точка радиопередачи</txt>
+</str>
+<str>
+	<tag>TXT_Railroad_STR</tag>
+	<txt>Железная дорога</txt>
+</str>
+<str>
+	<tag>TXT_ramp_STR</tag>
+	<txt>рампа</txt>
+</str>
+<str>
+	<tag>TXT_Ramp_STR</tag>
+	<txt>рампа</txt>
+</str>
+<str>
+	<tag>TXT_ramp_STR_M</tag>
+	<txt>рампа</txt>
+</str>
+<str>
+	<tag>TXT_Ramps_STR_M</tag>
+	<txt>Аппарели</txt>
+</str>
+<str>
+	<tag>TXT_Range_STR</tag>
+	<txt>Диапазон</txt>
+</str>
+<str>
+	<tag>TXT_Rapids_STR</tag>
+	<txt>Пороги</txt>
+</str>
+<str>
+	<tag>TXT_Re_Sight_STR_M</tag>
+	<txt>Засечь повторно</txt>
+</str>
+<str>
+	<tag>TXT_Ready_to_Navigate_STR_L</tag>
+	<txt>Готов к навигации</txt>
+</str>
+<str>
+	<tag>TXT_Recalculate_Off_Road_STR_M</tag>
+	<txt>Пересчит. вне дорог</txt>
+</str>
+<str>
+	<tag>TXT_Recalculate_On_Road_STR_M</tag>
+	<txt>Пересчит. по дорогам</txt>
+</str>
+<str>
+	<tag>TXT_Receive_STR_M</tag>
+	<txt>Получить</txt>
+</str>
+<str>
+	<tag>TXT_Receiver_Not_Usable_STR_L</tag>
+	<txt>GPS недоступна</txt>
+</str>
+<str>
+	<tag>TXT_Recently_Found_Places_STR_M</tag>
+	<txt>Послд. рез.поиска</txt>
+</str>
+<str>
+	<tag>TXT_Recommended_Anchorage_STR</tag>
+	<txt>Рекомендованная якорная стоянка</txt>
+</str>
+<str>
+	<tag>TXT_Recommended_Direction_of_Traffic_Flow_STR</tag>
+	<txt>Рекомендуемое направление движения транспорта</txt>
+</str>
+<str>
+	<tag>TXT_Recommended_route_center_line_STR</tag>
+	<txt>Рекомендованная осевая линия маршрута</txt>
+</str>
+<str>
+	<tag>TXT_Recommended_Route_STR</tag>
+	<txt>Рекомендованный маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Record_Do_Not_Show_STR_M</tag>
+	<txt>Запис., но не показ.</txt>
+</str>
+<str>
+	<tag>TXT_Record_Method_STR_M</tag>
+	<txt>Метод записи</txt>
+</str>
+<str>
+	<tag>TXT_Record_Show_On_Map_STR_M</tag>
+	<txt>Запис.,показ.на карте</txt>
+</str>
+<str>
+	<tag>TXT_Recreation_STR</tag>
+	<txt>Отдых</txt>
+</str>
+<str>
+	<tag>TXT_Recreation_STR_M</tag>
+	<txt>Отдых</txt>
+</str>
+<str>
+	<tag>TXT_Recreational_STR_M</tag>
+	<txt>Рекреационый</txt>
+</str>
+<str>
+	<tag>TXT_Red_Black_STR</tag>
+	<txt>Красный-Черный</txt>
+</str>
+<str>
+	<tag>TXT_Red_Daymark_STR</tag>
+	<txt>Красный дневной знак</txt>
+</str>
+<str>
+	<tag>TXT_Red_Green_Red_STR</tag>
+	<txt>Красный-Зеленый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Red_Green_STR</tag>
+	<txt>Красный-Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_Red_Green_Yellow_STR</tag>
+	<txt>Красный-Зеленый-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Red_Orange_White_STR</tag>
+	<txt>Красный-Оранжевый-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Red_STR</tag>
+	<txt>Красный</txt>
+</str>
+<str>
+	<tag>TXT_Red_White_Red_STR</tag>
+	<txt>Красный-Белый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Red_White_STR</tag>
+	<txt>Красный-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Red_Yellow_Red_STR</tag>
+	<txt>Красный-Желтый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Red_Yellow_STR</tag>
+	<txt>Красный-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Reference_Ellipsoid_STR</tag>
+	<txt>Опорный эллипсоид:</txt>
+</str>
+<str>
+	<tag>TXT_Remove_STR_M</tag>
+	<txt>Удалить</txt>
+</str>
+<str>
+	<tag>TXT_Repair_Service_STR</tag>
+	<txt>Ремонтные услуги</txt>
+</str>
+<str>
+	<tag>TXT_Repair_STR_M</tag>
+	<txt>Ремонт</txt>
+</str>
+<str>
+	<tag>TXT_repairs_STR</tag>
+	<txt>ремонт</txt>
+</str>
+<str>
+	<tag>TXT_Reposition_Here_STR_M</tag>
+	<txt>Перепозиц-вать здесь</txt>
+</str>
+<str>
+	<tag>TXT_Rescue_Station_STR</tag>
+	<txt>Спасательная станция</txt>
+</str>
+<str>
+	<tag>TXT_Reserve_STR</tag>
+	<txt>Заповедник</txt>
+</str>
+<str>
+	<tag>TXT_Reservoir_STR</tag>
+	<txt>Водохранилище</txt>
+</str>
+<str>
+	<tag>TXT_Reset_STR_M</tag>
+	<txt>Сброс</txt>
+</str>
+<str>
+	<tag>TXT_Reset_Trip_STR_M</tag>
+	<txt>Сбросить поездку?</txt>
+</str>
+<str>
+	<tag>TXT_Resort_STR</tag>
+	<txt>Курорт</txt>
+</str>
+<str>
+	<tag>TXT_Rest_Area_STR</tag>
+	<txt>Зона отдыха</txt>
+</str>
+<str>
+	<tag>TXT_Rest_Area_Tourist_Info_STR</tag>
+	<txt>Зона отдыха/информация для туристов</txt>
+</str>
+<str>
+	<tag>TXT_Restaurant_STR</tag>
+	<txt>ресторан</txt>
+</str>
+<str>
+	<tag>TXT_restaurant_STR</tag>
+	<txt>ресторан</txt>
+</str>
+<str>
+	<tag>TXT_Restore_Defaults_STR_M</tag>
+	<txt>Сброс</txt>
+</str>
+<str>
+	<tag>TXT_Restricted_Area_STR</tag>
+	<txt>Зона ограниченного доступа</txt>
+</str>
+<str>
+	<tag>TXT_Restricted_Areas_STR_M</tag>
+	<txt>Режимные зоны</txt>
+</str>
+<str>
+	<tag>TXT_Restriction_Line_STR</tag>
+	<txt>Линия ограничения</txt>
+</str>
+<str>
+	<tag>TXT_restrooms_STR</tag>
+	<txt>туалеты</txt>
+</str>
+<str>
+	<tag>TXT_Restrooms_STR</tag>
+	<txt>туалеты</txt>
+</str>
+<str>
+	<tag>TXT_Resume_the_saved_game_STR_M</tag>
+	<txt>Продолжить сохраненную игру?</txt>
+</str>
+<str>
+	<tag>TXT_Reverse_Route_STR_M</tag>
+	<txt>Обратный маршрут</txt>
+</str>
+<str>
+	<tag>TXT_Review_STR_M</tag>
+	<txt>Обзор</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_Cntry_Addr_STR_M</tag>
+	<txt>В какой стране находится этот адрес?</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_Cntry_Intr_STR_M</tag>
+	<txt>В какой стране этот перекресток?</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_Spell_Cntry_STR_M</tag>
+	<txt>Введите по буквам страну.</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_Spell_State_Prov_STR_M</tag>
+	<txt>Введите по буквам штат.</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_State_Prov_Addr_STR_M</tag>
+	<txt>В какой области находится этот адрес?</txt>
+</str>
+<str>
+	<tag>TXT_Rgn_Help_State_Prov_Intr_STR_M</tag>
+	<txt>В какой области этот перекресток?</txt>
+</str>
+<str>
+	<tag>TXT_Ridge_STR</tag>
+	<txt>Хребет</txt>
+</str>
+<str>
+	<tag>TXT_right_STR_M</tag>
+	<txt>прав</txt>
+</str>
+<str>
+	<tag>TXT_River_Channel_STR</tag>
+	<txt>Речной канал</txt>
+</str>
+<str>
+	<tag>TXT_River_STR</tag>
+	<txt>Река</txt>
+</str>
+<str>
+	<tag>TXT_Road_Category__Major_STR_M</tag>
+	<txt>Категория дороги: главная</txt>
+</str>
+<str>
+	<tag>TXT_Road_Category__Medium_STR_M</tag>
+	<txt>Категория дороги: средняя</txt>
+</str>
+<str>
+	<tag>TXT_Road_Category__Minor_STR_M</tag>
+	<txt>Категория дороги: второстепенная</txt>
+</str>
+<str>
+	<tag>TXT_Road_STR</tag>
+	<txt>Дорога</txt>
+</str>
+<str>
+	<tag>TXT_Rock_Awash_STR</tag>
+	<txt>Скала в уровень с водой</txt>
+</str>
+<str>
+	<tag>TXT_Rock_Covered_at_Low_Water_STR</tag>
+	<txt>Подводная скала</txt>
+</str>
+<str>
+	<tag>TXT_Rock_STR</tag>
+	<txt>Скала</txt>
+</str>
+<str>
+	<tag>TXT_Roundabout_STR</tag>
+	<txt>Перекресток с круговым движением</txt>
+</str>
+<str>
+	<tag>TXT_roundabout_STR_M</tag>
+	<txt>круглая площадь</txt>
+</str>
+<str>
+	<tag>TXT_Route_Already_Exists_STR_M</tag>
+	<txt>Маршрут уже существует</txt>
+</str>
+<str>
+	<tag>TXT_Route_Calculation_Error__No_roads_near_destination__STR_M</tag>
+	<txt>Ошибка расчета маршрута: Рядом с пунктом назначения нет дорог.</txt>
+</str>
+<str>
+	<tag>TXT_Route_Calculation_Error__No_roads_near_starting_point__STR_M</tag>
+	<txt>Ошибка расчета маршрута: Рядом с началом маршрута нет дорог.</txt>
+</str>
+<str>
+	<tag>TXT_Route_Calculation_Error__Not_enough_memory_available__STR_M</tag>
+	<txt>Ошибка расчета маршрута: Недостаточно памяти.</txt>
+</str>
+<str>
+	<tag>TXT_Route_Calculation_Error__STR_M</tag>
+	<txt>Ошибка расчета маршрута.</txt>
+</str>
+<str>
+	<tag>TXT_Route_Is_No_Longer_Valid_STR</tag>
+	<txt>Маршрут недействителен</txt>
+</str>
+<str>
+	<tag>TXT_Route_Memory_Full_STR_M</tag>
+	<txt>Память маршрутов полна</txt>
+</str>
+<str>
+	<tag>TXT_Route_Planner_STR_M</tag>
+	<txt>План-щик маршрутов</txt>
+</str>
+<str>
+	<tag>TXT_Route_Setup_Instruc_STR_S</tag>
+	<txt>При движении вне дорог откройте активный маршрут. Следующая точка -  Правая кнопка, Предыдущая точка - Левая кнопка.</txt>
+</str>
+<str>
+	<tag>TXT_Route_Truncated_STR_M</tag>
+	<txt>Маршрут сокращен</txt>
+</str>
+<str>
+	<tag>TXT_Route_Waypoint_Memory_Full_STR_M</tag>
+	<txt>Память точек маршрута заполнена</txt>
+</str>
+<str>
+	<tag>TXT_Routes_STR_M</tag>
+	<txt>Маршруты</txt>
+</str>
+<str>
+	<tag>TXT_Routing_STR_M</tag>
+	<txt>Проклад. маршр.</txt>
+</str>
+<str>
+	<tag>TXT_RT_90_STR_M</tag>
+	<txt>RT 90</txt>
+</str>
+<str>
+	<tag>TXT_Runway_STR</tag>
+	<txt>Взлётная полоса</txt>
+</str>
+<str>
+	<tag>TXT_S_STR</tag>
+	<txt>Ю</txt>
+</str>
+<str>
+	<tag>TXT_Safe_Water_Buoy_STR</tag>
+	<txt>Буй безопасной воды</txt>
+</str>
+<str>
+	<tag>TXT_Safe_Water_Light_STR</tag>
+	<txt>Светящий знак безопасной воды</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Average_STR</tag>
+	<txt>Средняя</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Camera_STR</tag>
+	<txt>Камера</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Fixed_STR</tag>
+	<txt>Постоянный</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Mobile_STR</tag>
+	<txt>Мобильная</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Temporary_STR</tag>
+	<txt>Временная</txt>
+</str>
+<str>
+	<tag>TXT_SAFETY_CAM_Variable_STR</tag>
+	<txt>Подвижная</txt>
+</str>
+<str>
+	<tag>TXT_Safety_Camera_Ahead_STR</tag>
+	<txt>Впереди видеокамера</txt>
+</str>
+<str>
+	<tag>TXT_Safety_Camera_Zone_STR</tag>
+	<txt>Зона видеокамеры</txt>
+</str>
+<str>
+	<tag>TXT_Samara_STR_X</tag>
+	<txt>Самара</txt>
+</str>
+<str>
+	<tag>TXT_Samoa_STR_X</tag>
+	<txt>Самоа</txt>
+</str>
+<str>
+	<tag>TXT_Sand_Bar_STR</tag>
+	<txt>Песчаная отмель</txt>
+</str>
+<str>
+	<tag>TXT_Saturday_abbr_STR_S</tag>
+	<txt>S</txt>
+</str>
+<str>
+	<tag>TXT_Saturday_STR_M</tag>
+	<txt>Суббота</txt>
+</str>
+<str>
+	<tag>TXT_Save_Always_STR_M</tag>
+	<txt>Всегда сохранять</txt>
+</str>
+<str>
+	<tag>TXT_Save_and_Edit_STR_M</tag>
+	<txt>Сохранить и править</txt>
+</str>
+<str>
+	<tag>TXT_Save_STR_M</tag>
+	<txt>Сохранить</txt>
+</str>
+<str>
+	<tag>TXT_Save_Track_STR_M</tag>
+	<txt>Сохранить трек</txt>
+</str>
+<str>
+	<tag>TXT_Save_When_Power_On_STR_M</tag>
+	<txt>Сохранять, когда вкл.</txt>
+</str>
+<str>
+	<tag>TXT_Scale_1_STR</tag>
+	<txt>Масштаб 1:</txt>
+</str>
+<str>
+	<tag>TXT_Scale_STR_S</tag>
+	<txt>Масштаб</txt>
+</str>
+<str>
+	<tag>TXT_Scenic_Area_STR</tag>
+	<txt>Живописная местность</txt>
+</str>
+<str>
+	<tag>TXT_School_STR</tag>
+	<txt>Школа</txt>
+</str>
+<str>
+	<tag>TXT_Screen_Capture_Help_Text_STR_M</tag>
+	<txt>Нажмите кн. питания для получения снимка экрана</txt>
+</str>
+<str>
+	<tag>TXT_Screen_Capture_STR_M</tag>
+	<txt>Снимок экрана</txt>
+</str>
+<str>
+	<tag>TXT_Screen_is_locked_STR_M</tag>
+	<txt>Экран заблокирован. Нажмите кнопку питания для разблокировки.</txt>
+</str>
+<str>
+	<tag>TXT_Screen_Shot_STR</tag>
+	<txt>Снимок экрана</txt>
+</str>
+<str>
+	<tag>TXT_Screen_STR_M</tag>
+	<txt>Экран</txt>
+</str>
+<str>
+	<tag>TXT_Scrub_STR</tag>
+	<txt>Кустарник</txt>
+</str>
+<str>
+	<tag>TXT_scuba_STR</tag>
+	<txt>подводное плавание</txt>
+</str>
+<str>
+	<tag>TXT_SE_STR</tag>
+	<txt>ЮВ</txt>
+</str>
+<str>
+	<tag>TXT_Sea_STR</tag>
+	<txt>Море</txt>
+</str>
+<str>
+	<tag>TXT_Seafood_STR</tag>
+	<txt>Морепродукты</txt>
+</str>
+<str>
+	<tag>TXT_Search_All_STR_M</tag>
+	<txt>Искать везде</txt>
+</str>
+<str>
+	<tag>TXT_Search_For_New_STR_M</tag>
+	<txt>Искать новое</txt>
+</str>
+<str>
+	<tag>TXT_Search_Near_STR_M</tag>
+	<txt>Поиск рядом...</txt>
+</str>
+<str>
+    <tag>TXT_Search_STR_M</tag>
+    <txt>Поиск</txt>
+</str>
+<str>
+	<tag>TXT_Searching_STR_M</tag>
+	<txt>Поиск</txt>
+</str>
+<str>
+	<tag>TXT_Searching_the_Sky_STR_L</tag>
+	<txt>Поиск спутников</txt>
+</str>
+<str>
+	<tag>TXT_Seaward_Limit_of_Territorial_Sea_STR</tag>
+	<txt>Морская граница территориальных вод</txt>
+</str>
+<str>
+	<tag>TXT_seconds_STR_M</tag>
+	<txt>с</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Compass_Mode_STR_M</tag>
+	<txt>Выбрать режим компаса</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Daylight_Saving_Preference_STR_M</tag>
+	<txt>Установка зимнего/ летнего времени:</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Field_To_Replace_STR_M</tag>
+	<txt>Выберите поле для замен</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Guidance_Method_STR_M</tag>
+	<txt>Выбрать метод выдачи инструкций</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Map_Datum_STR_M</tag>
+	<txt>Выбрать систему координат карты</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Map_Spheroid_STR_M</tag>
+	<txt>Выбрать сфероид карты</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_North_Reference_STR_M</tag>
+	<txt>Выбрать направление севера</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Plot_Type_STR_M</tag>
+	<txt>Выбрать тип графика</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Position_Format_STR_M</tag>
+	<txt>Выбрать формат позиции</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Time_Format_STR_M</tag>
+	<txt>Выбрать формат времени</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Time_Zone_STR_M</tag>
+	<txt>Выбрать часовой пояс</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Track_Log_Recording_Method_STR_M</tag>
+	<txt>Выбрать метод ведения пройденного маршрута</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Track_Log_Recording_Rate_STR_M</tag>
+	<txt>Выбрать частоту обновл-я пройденного маршрута</txt>
+</str>
+<str>
+	<tag>TXT_Select_A_Unit_Of_Measure_STR_M</tag>
+	<txt>Выберите единицу измерения</txt>
+</str>
+<str>
+	<tag>TXT_Select_All_STR_M</tag>
+	<txt>Выбрать все</txt>
+</str>
+<str>
+	<tag>TXT_Select_Auto_Calibration_Mode_STR_M</tag>
+	<txt>Выбрать режим автокалибровки</txt>
+</str>
+<str>
+	<tag>TXT_Select_Auto_Zoom_Setting_STR_M</tag>
+	<txt>Выбрать настройку автомасштабирования</txt>
+</str>
+<str>
+	<tag>TXT_Select_Background_Image_STR_M</tag>
+	<txt>Выбрать фоновое изображение</txt>
+</str>
+<str>
+	<tag>TXT_Select_Backlight_Timeout_STR_M</tag>
+	<txt>Выбрать время подсветки</txt>
+</str>
+<str>
+	<tag>TXT_Select_Barometer_Mode_STR_M</tag>
+	<txt>Выбрать режим барометра</txt>
+</str>
+<str>
+	<tag>TXT_Select_Barometric_Pressure_Units_STR_M</tag>
+	<txt>Выбрать единицы измерения давления</txt>
+</str>
+<str>
+	<tag>TXT_Select_Battery_Type_STR_M</tag>
+	<txt>Выбрать тип батареи</txt>
+</str>
+<str>
+	<tag>TXT_Select_Compass_Pointer_Style_STR_M</tag>
+	<txt>Выбрать стиль указателя компаса</txt>
+</str>
+<str>
+	<tag>TXT_Select_Dashboard_STR_M</tag>
+	<txt>Выбрать панель управления</txt>
+</str>
+<str>
+	<tag>TXT_Select_Depth_Units_STR_M</tag>
+	<txt>Выбрать единицы измерения глубины</txt>
+</str>
+<str>
+	<tag>TXT_Select_Distance_and_Speed_Units_STR_M</tag>
+	<txt>Выбрать ед. измерения расстояния и скорости</txt>
+</str>
+<str>
+	<tag>TXT_Select_DST_Mode_STR_M</tag>
+	<txt>Выбор режима летнего времени</txt>
+</str>
+<str>
+	<tag>TXT_Select_Elevation_and_Vertical_Speed_Units_STR_M</tag>
+	<txt>Выбрать ед. измерения высоты и верт. скорости</txt>
+</str>
+<str>
+	<tag>TXT_Select_First_Point_STR_M</tag>
+	<txt>&lt;Выберите перв. тчк&gt;</txt>
+</str>
+<str>
+	<tag>TXT_Select_GPS_Mode_STR_M</tag>
+	<txt>Выбрать режим GPS</txt>
+</str>
+<str>
+	<tag>TXT_Select_Heading_Display_Type_STR_M</tag>
+	<txt>Выбрать тип отображен. направления</txt>
+</str>
+<str>
+	<tag>TXT_Select_Interface_Mode_STR_M</tag>
+	<txt>Выбрать режим интерфейса</txt>
+</str>
+<str>
+	<tag>TXT_Select_Items_To_Avoid_STR_M</tag>
+	<txt>Выбрать объекты, кот-е следует избегать</txt>
+</str>
+<str>
+	<tag>TXT_Select_Land_Cover_Text_Size_STR_M</tag>
+	<txt>Выбрать размер текста для подписей поверхностей</txt>
+</str>
+<str>
+	<tag>TXT_Select_Land_Cover_Zoom_Level_STR_M</tag>
+	<txt>Выбрать уровень масштаба подписей поверхностей</txt>
+</str>
+<str>
+	<tag>TXT_Select_Language_STR_M</tag>
+	<txt>Выберите язык</txt>
+</str>
+<str>
+	<tag>TXT_Select_Light_Sectors_Mode_STR_M</tag>
+	<txt>Выбрать режим для секторов света</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_Detail_Level_STR_M</tag>
+	<txt>Выбрать уровень детализации карты</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_Orientation_STR_M</tag>
+	<txt>Выбрать ориентацию карты</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_Page_Layout_STR_M</tag>
+	<txt>Выбрать компоновку страницы с картой</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_Points_Text_Size_STR_M</tag>
+	<txt>Выбрать размер текста для точек на карте</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_Points_Zoom_Level_STR_M</tag>
+	<txt>Выбрать уровень масштаб-я точек на карте</txt>
+</str>
+<str>
+	<tag>TXT_Select_Map_STR_M</tag>
+	<txt>Выберите карту</txt>
+</str>
+<str>
+	<tag>TXT_Select_Marine_Chart_Drawing_Mode_STR_M</tag>
+	<txt>Выбрать реж. отображен. морской карты</txt>
+</str>
+<str>
+	<tag>TXT_Select_Marine_Symbol_Set_STR_M</tag>
+	<txt>Выбрать системы навигационных символов</txt>
+</str>
+<str>
+	<tag>TXT_Select_Mode_For_Cadence_Sensor_STR_M</tag>
+	<txt>Выбрать режим датчика такта</txt>
+</str>
+<str>
+	<tag>TXT_Select_Mode_For_Heart_Rate_Monitor_STR_M</tag>
+	<txt>Выбрать реж.для мони-тора част. сердцебиений</txt>
+</str>
+<str>
+	<tag>TXT_Select_Next_Point_STR_M</tag>
+	<txt>&lt;Выбор след. точки&gt;</txt>
+</str>
+<str>
+	<tag>TXT_Select_Off_Road_Transition_Trigger_STR_M</tag>
+	<txt>Выбрать переключатель перемещения вне дороги</txt>
+</str>
+<str>
+	<tag>TXT_Select_Options_for_more_information_STR_M</tag>
+	<txt>Выберите Параметры для доп.сведений</txt>
+</str>
+<str>
+	<tag>TXT_Select_Pressure_Trending_Mode_STR_M</tag>
+	<txt>Выбрать режим тренда давления</txt>
+</str>
+<str>
+	<tag>TXT_Select_Spot_Soundings_Mode_STR_M</tag>
+	<txt>Выбрать режим промеров глубины</txt>
+</str>
+<str>
+	<tag>TXT_Select_Street_Label_Text_Size_STR_M</tag>
+	<txt>Выбрать размер текста для названий улиц</txt>
+</str>
+<str>
+	<tag>TXT_Select_Street_Label_Zoom_Level_STR_M</tag>
+	<txt>Выбрать уровень масштаб. названий улиц</txt>
+</str>
+<str>
+	<tag>TXT_Select_Time_Zone_STR_M</tag>
+	<txt>Выберите часовой пояс.</txt>
+</str>
+<str>
+	<tag>TXT_Select_Tones_Mode_STR_M</tag>
+	<txt>Выбрать режим сигналов</txt>
+</str>
+<str>
+	<tag>TXT_Select_Track_Log_Zoom_Level_STR_M</tag>
+	<txt>Выбрать уровень масш-таб. для путевого журн.</txt>
+</str>
+<str>
+	<tag>TXT_Select_Track_Recording_Preference_STR_M</tag>
+	<txt>Выбрать парам. внесения записей в журнал</txt>
+</str>
+<str>
+	<tag>TXT_Select_Transfer_Item_STR_M</tag>
+	<txt>Выберите тип данных для отпр. по беспроводн.</txt>
+</str>
+<str>
+	<tag>TXT_Select_User_Waypoints_Text_Size_STR_M</tag>
+	<txt>Выбрать размер текста для маршрутных тчк GPX</txt>
+</str>
+<str>
+	<tag>TXT_Select_User_Waypoints_Zoom_Level_STR_M</tag>
+	<txt>Выбрать уровень масштаба маршрутных точек GPX</txt>
+</str>
+<str>
+	<tag>TXT_Select_Water_Temperature_Units_STR_M</tag>
+	<txt>Выбрать ед. измерения температуры воды</txt>
+</str>
+<str>
+	<tag>TXT_Send_STR_M</tag>
+	<txt>Отпр.</txt>
+</str>
+<str>
+	<tag>TXT_SEP_STR</tag>
+	<txt>СЕН</txt>
+</str>
+<str>
+	<tag>TXT_September_STR_M</tag>
+	<txt>Сентябрь</txt>
+</str>
+<str>
+	<tag>TXT_Serial_Accessory_Requires_External_Power_STR_M</tag>
+	<txt>Для подключения последовательного аксессуара необходимо внешнее питание.</txt>
+</str>
+<str>
+	<tag>TXT_Service_Area_STR</tag>
+	<txt>Зона обслуживания</txt>
+</str>
+<str>
+	<tag>TXT_Service_STR</tag>
+	<txt>Обслуживание</txt>
+</str>
+<str>
+	<tag>TXT_SERVICES_STR</tag>
+	<txt>Службы</txt>
+</str>
+<str>
+	<tag>TXT_Services_STR</tag>
+	<txt>Службы</txt>
+</str>
+<str>
+	<tag>TXT_Set_Anchor_Drag_Alarm_STR_M</tag>
+	<txt>Установить оповещение о дрейфе якоря</txt>
+</str>
+<str>
+	<tag>TXT_Set_Course_STR_M</tag>
+	<txt>Установить курс</txt>
+</str>
+<str>
+	<tag>TXT_Set_Deep_Water_Alarm_STR_M</tag>
+	<txt>Установить оповещение о большой глубине</txt>
+</str>
+<str>
+	<tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
+	<txt>Установить оповещение о нарушении курса</txt>
+</str>
+<str>
+	<tag>TXT_Set_Shallow_Water_Alarm_STR_M</tag>
+	<txt>Установить оповещение о мелководье</txt>
+</str>
+<str>
+	<tag>TXT_Setup_STR_M</tag>
+	<txt>Настройка</txt>
+</str>
+<str>
+	<tag>TXT_Shallow_Water_Alert_STR_M</tag>
+	<txt>Внимание: Мелкая вода</txt>
+</str>
+<str>
+	<tag>TXT_Shallow_Water_STR_M</tag>
+	<txt>Мелководье</txt>
+</str>
+<str>
+	<tag>TXT_Share_Wirelessly_STR_M</tag>
+	<txt>Беспроводн. обмен</txt>
+</str>
+<str>
+	<tag>TXT_Shoal_STR</tag>
+	<txt>Мель</txt>
+</str>
+<str>
+	<tag>TXT_Shopping_Center_STR</tag>
+	<txt>Торговый центр</txt>
+</str>
+<str>
+	<tag>TXT_Shopping_STR</tag>
+	<txt>Магазины</txt>
+</str>
+<str>
+	<tag>TXT_Shopping_STR_M</tag>
+	<txt>Магазины</txt>
+</str>
+<str>
+	<tag>TXT_Shoreline_STR</tag>
+	<txt>Береговая линия</txt>
+</str>
+<str>
+	<tag>TXT_Show_Data_Fields_STR_M</tag>
+	<txt>Показ. поля данных</txt>
+</str>
+<str>
+	<tag>TXT_Show_Description_STR_M</tag>
+	<txt>Показать описание</txt>
+</str>
+<str>
+	<tag>TXT_Show_Found_STR_M</tag>
+	<txt>Показать найденное</txt>
+</str>
+<str>
+	<tag>TXT_Show_on_Main_Map_STR_S</tag>
+	<txt>Показать на карте</txt>
+</str>
+<str>
+	<tag>TXT_Shower_STR</tag>
+	<txt>душ</txt>
+</str>
+<str>
+	<tag>TXT_shower_STR</tag>
+	<txt>душ</txt>
+</str>
+<str>
+	<tag>TXT_Signs_STR_M</tag>
+	<txt>Знаки</txt>
+</str>
+<str>
+	<tag>TXT_Simulating_GPS_STR_M</tag>
+	<txt>Моделирование GPS</txt>
+</str>
+<str>
+	<tag>TXT_Skiing_Area_STR</tag>
+	<txt>Лыжная зона</txt>
+</str>
+<str>
+	<tag>TXT_Skiing_Center_Resort_STR</tag>
+	<txt>Лыжный центр/курорт</txt>
+</str>
+<str>
+	<tag>TXT_Slack_Water_STR</tag>
+	<txt>Стоян.отлива</txt>
+</str>
+<str>
+	<tag>TXT_Slips_Moorings_STR_M</tag>
+	<txt>Слипы и стоянки</txt>
+</str>
+<str>
+	<tag>TXT_slips_STR</tag>
+	<txt>причалы</txt>
+</str>
+<str>
+	<tag>TXT_Slope_STR</tag>
+	<txt>Склон</txt>
+</str>
+<str>
+	<tag>TXT_Small_Airport_STR</tag>
+	<txt>Небольшой аэропорт</txt>
+</str>
+<str>
+	<tag>TXT_Small_City_STR</tag>
+	<txt>Небольшой город</txt>
+</str>
+<str>
+	<tag>TXT_Small_Lake_STR</tag>
+	<txt>Небольшое озеро</txt>
+</str>
+<str>
+	<tag>TXT_Small_STR_M</tag>
+	<txt>Маленький</txt>
+</str>
+<str>
+	<tag>TXT_Small_Town_STR</tag>
+	<txt>Поселок</txt>
+</str>
+<str>
+	<tag>TXT_Smart_Car_STR</tag>
+	<txt>Smart Car</txt>
+</str>
+<str>
+	<tag>TXT_snack_STR</tag>
+	<txt>закусочная</txt>
+</str>
+<str>
+	<tag>TXT_Snooze_STR_M</tag>
+	<txt>Отложить</txt>
+</str>
+<str>
+	<tag>TXT_Social_Service_STR</tag>
+	<txt>Социальная служба</txt>
+</str>
+<str>
+	<tag>TXT_Sounding_Possible_Grounding_Risk_STR</tag>
+	<txt>Измерение глубины, риск посадки на мель</txt>
+</str>
+<str>
+	<tag>TXT_Soundings_Displayed_in_STR</tag>
+	<txt>Глубины отображены в</txt>
+</str>
+<str>
+	<tag>TXT_Soundings_Stored_in_STR</tag>
+	<txt>Глубины хранятся в</txt>
+</str>
+<str>
+	<tag>TXT_South_African_Grid_STR_M</tag>
+	<txt>Южноафриканская</txt>
+</str>
+<str>
+	<tag>TXT_South_American_1969_STR</tag>
+	<txt>Южно-американский 1969</txt>
+</str>
+<str>
+	<tag>TXT_South_STR</tag>
+	<txt>Юг</txt>
+</str>
+<str>
+	<tag>TXT_Southeast_STR</tag>
+	<txt>Юго-восток</txt>
+</str>
+<str>
+	<tag>TXT_Southwest_STR</tag>
+	<txt>Юго-запад</txt>
+</str>
+<str>
+	<tag>TXT_Spanish_Mexican_STR</tag>
+	<txt>Испанский/мексиканский</txt>
+</str>
+<str>
+	<tag>TXT_Spar_Buoy_STR</tag>
+	<txt>Столбовидный буй</txt>
+</str>
+<str>
+	<tag>TXT_Special_Purpose_Beacon_STR</tag>
+	<txt>Бакен специального назначения</txt>
+</str>
+<str>
+	<tag>TXT_Special_Purpose_Buoy_STR</tag>
+	<txt>Буй специального назначения</txt>
+</str>
+<str>
+	<tag>TXT_Special_Purpose_Light_STR</tag>
+	<txt>Светящий знак специального назначения</txt>
+</str>
+<str>
+	<tag>TXT_Speciality_Food_Products_STR</tag>
+	<txt>Специальный ассортимент пищевых продуктов</txt>
+</str>
+<str>
+	<tag>TXT_Speciality_Retail_STR</tag>
+	<txt>Специализированный магазин</txt>
+</str>
+<str>
+	<tag>TXT_Speed_Alert__STR</tag>
+	<txt>Предупреждение о скорости:</txt>
+</str>
+<str>
+	<tag>TXT_Speed_Alert_Ahead_STR_X</tag>
+	<txt> Впереди оповещение о скорости</txt>
+</str>
+<str>
+	<tag>TXT_Speed_Alert_STR</tag>
+	<txt>Оповещение о скорости:</txt>
+</str>
+<str>
+	<tag>TXT_Speed_Alert_STR_X</tag>
+	<txt>Предупреждение о скорости:</txt>
+</str>
+<str>
+	<tag>TXT_Speed_Alert_Zone_STR</tag>
+	<txt>Зона оповещения о скорости</txt>
+</str>
+<str>
+	<tag>TXT_Speed_STR_M</tag>
+	<txt>Скорость</txt>
+</str>
+<str>
+	<tag>TXT_SPEED_STR_S</tag>
+	<txt>Скорость</txt>
+</str>
+<str>
+	<tag>TXT_Spell_City__Postal_Code_STR_M</tag>
+	<txt>Ввести город/индекс</txt>
+</str>
+<str>
+	<tag>TXT_Spell_City_STR_M</tag>
+	<txt>Город по буквам</txt>
+</str>
+<str>
+	<tag>TXT_Spell_Country_STR_M</tag>
+	<txt>Страну по буквам</txt>
+</str>
+<str>
+	<tag>TXT_Spell_State_Prov_STR_M</tag>
+	<txt>Регион по буквам</txt>
+</str>
+<str>
+	<tag>TXT_Splash_Screen_STR</tag>
+	<txt>Заставка</txt>
+</str>
+<str>
+	<tag>TXT_Sports_Complex_STR</tag>
+	<txt>Спортивный комплекс</txt>
+</str>
+<str>
+	<tag>TXT_Sports_Fitness_Center_STR</tag>
+	<txt>Спортивный/фитнесс-центр</txt>
+</str>
+<str>
+	<tag>TXT_Spot_Depth_STR</tag>
+	<txt>Глубина точки</txt>
+</str>
+<str>
+	<tag>TXT_Spot_Elevation_STR</tag>
+	<txt>Отметка высоты</txt>
+</str>
+<str>
+	<tag>TXT_Spot_Height_STR</tag>
+	<txt>Высота отлива</txt>
+</str>
+<str>
+	<tag>TXT_Spot_Sounding_STR</tag>
+	<txt>Промер глубины</txt>
+</str>
+<str>
+	<tag>TXT_Spot_Soundings_STR_M</tag>
+	<txt>Промеры глубины</txt>
+</str>
+<str>
+	<tag>TXT_Spring_STR</tag>
+	<txt>Родник</txt>
+</str>
+<str>
+	<tag>TXT_St_Prv_Border_STR</tag>
+	<txt>Граница штата/провинции</txt>
+</str>
+<str>
+	<tag>TXT_Starboard_Hand_Beacon_STR</tag>
+	<txt>Бакен правой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Starboard_Hand_Buoy_STR</tag>
+	<txt>Буй с правой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Starboard_Hand_Light_STR</tag>
+	<txt>Светящий знак правой стороны фарватера</txt>
+</str>
+<str>
+	<tag>TXT_Start_Point_STR</tag>
+	<txt>Начальный пункт</txt>
+</str>
+<str>
+	<tag>TXT_Start_STR_M</tag>
+	<txt>Старт</txt>
+</str>
+<str>
+	<tag>TXT_Starting_Location_STR_M</tag>
+	<txt>Исходный пункт</txt>
+</str>
+<str>
+	<tag>TXT_State_STR</tag>
+	<txt>Штат</txt>
+</str>
+<str>
+	<tag>TXT_Statute_STR_M</tag>
+	<txt>Американские</txt>
+</str>
+<str>
+	<tag>TXT_Stay_On_STR_M</tag>
+	<txt>Оставить вкл.</txt>
+</str>
+<str>
+	<tag>TXT_Stays_On_STR_M</tag>
+	<txt>Всегда включена</txt>
+</str>
+<str>
+	<tag>TXT_Steak_Grill_STR</tag>
+	<txt>Стейк/гриль</txt>
+</str>
+<str>
+	<tag>TXT_Stereograph_Equatorial_STR_M</tag>
+	<txt>Стереогр. экваториальная</txt>
+</str>
+<str>
+	<tag>TXT_Stereograph_N_Pole_STR_M</tag>
+	<txt>Стереогр - Северный полюс</txt>
+</str>
+<str>
+	<tag>TXT_Stereograph_Oblique_STR_M</tag>
+	<txt>Косая стереогр.проекция</txt>
+</str>
+<str>
+	<tag>TXT_Stereograph_S_Pole_STR_M</tag>
+	<txt>Стереогр. - Южный полюс</txt>
+</str>
+<str>
+	<tag>TXT_Stop_Navigation_STR_M</tag>
+	<txt>Остановка навигации</txt>
+</str>
+<str>
+	<tag>TXT_Stop_STR_M</tag>
+	<txt>Стоп</txt>
+</str>
+<str>
+	<tag>TXT_STOP_TMR_STR_S</tag>
+	<txt>Время остан.</txt>
+</str>
+<str>
+	<tag>TXT_Stopwatch_STR_M</tag>
+	<txt>Секундомер</txt>
+</str>
+<str>
+	<tag>TXT_Straight_Territorial_Sea_Baseline_STR</tag>
+	<txt>Прямая базисная линия территориальных вод</txt>
+</str>
+<str>
+	<tag>TXT_Stream_STR</tag>
+	<txt>Поток</txt>
+</str>
+<str>
+	<tag>TXT_Street_Label_STR_M</tag>
+	<txt>Название улицы</txt>
+</str>
+<str>
+	<tag>TXT_Street_STR_S</tag>
+	<txt>Улица</txt>
+</str>
+<str>
+	<tag>TXT_Subdivision_STR</tag>
+	<txt>Подразделение</txt>
+</str>
+<str>
+	<tag>TXT_Submarine_Cable_Area_STR</tag>
+	<txt>Зона подводного кабеля</txt>
+</str>
+<str>
+	<tag>TXT_Submarine_Cable_STR</tag>
+	<txt>Подводный кабель</txt>
+</str>
+<str>
+	<tag>TXT_Submarine_Pipeline_STR</tag>
+	<txt>Подводный трубопровод</txt>
+</str>
+<str>
+	<tag>TXT_Submerged_Construction_STR</tag>
+	<txt>Подводная конструкция</txt>
+</str>
+<str>
+	<tag>TXT_Submerged_Object_STR</tag>
+	<txt>Подводный объект</txt>
+</str>
+<str>
+	<tag>TXT_Submerged_Wreck_Dangerous_STR</tag>
+	<txt>Подводные обломки, опасные для надводного судоходства</txt>
+</str>
+<str>
+	<tag>TXT_Submerged_Wreck_STR</tag>
+	<txt>Подводные обломки</txt>
+</str>
+<str>
+	<tag>TXT_Summit_STR</tag>
+	<txt>Вершина</txt>
+</str>
+<str>
+	<tag>TXT_Sun_and_Moon_STR_M</tag>
+	<txt>Астроном. данные</txt>
+</str>
+<str>
+	<tag>TXT_Sunday_abbr_STR_S</tag>
+	<txt>S</txt>
+</str>
+<str>
+	<tag>TXT_Sunday_STR_M</tag>
+	<txt>Воскр.</txt>
+</str>
+<str>
+	<tag>TXT_Sunrise_At_Point_STR_M</tag>
+	<txt>Восход солнца в точке</txt>
+</str>
+<str>
+	<tag>TXT_SUNRISE_AT_PT_STR_S</tag>
+	<txt>Восход солн.</txt>
+</str>
+<str>
+	<tag>TXT_Sunrise_in_STR_M</tag>
+	<txt>До восх. солнца:</txt>
+</str>
+<str>
+	<tag>TXT_Sunrise_STR_M</tag>
+	<txt>Восход солн.</txt>
+</str>
+<str>
+	<tag>TXT_SUNRISE_STR_S</tag>
+	<txt>Восход солн.</txt>
+</str>
+<str>
+	<tag>TXT_Sunrise_STR_S</tag>
+	<txt>Восход солн.</txt>
+</str>
+<str>
+	<tag>TXT_Sunset_At_Point_STR_M</tag>
+	<txt>Заход солнца в точке</txt>
+</str>
+<str>
+	<tag>TXT_SUNSET_AT_PT_STR_S</tag>
+	<txt>Заход солнца</txt>
+</str>
+<str>
+	<tag>TXT_Sunset_in_STR_M</tag>
+	<txt>До захода солнца:</txt>
+</str>
+<str>
+	<tag>TXT_Sunset_STR_M</tag>
+	<txt>Заход солнца</txt>
+</str>
+<str>
+	<tag>TXT_SUNSET_STR_S</tag>
+	<txt>Заход солнца</txt>
+</str>
+<str>
+	<tag>TXT_Sunset_STR_S</tag>
+	<txt>Заход солнца</txt>
+</str>
+<str>
+	<tag>TXT_Supply_Pipeline_Area_STR</tag>
+	<txt>Зона магистрального трубопровода</txt>
+</str>
+<str>
+	<tag>TXT_Suzuki_Motorcycle_STR</tag>
+	<txt>Мотоциклы Suzuki</txt>
+</str>
+<str>
+	<tag>TXT_SW_STR</tag>
+	<txt>ЮЗ</txt>
+</str>
+<str>
+	<tag>TXT_Swamp_STR</tag>
+	<txt>Болото</txt>
+</str>
+<str>
+	<tag>TXT_Swedish_Grid_STR_M</tag>
+	<txt>Шведская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Swedish_Ref_99_Grid_STR_M</tag>
+	<txt>SWEREF 99 TM</txt>
+</str>
+<str>
+	<tag>TXT_Swept_Area_STR</tag>
+	<txt>Прочерчиваемая площадь</txt>
+</str>
+<str>
+	<tag>TXT_Swimming_Area_STR</tag>
+	<txt>Зона купания</txt>
+</str>
+<str>
+	<tag>TXT_Swimming_Pool_STR</tag>
+	<txt>Бассейн</txt>
+</str>
+<str>
+	<tag>TXT_Swiss_Grid_STR_M</tag>
+	<txt>Швейцарская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Sydney_STR_X</tag>
+	<txt>Сидней</txt>
+</str>
+<str>
+	<tag>TXT_Symbol_Set_STR_M</tag>
+	<txt>Набор символов</txt>
+</str>
+<str>
+	<tag>TXT_Synagogue_STR</tag>
+	<txt>Синагога</txt>
+</str>
+<str>
+	<tag>TXT_System_STR_M</tag>
+	<txt>Система</txt>
+</str>
+<str>
+	<tag>TXT_Taiwan_Grid_STR_M</tag>
+	<txt>Тайваньская сетка</txt>
+</str>
+<str>
+	<tag>TXT_Take_STR_M</tag>
+	<txt>Прими</txt>
+</str>
+<str>
+	<tag>TXT_Tanks_STR</tag>
+	<txt>Водоемы</txt>
+</str>
+<str>
+	<tag>TXT_Tasks_STR_M</tag>
+	<txt>Задачи</txt>
+</str>
+<str>
+	<tag>TXT_Taxi_STR_M</tag>
+	<txt>Такси</txt>
+</str>
+<str>
+	<tag>TXT_TD_Offset_1_STR_S</tag>
+	<txt>Смещение 1</txt>
+</str>
+<str>
+	<tag>TXT_TD_Offset_2_STR_S</tag>
+	<txt>Смещение 2</txt>
+</str>
+<str>
+	<tag>TXT_TD_Station_1_STR_S</tag>
+	<txt>Пункт наблюдения 1</txt>
+</str>
+<str>
+	<tag>TXT_TD_Station_2_STR_S</tag>
+	<txt>Пункт наблюдения 2</txt>
+</str>
+<str>
+	<tag>TXT_Tehran_STR_X</tag>
+	<txt>Тегеран</txt>
+</str>
+<str>
+	<tag>TXT_Telephone_STR</tag>
+	<txt>Телефон</txt>
+</str>
+<str>
+	<tag>TXT_Temperature_STR_M</tag>
+	<txt>Температура воздуха</txt>
+</str>
+<str>
+	<tag>TXT_Temperature_Water_STR_M</tag>
+	<txt>Температура воды</txt>
+</str>
+<str>
+	<tag>TXT_Temperature_Water_STR_S</tag>
+	<txt>Темп-ра воды</txt>
+</str>
+<str>
+	<tag>TXT_Temple_STR</tag>
+	<txt>Храм</txt>
+</str>
+<str>
+	<tag>TXT_tennis_STR</tag>
+	<txt>теннис</txt>
+</str>
+<str>
+	<tag>TXT_Terrain_STR_M</tag>
+	<txt>Местность</txt>
+</str>
+<str>
+	<tag>TXT_Text_Out_STR_M</tag>
+	<txt>Вывод текста</txt>
+</str>
+<str>
+	<tag>TXT_Text_Size_Zoom_Level_STR_M</tag>
+	<txt>Разм. ткст., Ур. прибл.</txt>
+</str>
+<str>
+	<tag>TXT_Text_STR_S</tag>
+	<txt>Размер текста</txt>
+</str>
+<str>
+	<tag>TXT_This_Route_Does_Not_Match_the_Available_Maps__STR_M</tag>
+	<txt>Нет карт для этого маршрута!</txt>
+</str>
+<str>
+	<tag>TXT_This_Route_Has_an_Unknown_Format__STR_M</tag>
+	<txt>Неизвестный формат маршрута!</txt>
+</str>
+<str>
+	<tag>TXT_This_Route_Has_Consecutive_Via_Points__STR_M</tag>
+	<txt>Промежуточные точки идут подряд!</txt>
+</str>
+<str>
+	<tag>TXT_This_Route_Has_Too_Many_Via_Points__STR_M</tag>
+	<txt>Много промежу- точных точек!</txt>
+</str>
+<str>
+	<tag>TXT_Thrifty_Rentals_STR</tag>
+	<txt>Прокат Thrifty</txt>
+</str>
+<str>
+	<tag>TXT_Thursday_abbr_STR_S</tag>
+	<txt>T</txt>
+</str>
+<str>
+	<tag>TXT_Thursday_STR_M</tag>
+	<txt>Четверг</txt>
+</str>
+<str>
+	<tag>TXT_Tide_Prediction_Station_STR</tag>
+	<txt>Станция прогнозирования приливов</txt>
+</str>
+<str>
+	<tag>TXT_Tides_STR_M</tag>
+	<txt>Приливы</txt>
+</str>
+<str>
+	<tag>TXT_Time_Format_STR_S</tag>
+	<txt>Формат времени</txt>
+</str>
+<str>
+	<tag>TXT_Time_of_Day_STR_M</tag>
+	<txt>Время суток</txt>
+</str>
+<str>
+	<tag>TXT_Time_STR_M</tag>
+	<txt>Время</txt>
+</str>
+<str>
+	<tag>TXT_TIME_STR_S</tag>
+	<txt>Время суток</txt>
+</str>
+<str>
+	<tag>TXT_Time_STR_S</tag>
+	<txt>Время суток</txt>
+</str>
+<str>
+	<tag>TXT_Time_Zone_STR_S</tag>
+	<txt>Часовой пояс</txt>
+</str>
+<str>
+	<tag>TXT_Timers_Averages_etc_STR_M</tag>
+	<txt>Время, ср. скор. и т.д.</txt>
+</str>
+<str>
+	<tag>TXT_To_Calibrate__Slowly_Turn_STR_M</tag>
+	<txt>Калибровка компаса: держите горизонтально и медленно поверните в одном направлении на два полных оборота</txt>
+</str>
+<str>
+	<tag>TXT_To_Calibrate_Altimeter__Elevation_STR_M</tag>
+	<txt>Калибровка альтиметра: Вы знаете точную высоту?</txt>
+</str>
+<str>
+	<tag>TXT_To_Calibrate_Altimeter__GPS_STR_M</tag>
+	<txt>Калибровка альтиметра: Вы хотите использовать текущую высоту GPS?</txt>
+</str>
+<str>
+	<tag>TXT_To_Calibrate_Altimeter__Pressure_STR_M</tag>
+	<txt>Калибровка альтиметра: Вы знаете точное давление?</txt>
+</str>
+<str>
+	<tag>TXT_To_Course_STR_M</tag>
+	<txt>По курсу</txt>
+</str>
+<str>
+	<tag>TXT_TO_COURSE_STR_S</tag>
+	<txt>По курсу</txt>
+</str>
+<str>
+	<tag>TXT_To_Factory_Settings_STR_M</tag>
+	<txt>Заводские настройки</txt>
+</str>
+<str>
+	<tag>TXT_to_STR_M</tag>
+	<txt>к</txt>
+</str>
+<str>
+	<tag>TXT_Tokyo_STR_X</tag>
+	<txt>Токио</txt>
+</str>
+<str>
+	<tag>TXT_Toll_Booth_STR</tag>
+	<txt>Пункт оплаты</txt>
+</str>
+<str>
+	<tag>TXT_Toll_Roads_STR_M</tag>
+	<txt>Платные дороги</txt>
+</str>
+<str>
+	<tag>TXT_Toll_Roads_U_Turns_STR_M</tag>
+	<txt>Платн.дор., разворот.</txt>
+</str>
+<str>
+	<tag>TXT_Tones_STR_S</tag>
+	<txt>Звуки</txt>
+</str>
+<str>
+	<tag>TXT_Too_Fast_STR_M</tag>
+	<txt>Слишком быстро</txt>
+</str>
+<str>
+	<tag>TXT_Too_Many_Vias_STR_M</tag>
+	<txt>Для навигации по дороге можно использовать только 50 точек.</txt>
+</str>
+<str>
+	<tag>TXT_Too_Slow_STR_M</tag>
+	<txt>Слишком медленно</txt>
+</str>
+<str>
+	<tag>TXT_Total_Ascent_STR_M</tag>
+	<txt>Подъем - Общий</txt>
+</str>
+<str>
+	<tag>TXT_TOTAL_ASCNT_STR_S</tag>
+	<txt>Общ. подъем</txt>
+</str>
+<str>
+	<tag>TXT_Total_Descent_STR_M</tag>
+	<txt>Спуск - Общий</txt>
+</str>
+<str>
+	<tag>TXT_TOTAL_DSCNT_STR_S</tag>
+	<txt>Общ. спуск</txt>
+</str>
+<str>
+	<tag>TXT_Total_Lap_STR_S</tag>
+	<txt>Всего круг</txt>
+</str>
+<str>
+	<tag>TXT_TourGuide__STR</tag>
+	<txt>TourGuide</txt>
+</str>
+<str>
+	<tag>TXT_TourGuide_STR</tag>
+	<txt>TourGuide</txt>
+</str>
+<str>
+	<tag>TXT_towards_STR_M</tag>
+	<txt>к</txt>
+</str>
+<str>
+	<tag>TXT_Tower_STR</tag>
+	<txt>Башня</txt>
+</str>
+<str>
+	<tag>TXT_Toyota_Dealers_STR</tag>
+	<txt>Дилеры Toyota</txt>
+</str>
+<str>
+	<tag>TXT_Track__Saving_Requirements_STR_M</tag>
+	<txt>Для трека необходимо сохранить по крайней мере две точки.</txt>
+</str>
+<str>
+	<tag>TXT_Track_Already_Exists_STR_M</tag>
+	<txt>Трек уже существует</txt>
+</str>
+<str>
+	<tag>TXT_Track_Archive_Error_STR_M</tag>
+	<txt>Ошибка архивации трека</txt>
+</str>
+<str>
+	<tag>TXT_Track_Log_STR_M</tag>
+	<txt>Путевой журнал</txt>
+</str>
+<str>
+	<tag>TXT_Track_Manager_STR_M</tag>
+	<txt>Менеджер треков</txt>
+</str>
+<str>
+	<tag>TXT_Track_Memory_Full_STR_M</tag>
+	<txt>Память треков полна</txt>
+</str>
+<str>
+	<tag>TXT_Track_STR</tag>
+	<txt>Проселочная дорога</txt>
+</str>
+<str>
+	<tag>TXT_Track_STR_M</tag>
+	<txt>Направление</txt>
+</str>
+<str>
+	<tag>TXT_TRACK_STR_S</tag>
+	<txt>Направление</txt>
+</str>
+<str>
+	<tag>TXT_Track_Truncated_STR_M</tag>
+	<txt>Трек усечен</txt>
+</str>
+<str>
+	<tag>TXT_Track_Up_STR_M</tag>
+	<txt>Направл. по треку</txt>
+</str>
+<str>
+	<tag>TXT_Trackables_STR_M</tag>
+	<txt>Прослеживаемые</txt>
+</str>
+<str>
+	<tag>TXT_Tracking_Sats_STR_M</tag>
+	<txt>Подождите... Отслеживание спутников</txt>
+</str>
+<str>
+	<tag>TXT_Tracks_STR_M</tag>
+	<txt>Треки</txt>
+</str>
+<str>
+	<tag>TXT_Traffic_Separation_Line_STR</tag>
+	<txt>Разделительная линия</txt>
+</str>
+<str>
+	<tag>TXT_Traffic_Separation_Zone_STR</tag>
+	<txt>Зона разделения транспортного потока</txt>
+</str>
+<str>
+	<tag>TXT_Trail_STR</tag>
+	<txt>Траектория пройденного пути</txt>
+</str>
+<str>
+	<tag>TXT_Transfer_Complete_STR_M</tag>
+	<txt>Передача завершена</txt>
+</str>
+<str>
+	<tag>TXT_Transit_Service_STR</tag>
+	<txt>Транзитная служба</txt>
+</str>
+<str>
+	<tag>TXT_Transportation_STR</tag>
+	<txt>Транспорт</txt>
+</str>
+<str>
+	<tag>TXT_Transportation_STR_M</tag>
+	<txt>Транспорт</txt>
+</str>
+<str>
+	<tag>TXT_Travel_Distance__STR</tag>
+	<txt>Расстояние путешествия</txt>
+</str>
+<str>
+	<tag>TXT_Travel_Time__STR</tag>
+	<txt>Время путешествия</txt>
+</str>
+<str>
+	<tag>TXT_Triangulation_Point_STR</tag>
+	<txt>Триангуляционный пункт</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Avg_Speed_Moving_STR_M</tag>
+	<txt>Скорость - Ср. в движ.</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Avg_Speed_Overall_STR_M</tag>
+	<txt>Скорость - Ср.общая</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Computer_STR_M</tag>
+	<txt>Счетчик движения</txt>
+</str>
+<str>
+	<tag>TXT_TRIP_ODOM_STR_S</tag>
+	<txt>Счетчик пути</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Odometer_STR_M</tag>
+	<txt>Счетчик пути</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Timer_Moving_STR_M</tag>
+	<txt>Время в пути - в движ.</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Timer_Stopped_STR_M</tag>
+	<txt>Время в пути - Остановк</txt>
+</str>
+<str>
+	<tag>TXT_Trip_Timer_STR_M</tag>
+	<txt>Время в пути - Общее</txt>
+</str>
+<str>
+	<tag>TXT_TRIP_TMR_STR_S</tag>
+	<txt>Общее время</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Fuel_STR</tag>
+	<txt>Топливо для грузовиков</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Rental_STR</tag>
+	<txt>Прокат грузовиков</txt>
+</str>
+<str>
+	<tag>TXT_Truck_RV_Parking_STR</tag>
+	<txt>Стоянка грузовиков/трейлеров</txt>
+</str>
+<str>
+	<tag>TXT_Truck_RV_STR</tag>
+	<txt>Грузовик/трейлер</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Scales_STR</tag>
+	<txt>Автомобильные весы</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Service_STR</tag>
+	<txt>Обслуживание грузовиков</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Stop_STR</tag>
+	<txt>Остановка грузовиков</txt>
+</str>
+<str>
+	<tag>TXT_Truck_STR_M</tag>
+	<txt>Грузовик</txt>
+</str>
+<str>
+	<tag>TXT_Truck_Wash_STR</tag>
+	<txt>Мойка грузовиков</txt>
+</str>
+<str>
+	<tag>TXT_True_STR_M</tag>
+	<txt>Истина</txt>
+</str>
+<str>
+	<tag>TXT_Tuesday_abbr_STR_S</tag>
+	<txt>T</txt>
+</str>
+<str>
+	<tag>TXT_Tuesday_STR_M</tag>
+	<txt>Вторник</txt>
+</str>
+<str>
+	<tag>TXT_Tundra_STR</tag>
+	<txt>Тундра</txt>
+</str>
+<str>
+	<tag>TXT_Tunnel_STR</tag>
+	<txt>Туннель</txt>
+</str>
+<str>
+	<tag>TXT_Turn_Alarm_Off_STR_M</tag>
+	<txt>Выключите сигнал</txt>
+</str>
+<str>
+	<tag>TXT_Turn_Alarm_On_STR_M</tag>
+	<txt>Включить сигнал</txt>
+</str>
+<str>
+	<tag>TXT_Turn_Demo_Mode_On_STR_M</tag>
+	<txt>Демо-режим</txt>
+</str>
+<str>
+	<tag>TXT_turn_gps_on_msg_STR_M</tag>
+	<txt>GPS выключено. Включить GPS и начать навигацию или перейти в демо- режим для моделирования навигации?</txt>
+</str>
+<str>
+	<tag>TXT_Turn_GPS_On_STR_M</tag>
+	<txt>Включить GPS</txt>
+</str>
+<str>
+	<tag>TXT_Turn_left_STR_M</tag>
+	<txt>Налево</txt>
+</str>
+<str>
+	<tag>TXT_Turn_normal_STR_M</tag>
+	<txt>Поворот</txt>
+</str>
+<str>
+	<tag>TXT_Turn_Off_STR_M</tag>
+	<txt>Выключить</txt>
+</str>
+<str>
+	<tag>TXT_Turn_right_STR_M</tag>
+	<txt>Направо</txt>
+</str>
+<str>
+	<tag>TXT_Turn_sharp_left_STR_M</tag>
+	<txt>Круто влево</txt>
+</str>
+<str>
+	<tag>TXT_Turn_sharp_right_STR_M</tag>
+	<txt>Круто вправо</txt>
+</str>
+<str>
+	<tag>TXT_Turn_Slowly_STR_M</tag>
+	<txt>Медленно вращайте...</txt>
+</str>
+<str>
+	<tag>TXT_Turn_STR_M</tag>
+	<txt>Поворот</txt>
+</str>
+<str>
+	<tag>TXT_TURN_STR_S</tag>
+	<txt>Поворот</txt>
+</str>
+<str>
+	<tag>TXT_Two_way_track_STR</tag>
+	<txt>Двусторонний путь</txt>
+</str>
+<str>
+	<tag>TXT_U_Turns_STR_M</tag>
+	<txt>Развороты</txt>
+</str>
+<str>
+	<tag>TXT_Ultra_Quick_STR</tag>
+	<txt>Ультрабыстрый</txt>
+</str>
+<str>
+	<tag>TXT_Unable_To_Display_Image_STR_M</tag>
+	<txt>Картинку не показать</txt>
+</str>
+<str>
+	<tag>TXT_Unattempted_STR_M</tag>
+	<txt>Не было попыток</txt>
+</str>
+<str>
+	<tag>TXT_Unclassified_Obstruction_STR</tag>
+	<txt>Неклассифицированное препятствие</txt>
+</str>
+<str>
+	<tag>TXT_Underwater_Rock_STR</tag>
+	<txt>Подводная скала</txt>
+</str>
+<str>
+	<tag>TXT_Unit_ID_STR_M</tag>
+	<txt>Идентификатор прибора</txt>
+</str>
+<str>
+	<tag>TXT_Units_STR_M</tag>
+	<txt>Единицы</txt>
+</str>
+<str>
+	<tag>TXT_University_College_STR</tag>
+	<txt>Университет/колледж</txt>
+</str>
+<str>
+	<tag>TXT_Unknown_Depth__Dangerous_for_Navigation_STR</tag>
+	<txt>Глубина неизвестна, опасно для навигации</txt>
+</str>
+<str>
+	<tag>TXT_Unknown_Depth__Safe_for_Navigation_STR</tag>
+	<txt>Глубина неизвестна, безопасно для навигации</txt>
+</str>
+<str>
+	<tag>TXT_Unknown_STR</tag>
+	<txt>Неизвестно</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Black_STR</tag>
+	<txt>Несветящее навигационное средство, черное</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Green_STR</tag>
+	<txt>Несветящее навигационное средство, зеленое</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Multi_Colored_STR</tag>
+	<txt>Несветящее навигационное средство, многоцветное</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Orange_STR</tag>
+	<txt>Несветящее навигационное средство, оранжевое</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Red_STR</tag>
+	<txt>Несветящее навигационное средство, красное</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_STR</tag>
+	<txt>Несветящее навигационное средство</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Unknown_Color_STR</tag>
+	<txt>Несветящее навигационное средство, неизвестного цвета</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_White_STR</tag>
+	<txt>Несветящее навигационное средство, белое</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_Navaid_Yellow_STR</tag>
+	<txt>Несветящее навигационное средство, желтое</txt>
+</str>
+<str>
+	<tag>TXT_Unlit_STR</tag>
+	<txt>Неосвещенный</txt>
+</str>
+<str>
+	<tag>TXT_Unlock_STR_M</tag>
+	<txt>Разблок-ть</txt>
+</str>
+<str>
+	<tag>TXT_Unnamed__STR</tag>
+	<txt>Безымянный</txt>
+</str>
+<str>
+	<tag>TXT_Unpaved_Road_STR</tag>
+	<txt>Дорога без покрытия</txt>
+</str>
+<str>
+	<tag>TXT_Unpaved_Roads_STR_M</tag>
+	<txt>Дороги без покрытия</txt>
+</str>
+<str>
+	<tag>TXT_Updating_GPS_Firmware_STR_M</tag>
+	<txt>Обновление прошивки GPS:</txt>
+</str>
+<str>
+	<tag>TXT_Updating_Maps_STR_M</tag>
+	<txt>Обновление карт</txt>
+</str>
+<str>
+	<tag>TXT_US_Alaska_STR_X</tag>
+	<txt>США - Аляска</txt>
+</str>
+<str>
+	<tag>TXT_US_Arizona_STR_X</tag>
+	<txt>США - Аризона</txt>
+</str>
+<str>
+	<tag>TXT_US_Atlantic_STR_X</tag>
+	<txt>США - Атлантика</txt>
+</str>
+<str>
+	<tag>TXT_US_Central_STR_X</tag>
+	<txt>США - Центр</txt>
+</str>
+<str>
+	<tag>TXT_US_Eastern_STR_X</tag>
+	<txt>США - Восток</txt>
+</str>
+<str>
+	<tag>TXT_US_Hawaii_STR_X</tag>
+	<txt>США - Гавайи</txt>
+</str>
+<str>
+	<tag>TXT_US_Mountain_STR_X</tag>
+	<txt>США - Горы</txt>
+</str>
+<str>
+	<tag>TXT_US_Pacific_STR_X</tag>
+	<txt>США - Тихий океан</txt>
+</str>
+<str>
+	<tag>TXT_USB_Connected_Wrong_Port_STR_M</tag>
+	<txt>USB-кабель был подключен не к тому порту.</txt>
+</str>
+<str>
+	<tag>TXT_USB_Mode_Prompt_STR_M</tag>
+	<txt>Обнаружен USB-кабель.
+
+Подключить навигатор как USB-диск?</txt>
+</str>
+<str>
+	<tag>TXT_Use_RR_End_STR_M</tag>
+	<txt>Изменение - Rock 'n Roller. Для выбора нажмите ENTER.</txt>
+</str>
+<str>
+	<tag>TXT_Use_RR_Start_STR_M</tag>
+	<txt>Изменение - Rock 'n Roller. Для выбора нажмите ENTER.</txt>
+</str>
+<str>
+	<tag>TXT_Use_STR_M</tag>
+	<txt>ОК</txt>
+</str>
+<str>
+	<tag>TXT_User_Grid_STR_M</tag>
+	<txt>Сетка пользователя</txt>
+</str>
+<str>
+	<tag>TXT_User_STR_M</tag>
+	<txt>Пользователь</txt>
+</str>
+<str>
+	<tag>TXT_User_Waypoints_STR_M</tag>
+	<txt>Маршрут. точки (GPX)</txt>
+</str>
+<str>
+	<tag>TXT_USNG_STR_M</tag>
+	<txt>Нац. сетка США</txt>
+</str>
+<str>
+	<tag>TXT_Utility_STR</tag>
+	<txt>Средства обеспечения</txt>
+</str>
+<str>
+	<tag>TXT_UTM_STR_M</tag>
+	<txt>UTM</txt>
+</str>
+<str>
+	<tag>TXT_UTM_UPS_STR_M</tag>
+	<txt>UTM/UPS</txt>
+</str>
+<str>
+	<tag>TXT_Validating_Update_STR_M</tag>
+	<txt>Проверка обновления</txt>
+</str>
+<str>
+	<tag>TXT_Valley_STR</tag>
+	<txt>Долина</txt>
+</str>
+<str>
+	<tag>TXT_Variable_Elevation_STR_M</tag>
+	<txt>Переменная высота</txt>
+</str>
+<str>
+	<tag>TXT_Vertical_Double_Lights__STR</tag>
+	<txt>Вертикальные двойные огни:</txt>
+</str>
+<str>
+	<tag>TXT_Vertical_Speed_Dest_STR_M</tag>
+	<txt>Верт.скор. до п. назн.</txt>
+</str>
+<str>
+	<tag>TXT_VERTICAL_SPEED_DEST_STR_S</tag>
+	<txt>Верт.ск.д/ПН</txt>
+</str>
+<str>
+	<tag>TXT_Vertical_Speed_STR_M</tag>
+	<txt>Вертикальная скорость</txt>
+</str>
+<str>
+	<tag>TXT_Very_Quick_STR</tag>
+	<txt>Очень быстрый</txt>
+</str>
+<str>
+	<tag>TXT_Veterinarian_STR</tag>
+	<txt>Ветеринар</txt>
+</str>
+<str>
+	<tag>TXT_VHF_BAND_TYPE_AMERICAN_STR</tag>
+	<txt>США</txt>
+</str>
+<str>
+	<tag>TXT_VHF_BAND_TYPE_CANADIAN_STR</tag>
+	<txt>КАНАДА</txt>
+</str>
+<str>
+	<tag>TXT_VHF_BAND_TYPE_INTERNATIONAL_STR</tag>
+	<txt>МЕЖД</txt>
+</str>
+<str>
+	<tag>TXT_Via_Point_STR_M</tag>
+	<txt>Промежуточная точка:</txt>
+</str>
+<str>
+	<tag>TXT_Victory_Dealers_STR</tag>
+	<txt>Дилеры Victory</txt>
+</str>
+<str>
+	<tag>TXT_View_Map_STR_M</tag>
+	<txt>Просмотр карты</txt>
+</str>
+<str>
+	<tag>TXT_Violet_STR</tag>
+	<txt>Фиолетовый</txt>
+</str>
+<str>
+	<tag>TXT_VISA_STR</tag>
+	<txt>VISA</txt>
+</str>
+<str>
+	<tag>TXT_Visible_STR</tag>
+	<txt>Видимый</txt>
+</str>
+<str>
+	<tag>TXT_Visible_Wreck_STR</tag>
+	<txt>Видимые обломки</txt>
+</str>
+<str>
+	<tag>TXT_Vladivostok_STR_X</tag>
+	<txt>Владивосток</txt>
+</str>
+<str>
+	<tag>TXT_VMG_STR_M</tag>
+	<txt>Скорость сближения</txt>
+</str>
+<str>
+	<tag>TXT_VMG_STR_S</tag>
+	<txt>Ск-сть сближ.</txt>
+</str>
+<str>
+	<tag>TXT_Volvo_Dealers_STR</tag>
+	<txt>Дилеры Volvo</txt>
+</str>
+<str>
+	<tag>TXT_VS_STR_S</tag>
+	<txt>Верт.скорость</txt>
+</str>
+<str>
+	<tag>TXT_W_Malayan_RSO_STR_M</tag>
+	<txt>Западно-Малайск.RSO</txt>
+</str>
+<str>
+	<tag>TXT_W_STR</tag>
+	<txt>З</txt>
+</str>
+<str>
+	<tag>TXT_WAAS_STR_S</tag>
+	<txt>WAAS</txt>
+</str>
+<str>
+	<tag>TXT_WARNING_Do_not_remove_batteries_while_this_feature_is_active_STR_M</tag>
+	<txt>ВНИМАНИЕ: Не извлекайте элементы питания при работе данной функции.</txt>
+</str>
+<str>
+	<tag>TXT_WARNING_Enabling_GPS_Status_or_Waypoint_Route_STR_T</tag>
+	<txt>Включение проверки состояния GPS или сообщений о Маршруте/Маршру тных точках может привести к задержке вывода информации свыше 2 секунд.</txt>
+</str>
+<str>
+	<tag>TXT_Water_Coverage_STR</tag>
+	<txt>Водный контур</txt>
+</str>
+<str>
+	<tag>TXT_Water_Electric_Hookup_STR</tag>
+	<txt>Вода/Электричество</txt>
+</str>
+<str>
+	<tag>TXT_Water_Feature_STR</tag>
+	<txt>Элемент гидрографии</txt>
+</str>
+<str>
+	<tag>TXT_Water_Features_STR</tag>
+	<txt>Элементы гидрографии</txt>
+</str>
+<str>
+	<tag>TXT_water_STR</tag>
+	<txt>вода</txt>
+</str>
+<str>
+	<tag>TXT_Water_STR_M</tag>
+	<txt>Вода</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Already_Exists_STR_M</tag>
+	<txt>Маршрутная точка уже существует</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Destination_STR_M</tag>
+	<txt>Марш.точка п. назн.</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_IDs_STR_S</tag>
+	<txt>ID марш. точек</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Manager_STR_M</tag>
+	<txt>Менеджер маршр.тчк.</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Memory_Full_STR_M</tag>
+	<txt>Память маршрутных точек переполнена</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Next_STR_M</tag>
+	<txt>Марш.точка в следующ.</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Position_Updated_STR_M</tag>
+	<txt>Позиция маршрутной точки обновлена до текущего расположения</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Route_WPL_RTE_STR_M</tag>
+	<txt>МТ/Маршр. (WPL, RTE)</txt>
+</str>
+<str>
+	<tag>TXT_Waypoint_Symbol_STR</tag>
+	<txt>Символ маршрутной точки</txt>
+</str>
+<str>
+	<tag>TXT_Waypoints_STR_M</tag>
+	<txt>Маршрутн. точки</txt>
+</str>
+<str>
+	<tag>TXT_Wednesday_abbr_STR_S</tag>
+	<txt>W</txt>
+</str>
+<str>
+	<tag>TXT_Wednesday_STR_M</tag>
+	<txt>Среда</txt>
+</str>
+<str>
+	<tag>TXT_Weigh_Station_STR</tag>
+	<txt>Станция взвешивания</txt>
+</str>
+<str>
+	<tag>TXT_Welcome_Center_STR</tag>
+	<txt>Справочное бюро</txt>
+</str>
+<str>
+	<tag>TXT_Well_STR</tag>
+	<txt>Колодец/скважина</txt>
+</str>
+<str>
+	<tag>TXT_West_STR</tag>
+	<txt>Запад</txt>
+</str>
+<str>
+	<tag>TXT_Wetland_STR</tag>
+	<txt>Заболоченная территория</txt>
+</str>
+<str>
+	<tag>TXT_WGS_60_STR</tag>
+	<txt>WGS-60</txt>
+</str>
+<str>
+	<tag>TXT_WGS_66_STR</tag>
+	<txt>WGS-66</txt>
+</str>
+<str>
+	<tag>TXT_WGS_72_STR</tag>
+	<txt>WGS-72</txt>
+</str>
+<str>
+	<tag>TXT_WGS_84_Lat_Delta_STR</tag>
+	<txt>Дельта широты WGS-84:</txt>
+</str>
+<str>
+	<tag>TXT_WGS_84_Lon_Delta_STR</tag>
+	<txt>Дельта долготы WGS-84:</txt>
+</str>
+<str>
+	<tag>TXT_WGS_84_STR</tag>
+	<txt>WGS-84</txt>
+</str>
+<str>
+	<tag>TXT_When_finished_press_calculate_STR_M</tag>
+	<txt>После завершения нажмите Вычислить для обзора территории, которую вы обошли</txt>
+</str>
+<str>
+	<tag>TXT_When_Navigating_STR_M</tag>
+	<txt>При навигации</txt>
+</str>
+<str>
+	<tag>TXT_When_possible_make_a_U_turn_STR_M</tag>
+	<txt>Где можно, сделай разворот</txt>
+</str>
+<str>
+	<tag>TXT_Wherigo_Website_text_STR_M</tag>
+	<txt>Для получения доп. сведений: http://www.wherigo.com</txt>
+</str>
+<str>
+	<tag>TXT_Which_Sensor_Would_You_Like_To_Calibrate__STR_M</tag>
+	<txt>Какой датчик нужно калибровать?</txt>
+</str>
+<str>
+	<tag>TXT_White_Black_STR</tag>
+	<txt>Белый-Черный</txt>
+</str>
+<str>
+	<tag>TXT_White_Black_White_STR</tag>
+	<txt>Белый-Черный-Белый</txt>
+</str>
+<str>
+	<tag>TXT_White_Green_STR</tag>
+	<txt>Белый-Зеленый</txt>
+</str>
+<str>
+	<tag>TXT_White_Green_White_STR</tag>
+	<txt>Белый-Зеленый-Белый</txt>
+</str>
+<str>
+	<tag>TXT_White_Orange_STR</tag>
+	<txt>Белый-Оранжевый</txt>
+</str>
+<str>
+	<tag>TXT_White_Red_STR</tag>
+	<txt>Белый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_White_Red_White_STR</tag>
+	<txt>Белый-Красный-Белый</txt>
+</str>
+<str>
+	<tag>TXT_White_STR</tag>
+	<txt>Белый</txt>
+</str>
+<str>
+	<tag>TXT_Windhoek_STR_X</tag>
+	<txt>Виндхук</txt>
+</str>
+<str>
+	<tag>TXT_Winery_STR</tag>
+	<txt>Винный завод</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Mode_Question_STR_M</tag>
+	<txt>Отпр. и получ. данные по беспроводному каналу</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Complete_STR_M</tag>
+	<txt>беспроводная передача завершена!</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Connection_Lost_STR_M</tag>
+	<txt>Беспроводное соединение потеряно. Попытка восстановления соединения.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Listening_STR_M</tag>
+	<txt>Поиск устройства для передачи данных.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Receiver_Error_STR_M</tag>
+	<txt>Ошибка принимающего устройства. Передача отменена.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Receiving_STR_M</tag>
+	<txt>Подключено! Получение данных с другого устройства.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Searching_STR_M</tag>
+	<txt>Соединение с другим устройством.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Sender_Error_STR_M</tag>
+	<txt>Ошибка передающего устройства. Передача отменена.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Sending_STR_M</tag>
+	<txt>Отправка данных на другое устройство.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Unknown_Error_STR_M</tag>
+	<txt>Ошибка при передаче данных. Передача отменена.</txt>
+</str>
+<str>
+	<tag>TXT_Wireless_Transfer_Unsupported_Type_Error_STR_M</tag>
+	<txt>Тип данных не поддер- живается принимающим устройством. Передача отменена.</txt>
+</str>
+<str>
+	<tag>TXT_Woods_STR</tag>
+	<txt>Лес</txt>
+</str>
+<str>
+	<tag>TXT_Working_Channel__STR</tag>
+	<txt>Рабочий канал:</txt>
+</str>
+<str>
+	<tag>TXT_Would_you_like_to_erase_STR_M</tag>
+	<txt>Удалить игру</txt>
+</str>
+<str>
+	<tag>TXT_Would_you_like_to_save_your_game_STR_M</tag>
+	<txt>Хотите сохранить вашу игру?</txt>
+</str>
+<str>
+	<tag>TXT_WPT_DEST_STR_S</tag>
+	<txt>Символ</txt>
+</str>
+<str>
+	<tag>TXT_WPT_NEXT_STR_S</tag>
+	<txt>След. точка</txt>
+</str>
+<str>
+	<tag>TXT_Wreck_Cleared_by_Wire_Drag_STR</tag>
+	<txt>Препятствие, удаленное тралом</txt>
+</str>
+<str>
+	<tag>TXT_Wreck_STR</tag>
+	<txt>Обломки</txt>
+</str>
+<str>
+	<tag>TXT_Wrecker_Service_STR</tag>
+	<txt>Техпомощь</txt>
+</str>
+<str>
+	<tag>TXT_Wrecks_Obstructions_STR</tag>
+	<txt>Обломки/Препятствия</txt>
+</str>
+<str>
+	<tag>TXT_Wrecks_STR_M</tag>
+	<txt>Обломки</txt>
+</str>
+<str>
+	<tag>TXT_Writing_All_GPX_Data_STR_M</tag>
+	<txt>Сохранение всех маршрутных точек, маршрутов и данных путевого журнала в формате GPX:</txt>
+</str>
+<str>
+	<tag>TXT_XM_Not_Supported_On_Port_STR_M</tag>
+	<txt>XM приемник был подключен не к тому переходнику.</txt>
+</str>
+<str>
+	<tag>TXT_XM_Not_Supported_STR_M</tag>
+	<txt>XM приемник не поддерживается.</txt>
+</str>
+<str>
+	<tag>TXT_XX_XX_2_digits_STR_M</tag>
+	<txt>MM.MM' (2 цифры)</txt>
+</str>
+<str>
+	<tag>TXT_XX_XXX_3_digits_STR_M</tag>
+	<txt>MM.MMM' (3 цифры)</txt>
+</str>
+<str>
+	<tag>TXT_XX_XXXX_4_digits_STR_M</tag>
+	<txt>MM.MMMM' (4 цифры)</txt>
+</str>
+<str>
+	<tag>TXT_Yacht_Harbor_STR</tag>
+	<txt>Яхтенная гавань</txt>
+</str>
+<str>
+	<tag>TXT_yards_STR_M</tag>
+	<txt>ярды</txt>
+</str>
+<str>
+	<tag>TXT_Yards_STR_M</tag>
+	<txt>ярды</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_Black_STR</tag>
+	<txt>Желтый-Черный</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_Black_Yellow_STR</tag>
+	<txt>Желтый-Черный-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_Red_STR</tag>
+	<txt>Желтый-Красный</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_Red_Yellow_STR</tag>
+	<txt>Желтый-Красный-Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_STR</tag>
+	<txt>Желтый</txt>
+</str>
+<str>
+	<tag>TXT_Yellow_White_STR</tag>
+	<txt>Желтый-Белый</txt>
+</str>
+<str>
+	<tag>TXT_Yes_STR_M</tag>
+	<txt>Да</txt>
+</str>
+<str>
+	<tag>TXT_You_See_STR_M</tag>
+	<txt>Указаны</txt>
+</str>
+<str>
+	<tag>TXT_Zones_STR_M</tag>
+	<txt>Местополож</txt>
+</str>
+<str>
+	<tag>TXT_Zoo_Aquarium_STR</tag>
+	<txt>Зоопарк/Аквариум</txt>
+</str>
+<str>
+	<tag>TXT_Zoom_Levels_STR_M</tag>
+	<txt>Масштаб подписей</txt>
+</str>
+    <str>
+        <tag>TXT_All_Statuses_STR_M</tag>
+        <txt>Все статусы</txt>
+    </str>
+    <str>
+        <tag>TXT_All_Types_STR_M</tag>
+        <txt>Все типы</txt>
+    </str>
+    <str>
+        <tag>TXT_Apply_Filter_STR_M</tag>
+        <txt>Применить фильтр</txt>
+    </str>
+    <str>
+        <tag>TXT_Auto_Archive_Tracks_STR_S</tag>
+        <txt>треки из автоархива</txt>
+    </str>
+    <str>
+        <tag>TXT_CITO_Event_STR_M</tag>
+        <txt>Событие CITO</txt>
+    </str>
+    <str>
+        <tag>TXT_Change_Coordinates_STR_M</tag>
+        <txt>Изменить координаты</txt>
+    </str>
+    <str>
+        <tag>TXT_Change_Message_STR_M</tag>
+        <txt>Изменить сообщение</txt>
+    </str>
+    <str>
+        <tag>TXT_Chirp_Battery_STR_XS</tag>
+        <txt>Батарея chirp</txt>
+    </str>
+    <str>
+        <tag>TXT_Chirp_Connection_Lost_STR_M</tag>
+        <txt>chirp отключен!</txt>
+    </str>
+    <str>
+        <tag>TXT_Chirp_Data_Transfer_Fail_STR_M</tag>
+        <txt>Ошибка передачи данных chirp.</txt>
+    </str>
+    <str>
+        <tag>TXT_Chirp_Device_Not_Programmed_STR_M</tag>
+        <txt>Данные на этом chirp очищены. Запрограммировать его?</txt>
+    </str>
+    <str>
+        <tag>TXT_Chirp_Searching_STR_M</tag>
+        <txt>Поиск chirp</txt>
+    </str>
+    <str>
+        <tag>TXT_Connected_Sending_Data_To_Chirp_STR_M</tag>
+        <txt>Подключено! Отправка данных на chirp...</txt>
+    </str>
+    <str>
+        <tag>TXT_Create_Filter_STR_M</tag>
+        <txt>Создать фильтр</txt>
+    </str>
+    <str>
+        <tag>TXT_Critical_STR_XS</tag>
+        <txt>Разряжена</txt>
+    </str>
+    <str>
+        <tag>TXT_Do_you_really_want_to_erase_all_data_from_this_chirp_device_STR_M</tag>
+        <txt>Очистить все данные на этом chirp?</txt>
+    </str>
+    <str>
+        <tag>TXT_EarthCache_STR_M</tag>
+        <txt>Географический</txt>
+    </str>
+    <str>
+        <tag>TXT_Edit_Filter_STR_M</tag>
+        <txt>Изменить фильтр</txt>
+    </str>
+    <str>
+        <tag>TXT_Edit_STR_M</tag>
+        <txt>Изменить</txt>
+    </str>
+    <str>
+        <tag>TXT_Enter_Next_Stage_STR_M</tag>
+        <txt>Ввести след. этап</txt>
+    </str>
+    <str>
+        <tag>TXT_Enter_Owners_Unit_ID_STR_M</tag>
+        <txt>Ввести PIN</txt>
+    </str>
+    <str>
+        <tag>TXT_Erase_STR_M</tag>
+        <txt>Очистить</txt>
+    </str>
+    <str>
+        <tag>TXT_Erasing_Chirp_Please_Wait_STR_M</tag>
+        <txt>Очистка данных chirp...</txt>
+    </str>
+    <str>
+        <tag>TXT_Event_STR_M</tag>
+        <txt>Событие</txt>
+    </str>
+    <str>
+        <tag>TXT_Filter_AutoName_STR_M</tag>
+        <txt>Фильтр</txt>
+    </str>
+    <str>
+        <tag>TXT_Filter_Setup_STR_M</tag>
+        <txt>Настройка фильтра</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Beacon_Config_Fail_STR_M</tag>
+        <txt>Ошибка программирования chirp.</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Beacon_Heard_No_Name_STR_M</tag>
+        <txt>Обнаружен chirp! Получение данных...</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Beacon_Heard_STR_M</tag>
+        <txt>Обнаружен chirp! Получение данных из</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Beacon_Not_Found_STR_M</tag>
+        <txt>chirp не найден.</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Beacon_Transfer_Complete_STR_M</tag>
+        <txt>Передача данных chirp завершена!</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Chirp_Searching_On_STR_M</tag>
+        <txt>Поиск chirp включен.</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Coords_Too_Close_STR_M</tag>
+        <txt>Текущие координаты слишком близко к следующим</txt>
+    </str>
+    <str>
+        <tag>TXT_GC_Pin_Entry_Fail_STR_M</tag>
+        <txt>Введенный ID устройства не совпадает с ID устройства владельца</txt>
+    </str>
+    <str>
+        <tag>TXT_Geocache_Dashboard_Detected_STR_M</tag>
+        <txt>chirp: обнаружен</txt>
+    </str>
+    <str>
+        <tag>TXT_Geocache_Dashboard_Searching_STR_M</tag>
+        <txt>chirp: поиск</txt>
+    </str>
+    <str>
+        <tag>TXT_Geocache_STR_M</tag>
+        <txt>Тайник</txt>
+    </str>
+    <str>
+        <tag>TXT_Last_Visit_STR_XS</tag>
+        <txt>Последний визит</txt>
+    </str>
+    <str>
+        <tag>TXT_Letterbox_STR_M</tag>
+        <txt>Почтовый ящик</txt>
+    </str>
+    <str>
+        <tag>TXT_Low_STR_XS</tag>
+        <txt>Низкий заряд</txt>
+    </str>
+    <str>
+        <tag>TXT_Manual_Entry_STR_M</tag>
+        <txt>Ввод вручную</txt>
+    </str>
+    <str>
+        <tag>TXT_Max_Difficulty_STR_S</tag>
+        <txt>Макс. сложность</txt>
+    </str>
+    <str>
+        <tag>TXT_Max_Terrain_STR_S</tag>
+        <txt>Макс. территория</txt>
+    </str>
+    <str>
+        <tag>TXT_Mega_Event_STR_M</tag>
+        <txt>Мегасобытие</txt>
+    </str>
+    <str>
+        <tag>TXT_Micro_STR_M</tag>
+        <txt>Микро</txt>
+    </str>
+    <str>
+        <tag>TXT_Min_Difficulty_STR_S</tag>
+        <txt>Мин. сложность</txt>
+    </str>
+    <str>
+        <tag>TXT_Min_Terrain_STR_S</tag>
+        <txt>Мин. территория</txt>
+    </str>
+    <str>
+        <tag>TXT_Move_Wpt_Butn_STR_M</tag>
+        <txt>Переместить</txt>
+    </str>
+    <str>
+        <tag>TXT_Move_Wpt_STR_M</tag>
+        <txt>Переместить точку</txt>
+    </str>
+    <str>
+        <tag>TXT_Multi_STR_M</tag>
+        <txt>Мульти</txt>
+    </str>
+    <str>
+        <tag>TXT_Never_STR_XS</tag>
+        <txt>Никогда</txt>
+    </str>
+    <str>
+        <tag>TXT_Next_Stage_STR_M</tag>
+        <txt>Следующий этап</txt>
+    </str>
+    <str>
+        <tag>TXT_No_Geocaches_Found_Help_Text_STR_M</tag>
+        <txt>Тайников не найдено</txt>
+    </str>
+    <str>
+        <tag>TXT_No_Geocaches_Widgit_STR_M</tag>
+        <txt>Нет тайников</txt>
+    </str>
+    <str>
+        <tag>TXT_Not_Chosen_STR_M</tag>
+        <txt>Не выбрано</txt>
+    </str>
+    <str>
+        <tag>TXT_Off_Road_Info_STR_XS</tag>
+        <txt>Напрямик - сведения</txt>
+    </str>
+    <str>
+        <tag>TXT_Off_Road_STR_L</tag>
+        <txt>Напрямик</txt>
+    </str>
+    <str>
+        <tag>TXT_Other_STR_M</tag>
+        <txt>Другое</txt>
+    </str>
+    <str>
+        <tag>TXT_Program_Chirp_STR_M</tag>
+        <txt>Запрограммировать chirp</txt>
+    </str>
+    <str>
+        <tag>TXT_Puzzle_STR_M</tag>
+        <txt>Головоломка</txt>
+    </str>
+    <str>
+        <tag>TXT_Quick_Filter_STR_M</tag>
+        <txt>Быстрый фильтр</txt>
+    </str>
+    <str>
+        <tag>TXT_Regular_STR_M</tag>
+        <txt>Стандартный</txt>
+    </str>
+    <str>
+        <tag>TXT_Select_Source_For_Next_Stage_STR_M</tag>
+        <txt>Выберите источник координат для следующего этапа</txt>
+    </str>
+    <str>
+        <tag>TXT_Send_Geocache_STR_M</tag>
+        <txt>Отправить тайник</txt>
+    </str>
+    <str>
+        <tag>TXT_Send_Waypoint_STR_M</tag>
+        <txt>Отправить маршрутную точку</txt>
+    </str>
+    <str>
+        <tag>TXT_Serial_Number_STR_XS</tag>
+        <txt>Серийный №</txt>
+    </str>
+    <str>
+        <tag>TXT_Size_STR_M</tag>
+        <txt>Размер</txt>
+    </str>
+    <str>
+        <tag>TXT_Status_STR_S</tag>
+        <txt>Статус</txt>
+    </str>
+    <str>
+        <tag>TXT_This_Chirp_Contains_No_Data_STR_XS</tag>
+        <txt>Нет информации.</txt>
+    </str>
+    <str>
+        <tag>TXT_Total_Visits_STR_XS</tag>
+        <txt>Всего посещений</txt>
+    </str>
+    <str>
+        <tag>TXT_Traditional_STR_M</tag>
+        <txt>Традиционный</txt>
+    </str>
+    <str>
+        <tag>TXT_Type_STR_M</tag>
+        <txt>Тип</txt>
+    </str>
+    <str>
+        <tag>TXT_Type_STR_S</tag>
+        <txt>Тип</txt>
+    </str>
+    <str>
+        <tag>TXT_View_Chirp_Details_STR_M</tag>
+        <txt>Показать сведения о chirp</txt>
+    </str>
+    <str>
+        <tag>TXT_Virtual_STR_M</tag>
+        <txt>Виртуальный</txt>
+    </str>
+    <str>
+        <tag>TXT_Waypoint_STR_M</tag>
+        <txt>Маршрутная точка</txt>
+    </str>
+    <str>
+        <tag>TXT_WebCam_STR_M</tag>
+        <txt>Веб-камера</txt>
+    </str>
+    <str>
+        <tag>TXT_Your_Unit_ID_Does_Not_Match_STR_M</tag>
+        <txt>Введите PIN: последние 5 цифр ID устройства владельца chirp</txt>
+    </str>
+    <str>
+        <tag>TXT_last_find_STR_M</tag>
+        <txt>последний найденный:</txt>
+    </str>
+    <str>
+        <tag>TXT_Shaded_Relief_STR_M</tag>
+        <txt>Показывать рельеф</txt>
+    </str>
+    <str>
+        <tag>TXT_Do_not_show_STR_M</tag>
+        <txt>Не показывать</txt>
+    </str>
+    <str>
+        <tag>TXT_Show_if_Available_STR_M</tag>
+        <txt>Если доступен</txt>
+    </str>
+    <str>
+        <tag>TXT_Enable_STR_M</tag>
+        <txt>Включить</txt>
+    </str>
+    <str>
+        <tag>TXT_Disable_STR_M</tag>
+        <txt>Отключить</txt>
+    </str>
+    <str>
+        <tag>TXT_Enabled_STR_M</tag>
+        <txt>Вкл.</txt>
+    </str>
+    <str>
+        <tag>TXT_Disabled_STR_M</tag>
+        <txt>Откл.</txt>
+    </str>
+    <str>
+        <tag>TXT_Dashboard_STR_M</tag>
+        <txt>Контрольная панель</txt>
+    </str>
+    <str>
+        <tag>TXT_Stopwatch_STR</tag>
+        <txt>Секундомер</txt>
+    </str>
+    <str>
+        <tag>TXT_Сustom_STR_L</tag>
+        <txt>настройка</txt>
+    </str>
+    <str>
+        <tag>TXT_When_Not_Navigating_STR_M</tag>
+        <txt>Без навигации</txt>
+    </str>
+    <str>
+        <tag>TXT_Elevation_Plot_STR_M</tag>
+        <txt>График высот</txt>
+    </str>
+    <str>
+        <tag>TXT_Man_Overboard_STR_M</tag>
+        <txt>Человек за бортом</txt>
+    </str>
+    <str>
+        <tag>TXT_Waypoint_Averaging_STR_M</tag>
+        <txt>Усредн. марш. тчк</txt>
+    </str>
+    <str>
+        <tag>TXT_Copy_Reversed_STR_M</tag>
+        <txt>Копия и развернуть</txt>
+    </str>
+    <str>
+        <tag>TXT_Save_Portion_STR_M</tag>
+        <txt>Сохранить часть трека</txt>
+    </str>
+    <str>
+        <tag>TXT_Screen_Calibration_STR_M</tag>
+        <txt>Калибровка экрана</txt>
+    </str>
+    <str>
+        <tag>TXT_Battery_Save_Help_Text_STR_M</tag>
+        <txt>Энергосбережение после выключения подсветки</txt>
+    </str>
+    <str>
+        <tag>TXT_Battery_Save_STR_M</tag>
+        <txt>Энергосбережение</txt>
+    </str>
+</gtt>
