@@ -1051,7 +1051,7 @@
 </str>
 <str>
 	<tag>TXT_Calculate_Routes_for_STR_S</tag>
-	<txt>Вычислить маршруты:</txt>
+	<txt>Тип транспорта:</txt>
 </str>
 <str>
 	<tag>TXT_Calculate_STR_M</tag>
@@ -3813,7 +3813,7 @@
 </str>
 <str>
 	<tag>TXT_Marine_Alarm_Setup_STR_M</tag>
-	<txt>Настр.мор.сигн.тревг.</txt>
+	<txt>Сигналы тревоги</txt>
 </str>
 <str>
 	<tag>TXT_Marine_Buoy_STR</tag>
@@ -3833,7 +3833,7 @@
 </str>
 <str>
 	<tag>TXT_Marine_Profile_STR_M</tag>
-	<txt>Морская</txt>
+	<txt>Морская карта</txt>
 </str>
 <str>
 	<tag>TXT_Marine_Service_STR</tag>
@@ -3849,7 +3849,7 @@
 </str>
 <str>
 	<tag>TXT_Marine_STR_M</tag>
-	<txt>Морская</txt>
+	<txt>Морская карта</txt>
 </str>
 <str>
 	<tag>TXT_Marine_Supplies_STR</tag>
@@ -4025,7 +4025,7 @@
 </str>
 <str>
 	<tag>TXT_miles_STR_M</tag>
-	<txt>Мили</txt>
+	<txt>мили</txt>
 </str>
 <str>
 	<tag>TXT_Military_Base_STR</tag>
@@ -4093,15 +4093,15 @@
 </str>
 <str>
 	<tag>TXT_Modified_Airy_STR</tag>
-	<txt>Измененный Эри</txt>
+	<txt>Изменённый Эри</txt>
 </str>
 <str>
 	<tag>TXT_Modified_Everest_STR</tag>
-	<txt>Измененный Эвереста</txt>
+	<txt>Изменённый Эвереста</txt>
 </str>
 <str>
 	<tag>TXT_Modified_Fischer_1960_STR</tag>
-	<txt>Измененный Фишера 1960</txt>
+	<txt>Изменённый Фишера 1960</txt>
 </str>
 <str>
 	<tag>TXT_Monday_abbr_STR_S</tag>
@@ -4185,7 +4185,7 @@
 </str>
 <str>
 	<tag>TXT_Multiple_CAD__STR_S</tag>
-	<txt>Несколько датчиков темпа</txt>
+	<txt>Несколько датчиков каденса</txt>
 </str>
 <str>
 	<tag>TXT_Multiple_HR__STR_S</tag>
@@ -5737,11 +5737,11 @@
 </str>
 <str>
 	<tag>TXT_Select_Mode_For_Cadence_Sensor_STR_M</tag>
-	<txt>Выбрать режим датчика такта</txt>
+	<txt>Выбрать режим датчика каденса</txt>
 </str>
 <str>
 	<tag>TXT_Select_Mode_For_Heart_Rate_Monitor_STR_M</tag>
-	<txt>Выбрать реж.для мони-тора част. сердцебиений</txt>
+	<txt>Выбрать режим для монитора ЧСС</txt>
 </str>
 <str>
 	<tag>TXT_Select_Next_Point_STR_M</tag>
@@ -5781,7 +5781,7 @@
 </str>
 <str>
 	<tag>TXT_Select_Track_Log_Zoom_Level_STR_M</tag>
-	<txt>Выбрать уровень масш-таб. для путевого журн.</txt>
+	<txt>Выбрать уровень масштаба для трека</txt>
 </str>
 <str>
 	<tag>TXT_Select_Track_Recording_Preference_STR_M</tag>
@@ -7890,6 +7890,10 @@
         <txt>Человек за бортом</txt>
     </str>
     <str>
+        <tag>TXT_MAN_OVERBOARD_message1_STR_M</tag>
+        <txt>Человек за бортом: точка отмечена «MOB», начать навигацию?</txt>
+    </str>
+    <str>
         <tag>TXT_Waypoint_Averaging_STR_M</tag>
         <txt>Усредн. марш. тчк</txt>
     </str>
@@ -7916,5 +7920,17 @@
     <str>
         <tag>TXT_Color_STR_M</tag>
         <txt>Цвет</txt>
+    </str>
+    <str>
+        <tag>TXT_Marine_Mode_STR_M</tag>
+        <txt>Морской режим</txt>
+    </str>
+    <str>
+        <tag>TXT_Nautical_STR_M</tag>
+        <txt>Научный</txt>
+    </str>
+    <str>
+        <tag>TXT_Fishing_STR_M</tag>
+        <txt>Рыболовный</txt>
     </str>
 </gtt>
