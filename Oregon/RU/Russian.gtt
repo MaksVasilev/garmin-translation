@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <gtt xmlns="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1 http://www.garmin.com/xmlschemas/GarminTextTranslationv1.xsd" >
 <hdr>
-	<lang>Русский2</lang>
-	<desc>Русский2</desc>
+	<lang>Русский</lang>
+	<desc>Русский</desc>
 	<type>Primary</type>
 	<sort>0</sort>
 	<cpage>65001</cpage>
-	<pnum>006-D1146-99</pnum>
-	<ver>9.20</ver>
+	<pnum>006-D1146-17</pnum>
+	<ver>2.90</ver>
 </hdr>
 <str>
 	<tag>TXT_LANG_ID_STR_M</tag>
-	<txt>Русский (правильный)</txt>
+	<txt>Русский</txt>
 </str>
 <str>
 	<tag>TXT_12_Hour_STR_M</tag>
