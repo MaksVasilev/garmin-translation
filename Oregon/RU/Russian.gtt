@@ -2665,11 +2665,11 @@
 </str>
 <str>
 	<tag>TXT_Go_STR_L</tag>
-	<txt>^</txt>
+	<txt>Старт</txt>
 </str>
 <str>
 	<tag>TXT_Go_STR_M</tag>
-	<txt>^</txt>
+	<txt>Старт</txt>
 </str>
 <str>
 	<tag>TXT_Golf_Course_STR</tag>
@@ -7115,7 +7115,7 @@
 </str>
 <str>
 	<tag>TXT_View_Map_STR_M</tag>
-	<txt>Просмотр трека</txt>
+	<txt>Посмотреть на карте</txt>
 </str>
 <str>
 	<tag>TXT_Violet_STR</tag>
@@ -8018,6 +8018,14 @@
         <tag>TXT_Screenshot_Instructions_STR_M</tag>
         <txt>Для снимка экрана нажмите кнопку питания.
 Снимки сохраняются в Garmin/scrn</txt>
+    </str>
+    <str>
+        <tag>TXT_Distance_STR_XS</tag>
+        <txt>Расстояние</txt>
+    </str>
+    <str>
+        <tag>TXT_Location_STR_XS</tag>
+        <txt>Координаты</txt>
     </str>
 </gtt>
 
