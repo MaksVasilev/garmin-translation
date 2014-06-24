@@ -8010,4 +8010,14 @@
         <tag>TXT_Save_Projected_Waypoint_Message_STR_M</tag>
         <txt>Цель на марш. точке</txt>
     </str>
+    <str>
+        <tag>TXT_Move_to_Location_STR_M</tag>
+        <txt>Переместиться</txt>
+    </str>
+    <str>
+        <tag>TXT_Screenshot_Instructions_STR_M</tag>
+        <txt>Для снимка экрана нажмите кнопку питания.
+Снимки сохраняются в Garmin/scrn</txt>
+    </str>
 </gtt>
+
