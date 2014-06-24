@@ -3457,11 +3457,11 @@
 </str>
 <str>
 	<tag>TXT_LCTN_Alt_STR_S</tag>
-	<txt>Местонахожд.</txt>
+	<txt>Координаты</txt>
 </str>
 <str>
 	<tag>TXT_LCTN_STR_S</tag>
-	<txt>Местонахожд.</txt>
+	<txt>Координаты</txt>
 </str>
 <str>
 	<tag>TXT_Leading_Angle__STR</tag>
@@ -8026,6 +8026,10 @@
     <str>
         <tag>TXT_Location_STR_XS</tag>
         <txt>Координаты</txt>
+    </str>
+    <str>
+        <tag>TXT_Save_as_Waypoint_Confirm_Message_STR_M</tag>
+        <txt>Местоположение сохранено как маршрутная точка</txt>
     </str>
 </gtt>
 
